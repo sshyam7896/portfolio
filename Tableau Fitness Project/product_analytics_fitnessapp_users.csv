@@ -1,0 +1,2201 @@
+user_id,signup_date,country,device,acquisition_channel,engagement_segment,engagement_propensity,first_week_sessions,used_workout_plan_first_month,converted_subscriber,plan_type,revenue_usd
+U00001,2025-08-17,US,Web,Organic Search,Casual,0.316,12,1,1,Monthly,9.99
+U00002,2025-12-21,US,iOS,Paid Search,Casual,0.182,5,0,1,Monthly,9.99
+U00003,2025-11-29,IN,iOS,Organic Search,Casual,0.148,2,1,0,Free,0.0
+U00004,2025-10-20,IN,Web,Paid Search,Regular,0.55,15,1,1,Monthly,7.99
+U00005,2025-10-19,US,Android,Influencer,Casual,0.424,14,1,1,Monthly,9.99
+U00006,2026-01-05,IN,iOS,Paid Social,Casual,0.326,7,0,0,Free,0.0
+U00007,2025-08-16,US,iOS,Organic Search,Casual,0.217,15,1,0,Free,0.0
+U00008,2025-12-07,US,iOS,Paid Social,Casual,0.275,8,1,0,Free,0.0
+U00009,2025-09-07,DE,Android,Referral,Casual,0.294,11,1,0,Free,0.0
+U00010,2025-08-18,US,iOS,Paid Search,Regular,0.468,10,1,0,Free,0.0
+U00011,2025-11-05,US,Web,Organic Search,Casual,0.332,7,1,0,Free,0.0
+U00012,2026-01-27,US,Web,Paid Search,Regular,0.54,13,1,0,Free,0.0
+U00013,2025-12-14,CA,Android,Paid Social,Casual,0.245,6,1,0,Free,0.0
+U00014,2025-12-19,DE,Android,Paid Social,Casual,0.251,6,1,0,Free,0.0
+U00015,2025-12-11,DE,iOS,Organic Search,Casual,0.319,6,1,0,Free,0.0
+U00016,2025-12-23,US,iOS,App Store Browse,Casual,0.205,10,1,1,Monthly,9.99
+U00017,2025-11-03,US,Android,Organic Search,Casual,0.148,10,1,0,Free,0.0
+U00018,2025-08-24,IN,iOS,Organic Search,Regular,0.569,10,1,0,Free,0.0
+U00019,2026-01-02,US,iOS,Organic Search,Regular,0.427,10,1,0,Free,0.0
+U00020,2025-10-22,AU,iOS,Paid Search,Casual,0.232,10,1,1,Monthly,9.99
+U00021,2025-11-01,UK,iOS,Paid Social,Casual,0.321,15,1,0,Free,0.0
+U00022,2025-10-08,US,iOS,Organic Search,Regular,0.585,19,1,1,Monthly,9.99
+U00023,2025-09-03,IN,Android,Paid Social,Casual,0.313,13,1,1,Monthly,7.99
+U00024,2026-01-18,US,Android,Paid Search,Casual,0.287,9,1,1,Monthly,7.99
+U00025,2025-12-22,US,Android,Paid Social,Regular,0.695,17,1,0,Free,0.0
+U00026,2025-11-27,CA,Android,App Store Browse,Casual,0.215,6,1,0,Free,0.0
+U00027,2025-10-14,US,iOS,Paid Social,Casual,0.274,8,1,0,Free,0.0
+U00028,2025-12-30,UK,Android,Organic Search,Casual,0.224,4,1,0,Free,0.0
+U00029,2025-11-09,UK,Android,App Store Browse,Casual,0.307,13,1,1,Monthly,9.99
+U00030,2025-10-21,DE,iOS,Influencer,Casual,0.246,11,1,1,Monthly,7.99
+U00031,2025-10-22,DE,Web,Paid Social,Regular,0.653,11,1,0,Free,0.0
+U00032,2025-09-11,US,iOS,Influencer,Casual,0.218,6,1,0,Free,0.0
+U00033,2025-08-17,US,iOS,Paid Search,Casual,0.334,8,1,1,Monthly,9.99
+U00034,2025-11-11,UK,iOS,Paid Social,Casual,0.286,6,0,0,Free,0.0
+U00035,2026-01-11,DE,iOS,Influencer,Regular,0.548,10,1,0,Free,0.0
+U00036,2025-08-12,US,iOS,Referral,Casual,0.283,7,0,1,Monthly,7.99
+U00037,2026-01-05,US,Android,Paid Social,Regular,0.566,11,1,0,Free,0.0
+U00038,2025-12-31,US,Android,Paid Search,Casual,0.271,11,1,0,Free,0.0
+U00039,2025-09-20,US,iOS,Paid Social,Casual,0.238,9,1,0,Free,0.0
+U00040,2025-11-25,UK,Android,Organic Search,Casual,0.208,9,1,1,Monthly,9.99
+U00041,2025-08-31,US,iOS,App Store Browse,Casual,0.23,5,0,0,Free,0.0
+U00042,2025-12-18,IN,Android,Paid Search,Casual,0.149,8,1,0,Free,0.0
+U00043,2025-12-07,IN,iOS,Paid Search,Regular,0.601,12,1,0,Free,0.0
+U00044,2025-10-05,IN,iOS,Paid Search,Regular,0.476,14,1,0,Free,0.0
+U00045,2025-08-13,US,Android,Paid Search,Regular,0.537,14,1,0,Free,0.0
+U00046,2026-01-26,US,Android,Paid Social,Casual,0.289,12,1,0,Free,0.0
+U00047,2025-10-22,IN,Android,App Store Browse,Casual,0.3,11,1,0,Free,0.0
+U00048,2026-01-12,IN,Android,Paid Search,Regular,0.444,7,1,1,Monthly,9.99
+U00049,2025-12-03,US,Android,Paid Search,Casual,0.244,9,1,0,Free,0.0
+U00050,2025-12-22,AU,iOS,Paid Social,Regular,0.578,17,1,0,Free,0.0
+U00051,2025-12-18,US,iOS,Paid Social,Regular,0.553,9,1,0,Free,0.0
+U00052,2025-09-05,AU,iOS,Organic Search,Casual,0.331,6,1,0,Free,0.0
+U00053,2025-10-06,US,iOS,Paid Social,Regular,0.501,10,1,0,Free,0.0
+U00054,2025-10-25,US,iOS,Organic Search,Regular,0.427,7,0,0,Free,0.0
+U00055,2025-10-31,US,Android,Paid Search,Casual,0.299,4,1,0,Free,0.0
+U00056,2025-08-09,US,iOS,Influencer,Regular,0.518,15,0,0,Free,0.0
+U00057,2025-11-09,US,Android,Paid Social,Casual,0.144,5,1,1,Monthly,7.99
+U00058,2025-08-29,US,Android,Paid Social,Casual,0.24,13,1,1,Monthly,7.99
+U00059,2025-12-15,US,Android,Paid Search,Casual,0.324,13,1,0,Free,0.0
+U00060,2025-12-04,IN,Android,Organic Search,Casual,0.174,8,0,0,Free,0.0
+U00061,2026-01-17,US,iOS,App Store Browse,Casual,0.39,6,1,0,Free,0.0
+U00062,2025-12-16,UK,iOS,Paid Social,Power,0.75,12,1,0,Free,0.0
+U00063,2025-10-07,IN,Android,Organic Search,Casual,0.255,5,1,0,Free,0.0
+U00064,2026-01-26,US,Android,Organic Search,Casual,0.177,3,1,0,Free,0.0
+U00065,2025-10-15,US,iOS,App Store Browse,Regular,0.552,14,1,0,Free,0.0
+U00066,2025-09-29,AU,iOS,Organic Search,Casual,0.242,5,1,1,Monthly,7.99
+U00067,2026-01-14,IN,Android,Paid Search,Regular,0.461,9,1,0,Free,0.0
+U00068,2025-10-08,US,Android,Organic Search,Casual,0.42,12,1,1,Monthly,9.99
+U00069,2025-08-15,IN,iOS,Organic Search,Power,0.77,14,1,0,Free,0.0
+U00070,2025-10-26,US,iOS,Influencer,Regular,0.52,11,1,0,Free,0.0
+U00071,2025-12-25,US,Android,Organic Search,Casual,0.308,10,1,0,Free,0.0
+U00072,2025-09-04,IN,iOS,Organic Search,Casual,0.359,11,1,0,Free,0.0
+U00073,2025-10-25,US,Android,Paid Search,Casual,0.318,4,1,0,Free,0.0
+U00074,2025-08-24,IN,iOS,Influencer,Power,0.728,15,1,0,Free,0.0
+U00075,2025-12-05,US,Android,Paid Social,Regular,0.563,12,1,0,Free,0.0
+U00076,2025-10-27,IN,iOS,Organic Search,Casual,0.137,13,1,1,Monthly,7.99
+U00077,2025-09-30,US,iOS,App Store Browse,Casual,0.304,11,1,0,Free,0.0
+U00078,2025-09-11,US,Web,Paid Search,Regular,0.452,10,1,0,Free,0.0
+U00079,2025-11-12,US,iOS,Influencer,Casual,0.202,1,0,0,Free,0.0
+U00080,2025-12-02,US,Web,Referral,Regular,0.55,16,1,0,Free,0.0
+U00081,2026-01-21,IN,iOS,Referral,Regular,0.577,13,1,0,Free,0.0
+U00082,2025-10-20,US,Android,Paid Social,Casual,0.234,10,1,0,Free,0.0
+U00083,2025-08-30,US,Web,Paid Social,Casual,0.341,4,1,0,Free,0.0
+U00084,2026-01-01,US,Android,Referral,Casual,0.293,11,1,0,Free,0.0
+U00085,2025-11-24,US,iOS,Referral,Casual,0.289,15,1,0,Free,0.0
+U00086,2025-12-07,IN,Android,App Store Browse,Power,0.726,15,1,1,Monthly,12.99
+U00087,2025-08-18,US,Android,Paid Search,Regular,0.652,14,1,0,Free,0.0
+U00088,2025-09-27,DE,Web,Paid Social,Regular,0.502,9,1,0,Free,0.0
+U00089,2025-12-20,US,iOS,Paid Social,Casual,0.354,13,1,1,Monthly,7.99
+U00090,2026-01-01,UK,iOS,Paid Search,Casual,0.371,7,1,1,Monthly,9.99
+U00091,2025-10-20,US,iOS,Paid Social,Regular,0.581,13,1,0,Free,0.0
+U00092,2025-12-27,US,Android,Referral,Casual,0.312,12,1,1,Monthly,7.99
+U00093,2026-01-02,AU,Web,Paid Search,Casual,0.065,2,0,0,Free,0.0
+U00094,2025-10-11,DE,iOS,Organic Search,Casual,0.238,6,0,0,Free,0.0
+U00095,2026-01-13,AU,Android,Paid Search,Regular,0.616,15,1,0,Free,0.0
+U00096,2025-09-23,US,Web,Paid Search,Regular,0.605,12,1,0,Free,0.0
+U00097,2025-09-14,US,iOS,App Store Browse,Casual,0.177,8,1,1,Monthly,9.99
+U00098,2025-12-04,UK,iOS,Paid Social,Regular,0.532,19,1,0,Free,0.0
+U00099,2025-11-26,US,Android,Paid Search,Casual,0.098,5,0,0,Free,0.0
+U00100,2025-08-26,IN,Android,Paid Social,Casual,0.275,9,1,0,Free,0.0
+U00101,2026-01-01,CA,iOS,Paid Search,Casual,0.137,7,0,0,Free,0.0
+U00102,2025-09-06,CA,Android,Organic Search,Regular,0.618,13,1,0,Free,0.0
+U00103,2025-12-27,IN,Android,Influencer,Casual,0.321,9,1,0,Free,0.0
+U00104,2025-08-02,UK,Web,App Store Browse,Casual,0.222,13,0,0,Free,0.0
+U00105,2025-12-25,US,Android,Paid Search,Casual,0.281,2,0,0,Free,0.0
+U00106,2025-12-23,US,Android,Paid Search,Regular,0.537,14,1,0,Free,0.0
+U00107,2025-12-22,CA,Android,Organic Search,Regular,0.565,12,1,0,Free,0.0
+U00108,2025-12-01,US,iOS,Paid Search,Casual,0.181,7,1,0,Free,0.0
+U00109,2025-10-26,US,Android,Paid Social,Power,0.837,20,1,0,Free,0.0
+U00110,2025-12-08,US,iOS,Referral,Casual,0.152,8,1,0,Free,0.0
+U00111,2025-09-20,IN,Android,Organic Search,Casual,0.14,7,1,1,Monthly,7.99
+U00112,2025-12-22,IN,iOS,Referral,Casual,0.243,4,1,0,Free,0.0
+U00113,2025-11-11,CA,Android,Paid Social,Regular,0.537,15,1,1,Monthly,9.99
+U00114,2025-10-24,US,iOS,Paid Search,Casual,0.266,9,1,0,Free,0.0
+U00115,2025-11-02,US,iOS,Paid Search,Casual,0.211,9,1,0,Free,0.0
+U00116,2025-11-13,US,iOS,Organic Search,Casual,0.363,7,1,0,Free,0.0
+U00117,2025-08-07,US,Android,Paid Social,Casual,0.26,11,1,1,Monthly,12.99
+U00118,2025-08-26,CA,Android,Influencer,Regular,0.564,19,1,0,Free,0.0
+U00119,2025-09-15,UK,iOS,Paid Search,Power,0.812,16,1,0,Free,0.0
+U00120,2025-08-22,US,Android,Organic Search,Casual,0.31,8,1,0,Free,0.0
+U00121,2025-10-20,US,Android,Paid Social,Regular,0.585,10,0,0,Free,0.0
+U00122,2025-12-01,US,iOS,Paid Social,Casual,0.277,5,1,0,Free,0.0
+U00123,2025-11-29,AU,Android,Paid Search,Casual,0.294,12,1,0,Free,0.0
+U00124,2025-10-26,UK,iOS,Paid Search,Casual,0.141,6,0,0,Free,0.0
+U00125,2026-01-05,US,iOS,Organic Search,Power,0.693,20,1,0,Free,0.0
+U00126,2025-11-13,AU,Android,Paid Search,Casual,0.245,8,1,0,Free,0.0
+U00127,2025-08-15,US,iOS,Referral,Regular,0.538,18,1,0,Free,0.0
+U00128,2025-12-19,US,Android,Referral,Casual,0.285,6,1,0,Free,0.0
+U00129,2025-11-14,DE,Web,Organic Search,Regular,0.551,12,1,0,Free,0.0
+U00130,2025-11-25,US,Android,Paid Social,Casual,0.285,11,1,0,Free,0.0
+U00131,2025-11-13,US,Android,Paid Social,Power,0.725,10,1,0,Free,0.0
+U00132,2025-11-10,CA,Android,Organic Search,Regular,0.549,9,1,0,Free,0.0
+U00133,2025-08-17,US,Web,Paid Social,Casual,0.17,11,1,0,Free,0.0
+U00134,2025-11-11,UK,iOS,Organic Search,Regular,0.573,13,1,0,Free,0.0
+U00135,2025-12-25,US,iOS,Organic Search,Casual,0.137,6,1,0,Free,0.0
+U00136,2025-09-25,US,Android,Paid Search,Casual,0.271,8,0,0,Free,0.0
+U00137,2025-11-19,US,iOS,Organic Search,Casual,0.162,4,0,0,Free,0.0
+U00138,2025-08-06,US,iOS,Referral,Regular,0.527,15,1,0,Free,0.0
+U00139,2025-10-03,US,iOS,Organic Search,Regular,0.604,17,1,0,Free,0.0
+U00140,2025-10-20,US,Android,Paid Search,Casual,0.264,9,1,0,Free,0.0
+U00141,2026-01-28,AU,iOS,Paid Social,Regular,0.451,14,1,0,Free,0.0
+U00142,2025-09-09,US,iOS,Referral,Casual,0.21,6,1,0,Free,0.0
+U00143,2025-09-20,US,iOS,Referral,Casual,0.16,3,1,0,Free,0.0
+U00144,2025-10-15,US,iOS,Paid Social,Casual,0.148,3,0,0,Free,0.0
+U00145,2026-01-30,US,Android,Paid Search,Casual,0.257,14,1,0,Free,0.0
+U00146,2026-01-05,US,iOS,Organic Search,Casual,0.284,7,1,1,Monthly,9.99
+U00147,2025-08-07,CA,Android,Paid Search,Casual,0.276,8,1,0,Free,0.0
+U00148,2025-09-13,US,Android,Organic Search,Casual,0.286,15,1,1,Monthly,7.99
+U00149,2025-12-30,AU,iOS,Paid Social,Casual,0.249,9,1,1,Monthly,12.99
+U00150,2025-08-11,AU,Android,Organic Search,Regular,0.534,14,1,0,Free,0.0
+U00151,2026-01-05,US,Android,Influencer,Casual,0.186,6,1,1,Monthly,9.99
+U00152,2025-09-21,US,Android,Paid Social,Regular,0.524,16,1,0,Free,0.0
+U00153,2026-01-16,US,iOS,Paid Search,Casual,0.171,7,1,0,Free,0.0
+U00154,2025-09-24,CA,iOS,Paid Social,Casual,0.199,4,1,0,Free,0.0
+U00155,2025-10-19,US,Web,Paid Social,Casual,0.255,8,1,0,Free,0.0
+U00156,2025-11-30,AU,Android,Organic Search,Regular,0.543,17,1,0,Free,0.0
+U00157,2025-08-24,IN,Web,App Store Browse,Casual,0.434,8,0,0,Free,0.0
+U00158,2025-11-11,IN,Web,Referral,Casual,0.169,10,1,0,Free,0.0
+U00159,2025-11-01,US,iOS,Organic Search,Regular,0.542,17,1,0,Free,0.0
+U00160,2025-12-23,DE,Android,Referral,Regular,0.465,14,1,1,Monthly,7.99
+U00161,2026-01-31,US,iOS,Paid Social,Casual,0.227,16,1,0,Free,0.0
+U00162,2025-12-01,US,Android,Organic Search,Casual,0.229,6,1,0,Free,0.0
+U00163,2025-10-15,US,iOS,Paid Search,Casual,0.301,7,0,0,Free,0.0
+U00164,2025-10-14,DE,iOS,Organic Search,Casual,0.223,7,1,1,Monthly,7.99
+U00165,2025-10-16,CA,Android,Organic Search,Regular,0.539,13,1,0,Free,0.0
+U00166,2025-12-28,IN,Android,Referral,Casual,0.224,8,1,1,Monthly,7.99
+U00167,2025-09-29,US,Android,Organic Search,Casual,0.166,2,0,1,Monthly,12.99
+U00168,2025-08-31,DE,iOS,Influencer,Casual,0.211,3,1,0,Free,0.0
+U00169,2025-10-01,US,iOS,Paid Search,Casual,0.227,10,1,0,Free,0.0
+U00170,2025-08-05,US,Web,Influencer,Regular,0.554,20,1,0,Free,0.0
+U00171,2025-08-20,DE,iOS,Paid Search,Casual,0.284,11,1,1,Monthly,7.99
+U00172,2025-08-17,US,iOS,Influencer,Casual,0.236,6,1,0,Free,0.0
+U00173,2025-12-20,US,Android,Paid Social,Casual,0.235,7,1,0,Free,0.0
+U00174,2025-12-11,CA,iOS,Paid Search,Casual,0.147,3,0,0,Free,0.0
+U00175,2025-12-07,US,Android,Paid Search,Casual,0.282,7,1,0,Free,0.0
+U00176,2025-10-24,US,iOS,App Store Browse,Casual,0.208,7,1,0,Free,0.0
+U00177,2025-12-10,US,Android,Organic Search,Regular,0.595,28,1,0,Free,0.0
+U00178,2025-08-30,US,Web,Paid Search,Regular,0.629,18,1,0,Free,0.0
+U00179,2026-01-13,AU,Web,Referral,Power,0.789,16,1,1,Monthly,9.99
+U00180,2025-11-01,CA,Android,Paid Social,Power,0.739,12,1,0,Free,0.0
+U00181,2026-01-20,US,iOS,Influencer,Casual,0.249,4,1,0,Free,0.0
+U00182,2025-08-29,US,Android,Paid Social,Casual,0.271,9,1,1,Monthly,12.99
+U00183,2025-10-31,US,Android,Organic Search,Casual,0.231,9,1,0,Free,0.0
+U00184,2025-12-07,UK,Android,Paid Search,Regular,0.516,14,1,1,Monthly,7.99
+U00185,2025-10-31,AU,Android,Paid Social,Casual,0.284,8,1,0,Free,0.0
+U00186,2025-10-22,DE,Android,Organic Search,Casual,0.28,1,0,0,Free,0.0
+U00187,2025-08-31,US,Android,Organic Search,Casual,0.229,5,1,0,Free,0.0
+U00188,2025-10-10,US,Android,Organic Search,Casual,0.151,9,1,0,Free,0.0
+U00189,2025-09-13,US,iOS,Referral,Regular,0.577,18,1,1,Monthly,7.99
+U00190,2025-09-25,CA,Android,Influencer,Regular,0.504,15,1,0,Free,0.0
+U00191,2025-12-04,US,Android,Paid Search,Casual,0.263,14,1,0,Free,0.0
+U00192,2025-11-24,UK,iOS,Organic Search,Regular,0.559,14,1,0,Free,0.0
+U00193,2025-11-20,CA,Android,Paid Search,Casual,0.137,6,1,0,Free,0.0
+U00194,2025-10-06,US,Android,Influencer,Casual,0.255,6,1,0,Free,0.0
+U00195,2026-01-24,US,iOS,Referral,Casual,0.281,3,1,0,Free,0.0
+U00196,2025-08-17,US,Android,Paid Social,Regular,0.588,21,1,1,Monthly,9.99
+U00197,2025-10-03,US,Android,Organic Search,Casual,0.257,8,1,0,Free,0.0
+U00198,2025-08-22,US,Android,App Store Browse,Casual,0.131,8,1,0,Free,0.0
+U00199,2025-10-02,UK,iOS,Influencer,Power,0.877,13,1,0,Free,0.0
+U00200,2026-01-24,US,Android,Organic Search,Casual,0.275,13,1,0,Free,0.0
+U00201,2025-10-07,US,iOS,Influencer,Casual,0.178,8,1,0,Free,0.0
+U00202,2026-01-15,CA,Android,Organic Search,Regular,0.503,16,1,0,Free,0.0
+U00203,2025-10-31,IN,iOS,Organic Search,Power,0.814,18,1,1,Monthly,7.99
+U00204,2025-12-07,US,Android,Referral,Regular,0.591,22,1,0,Free,0.0
+U00205,2025-10-24,IN,Android,Paid Search,Power,0.771,17,1,0,Free,0.0
+U00206,2025-09-18,AU,Android,Paid Social,Casual,0.3,8,1,0,Free,0.0
+U00207,2025-12-19,CA,Android,App Store Browse,Casual,0.142,7,1,0,Free,0.0
+U00208,2026-01-26,UK,Android,Influencer,Regular,0.487,27,1,1,Monthly,12.99
+U00209,2025-09-18,US,Android,Organic Search,Casual,0.126,3,0,0,Free,0.0
+U00210,2025-12-22,DE,iOS,Paid Search,Casual,0.196,8,1,0,Free,0.0
+U00211,2025-09-18,US,Web,Referral,Power,0.89,13,1,0,Free,0.0
+U00212,2025-12-10,AU,Android,Paid Search,Casual,0.373,15,1,1,Monthly,9.99
+U00213,2025-12-24,CA,Web,App Store Browse,Casual,0.264,6,1,0,Free,0.0
+U00214,2025-10-22,US,Web,Referral,Regular,0.512,12,1,0,Free,0.0
+U00215,2025-12-14,US,Web,Organic Search,Regular,0.537,13,1,0,Free,0.0
+U00216,2025-09-20,UK,Android,Organic Search,Power,0.828,17,1,0,Free,0.0
+U00217,2025-08-15,CA,Android,Influencer,Regular,0.456,15,1,0,Free,0.0
+U00218,2025-08-18,US,iOS,App Store Browse,Casual,0.216,10,1,1,Monthly,7.99
+U00219,2025-10-22,IN,Android,Organic Search,Power,0.886,20,1,1,Monthly,7.99
+U00220,2026-01-14,AU,Android,Organic Search,Casual,0.187,5,1,0,Free,0.0
+U00221,2025-08-24,US,Android,Referral,Regular,0.505,5,1,0,Free,0.0
+U00222,2025-10-23,US,Android,Organic Search,Casual,0.251,13,1,0,Free,0.0
+U00223,2025-12-08,US,iOS,Organic Search,Regular,0.567,12,1,0,Free,0.0
+U00224,2025-09-07,IN,iOS,Influencer,Casual,0.212,8,0,1,Monthly,7.99
+U00225,2025-12-11,US,Android,Influencer,Regular,0.555,13,1,0,Free,0.0
+U00226,2025-09-26,AU,iOS,Influencer,Casual,0.286,8,1,1,Monthly,9.99
+U00227,2025-12-27,US,iOS,Paid Search,Casual,0.368,8,1,0,Free,0.0
+U00228,2025-11-15,CA,iOS,Paid Social,Casual,0.242,10,0,0,Free,0.0
+U00229,2025-11-09,US,Android,App Store Browse,Casual,0.248,7,1,0,Free,0.0
+U00230,2025-09-02,US,Android,Paid Social,Regular,0.642,18,1,0,Free,0.0
+U00231,2025-10-25,IN,iOS,Organic Search,Casual,0.217,9,1,0,Free,0.0
+U00232,2026-01-05,US,iOS,Influencer,Casual,0.171,8,0,0,Free,0.0
+U00233,2025-08-04,US,iOS,Referral,Casual,0.265,9,1,0,Free,0.0
+U00234,2025-12-18,DE,iOS,Influencer,Casual,0.315,6,1,0,Free,0.0
+U00235,2025-10-30,DE,Android,Organic Search,Regular,0.572,8,0,0,Free,0.0
+U00236,2025-12-11,AU,Android,App Store Browse,Casual,0.244,9,1,1,Monthly,7.99
+U00237,2025-12-01,US,iOS,Paid Search,Casual,0.163,3,0,0,Free,0.0
+U00238,2025-10-19,CA,Android,Paid Search,Casual,0.246,5,1,0,Free,0.0
+U00239,2025-09-26,AU,iOS,App Store Browse,Casual,0.324,6,1,0,Free,0.0
+U00240,2025-11-24,US,iOS,Paid Social,Regular,0.476,14,1,0,Free,0.0
+U00241,2025-08-26,US,Android,Referral,Casual,0.235,9,1,0,Free,0.0
+U00242,2025-11-16,IN,Android,Paid Search,Casual,0.227,4,1,0,Free,0.0
+U00243,2025-08-18,US,Android,Referral,Regular,0.508,19,1,0,Free,0.0
+U00244,2025-11-28,CA,iOS,Influencer,Casual,0.265,9,1,0,Free,0.0
+U00245,2025-11-24,DE,iOS,Referral,Casual,0.277,9,1,1,Monthly,7.99
+U00246,2025-08-16,CA,iOS,Organic Search,Casual,0.276,8,1,0,Free,0.0
+U00247,2025-12-18,US,Android,Organic Search,Power,0.741,15,1,0,Free,0.0
+U00248,2025-10-16,US,Web,App Store Browse,Casual,0.151,7,1,0,Free,0.0
+U00249,2025-12-23,US,iOS,App Store Browse,Casual,0.266,11,1,0,Free,0.0
+U00250,2025-08-08,US,Android,App Store Browse,Regular,0.52,10,1,0,Free,0.0
+U00251,2025-09-03,IN,Android,Organic Search,Regular,0.66,11,1,1,Monthly,7.99
+U00252,2025-10-30,IN,Android,Paid Social,Casual,0.363,13,1,1,Monthly,7.99
+U00253,2025-09-04,US,iOS,Referral,Regular,0.669,21,1,1,Monthly,7.99
+U00254,2025-09-30,US,Android,Referral,Casual,0.194,8,1,1,Monthly,9.99
+U00255,2025-11-30,AU,iOS,Organic Search,Regular,0.584,17,1,1,Monthly,9.99
+U00256,2025-08-27,US,Android,Paid Search,Regular,0.602,17,1,0,Free,0.0
+U00257,2025-12-03,US,Android,Organic Search,Casual,0.296,9,1,0,Free,0.0
+U00258,2025-08-20,US,Web,Paid Social,Casual,0.229,5,1,0,Free,0.0
+U00259,2025-09-02,UK,Android,Organic Search,Casual,0.327,10,1,0,Free,0.0
+U00260,2025-11-17,US,Android,Organic Search,Power,0.8,13,1,0,Free,0.0
+U00261,2025-12-25,UK,Android,Organic Search,Casual,0.258,5,0,0,Free,0.0
+U00262,2025-09-01,US,Android,App Store Browse,Casual,0.158,3,1,0,Free,0.0
+U00263,2025-09-25,CA,Web,Referral,Regular,0.589,18,1,1,Monthly,9.99
+U00264,2026-01-18,US,iOS,App Store Browse,Regular,0.534,18,1,0,Free,0.0
+U00265,2026-01-30,US,Web,Paid Social,Casual,0.278,13,1,0,Free,0.0
+U00266,2025-11-15,US,Android,Paid Social,Regular,0.564,9,1,0,Free,0.0
+U00267,2025-10-22,US,Android,Paid Social,Casual,0.261,7,1,1,Monthly,7.99
+U00268,2025-10-03,US,Android,Paid Search,Regular,0.547,15,1,0,Free,0.0
+U00269,2025-11-21,US,Android,Paid Social,Casual,0.297,13,1,0,Free,0.0
+U00270,2025-11-17,US,iOS,Referral,Casual,0.238,8,1,1,Monthly,7.99
+U00271,2025-09-24,US,Android,Influencer,Regular,0.463,20,1,1,Monthly,9.99
+U00272,2025-08-05,DE,iOS,Influencer,Casual,0.284,6,1,0,Free,0.0
+U00273,2025-08-28,US,iOS,Organic Search,Casual,0.201,5,0,0,Free,0.0
+U00274,2026-01-24,IN,iOS,Paid Search,Casual,0.171,9,1,1,Monthly,9.99
+U00275,2025-10-16,DE,iOS,Organic Search,Regular,0.489,16,1,0,Free,0.0
+U00276,2025-10-28,US,iOS,Organic Search,Regular,0.567,9,1,0,Free,0.0
+U00277,2025-10-25,UK,Android,Referral,Regular,0.544,13,1,1,Monthly,9.99
+U00278,2025-12-23,AU,iOS,Paid Search,Power,0.672,11,1,0,Free,0.0
+U00279,2025-08-12,UK,Android,Referral,Regular,0.527,16,1,0,Free,0.0
+U00280,2025-08-16,US,iOS,Organic Search,Casual,0.32,8,1,0,Free,0.0
+U00281,2025-09-20,US,Android,App Store Browse,Casual,0.223,8,1,0,Free,0.0
+U00282,2025-10-29,US,Android,App Store Browse,Regular,0.54,13,1,0,Free,0.0
+U00283,2025-12-02,US,iOS,Paid Social,Power,0.863,18,1,0,Free,0.0
+U00284,2025-10-30,DE,Android,Influencer,Power,0.848,17,1,0,Free,0.0
+U00285,2025-10-21,DE,Web,Organic Search,Regular,0.611,11,1,0,Free,0.0
+U00286,2026-01-20,US,Android,Referral,Casual,0.084,4,1,1,Monthly,9.99
+U00287,2025-08-30,UK,iOS,Influencer,Power,0.904,16,1,0,Free,0.0
+U00288,2025-11-14,US,Android,Influencer,Power,0.838,22,1,0,Free,0.0
+U00289,2025-11-08,AU,Android,Influencer,Regular,0.698,18,1,0,Free,0.0
+U00290,2025-10-27,US,iOS,Paid Social,Regular,0.503,13,1,0,Free,0.0
+U00291,2025-12-27,DE,Android,Influencer,Casual,0.144,7,1,0,Free,0.0
+U00292,2025-09-19,IN,iOS,Referral,Power,0.8,19,1,0,Free,0.0
+U00293,2026-01-23,US,Android,Organic Search,Casual,0.233,9,1,0,Free,0.0
+U00294,2025-10-01,US,iOS,Organic Search,Regular,0.589,17,1,0,Free,0.0
+U00295,2025-11-09,IN,iOS,Referral,Casual,0.314,12,1,0,Free,0.0
+U00296,2025-11-04,US,Web,Paid Search,Casual,0.245,9,1,0,Free,0.0
+U00297,2026-01-04,US,Android,Paid Search,Casual,0.236,10,0,0,Free,0.0
+U00298,2025-10-20,AU,Android,App Store Browse,Casual,0.281,4,1,1,Monthly,12.99
+U00299,2025-09-22,CA,Web,Paid Search,Casual,0.235,9,1,0,Free,0.0
+U00300,2025-08-04,US,iOS,Paid Social,Power,0.78,17,1,0,Free,0.0
+U00301,2025-10-06,US,iOS,Paid Social,Casual,0.312,14,1,1,Monthly,7.99
+U00302,2025-12-31,US,iOS,Paid Search,Regular,0.626,11,1,0,Free,0.0
+U00303,2025-08-02,DE,Android,Referral,Casual,0.315,8,0,0,Free,0.0
+U00304,2026-01-12,US,iOS,Paid Search,Casual,0.24,6,1,0,Free,0.0
+U00305,2025-11-08,US,Web,Paid Search,Regular,0.422,21,1,0,Free,0.0
+U00306,2025-08-26,US,iOS,Referral,Regular,0.541,18,1,0,Free,0.0
+U00307,2025-09-25,DE,iOS,Referral,Casual,0.205,4,0,0,Free,0.0
+U00308,2025-11-10,US,iOS,Influencer,Regular,0.542,14,1,0,Free,0.0
+U00309,2025-09-28,AU,iOS,Organic Search,Regular,0.51,11,1,1,Monthly,12.99
+U00310,2025-08-20,UK,iOS,Referral,Casual,0.249,6,0,0,Free,0.0
+U00311,2025-12-01,IN,Android,Paid Search,Power,0.738,9,1,0,Free,0.0
+U00312,2025-12-02,DE,iOS,Organic Search,Regular,0.473,9,1,1,Monthly,7.99
+U00313,2025-08-22,IN,Android,Paid Search,Regular,0.623,15,1,1,Monthly,9.99
+U00314,2025-09-21,DE,Android,Referral,Casual,0.192,8,1,0,Free,0.0
+U00315,2025-09-14,US,Android,Paid Search,Casual,0.25,14,1,1,Monthly,9.99
+U00316,2025-11-30,IN,Android,Referral,Casual,0.307,11,1,1,Monthly,12.99
+U00317,2025-12-13,US,iOS,Paid Social,Regular,0.605,10,1,1,Monthly,7.99
+U00318,2025-12-12,US,iOS,Organic Search,Regular,0.598,16,1,0,Free,0.0
+U00319,2026-01-20,AU,iOS,Paid Social,Casual,0.268,13,1,0,Free,0.0
+U00320,2025-12-20,DE,Web,Paid Social,Regular,0.593,19,1,1,Monthly,12.99
+U00321,2025-09-29,UK,Android,Referral,Casual,0.332,7,0,1,Monthly,9.99
+U00322,2025-08-20,US,iOS,Influencer,Casual,0.276,8,1,0,Free,0.0
+U00323,2025-11-22,US,iOS,Referral,Power,0.69,11,1,0,Free,0.0
+U00324,2026-01-16,US,Android,Organic Search,Casual,0.218,7,1,1,Monthly,7.99
+U00325,2026-01-27,US,Android,Paid Social,Casual,0.292,15,1,0,Free,0.0
+U00326,2025-09-12,US,Android,Organic Search,Casual,0.212,8,1,0,Free,0.0
+U00327,2025-09-13,US,Android,Referral,Casual,0.347,12,1,1,Monthly,7.99
+U00328,2025-08-07,US,Android,Organic Search,Regular,0.546,13,1,0,Free,0.0
+U00329,2025-08-26,IN,Android,Paid Search,Power,0.805,13,1,0,Free,0.0
+U00330,2025-11-11,US,iOS,Referral,Casual,0.317,10,1,1,Monthly,7.99
+U00331,2025-11-09,DE,iOS,Paid Search,Casual,0.239,2,0,0,Free,0.0
+U00332,2025-10-08,CA,Web,Paid Social,Casual,0.261,4,1,0,Free,0.0
+U00333,2025-09-27,US,Android,Paid Social,Casual,0.304,2,0,0,Free,0.0
+U00334,2025-12-31,US,iOS,Paid Search,Casual,0.162,11,1,0,Free,0.0
+U00335,2025-10-24,US,Android,Paid Search,Casual,0.233,6,1,0,Free,0.0
+U00336,2025-12-27,DE,iOS,Organic Search,Regular,0.6,11,1,0,Free,0.0
+U00337,2026-01-25,US,Android,Influencer,Casual,0.254,10,1,0,Free,0.0
+U00338,2025-09-28,US,iOS,Paid Search,Casual,0.338,11,1,0,Free,0.0
+U00339,2025-09-07,DE,Android,Paid Social,Casual,0.155,6,1,0,Free,0.0
+U00340,2026-01-23,DE,Android,Organic Search,Regular,0.449,16,1,1,Monthly,7.99
+U00341,2025-11-25,US,iOS,Paid Social,Casual,0.296,10,1,0,Free,0.0
+U00342,2025-09-23,US,iOS,Paid Social,Casual,0.302,10,1,0,Free,0.0
+U00343,2025-11-23,US,Android,Organic Search,Regular,0.538,17,1,1,Monthly,12.99
+U00344,2025-11-03,US,iOS,Paid Search,Casual,0.274,3,1,0,Free,0.0
+U00345,2026-01-14,US,iOS,Paid Social,Power,0.845,22,1,0,Free,0.0
+U00346,2025-09-17,CA,Android,Influencer,Casual,0.201,4,1,0,Free,0.0
+U00347,2026-01-30,AU,iOS,App Store Browse,Regular,0.508,13,1,0,Free,0.0
+U00348,2026-01-20,US,iOS,Organic Search,Power,0.811,8,1,0,Free,0.0
+U00349,2025-09-03,CA,iOS,Organic Search,Casual,0.304,9,1,0,Free,0.0
+U00350,2025-08-31,US,Android,Referral,Regular,0.48,15,1,0,Free,0.0
+U00351,2025-11-07,IN,iOS,App Store Browse,Casual,0.238,6,1,0,Free,0.0
+U00352,2025-08-09,CA,iOS,Influencer,Regular,0.535,18,1,0,Free,0.0
+U00353,2025-09-24,AU,iOS,Organic Search,Regular,0.575,11,1,0,Free,0.0
+U00354,2025-10-20,DE,iOS,Organic Search,Regular,0.549,13,1,1,Monthly,9.99
+U00355,2026-01-26,US,iOS,Organic Search,Power,0.767,25,1,0,Free,0.0
+U00356,2026-01-30,US,iOS,Influencer,Casual,0.325,22,1,0,Free,0.0
+U00357,2025-08-28,US,iOS,Paid Search,Casual,0.218,9,1,1,Monthly,7.99
+U00358,2026-01-12,US,iOS,Paid Search,Casual,0.232,11,1,1,Monthly,7.99
+U00359,2025-08-17,DE,Android,Paid Search,Regular,0.455,10,1,0,Free,0.0
+U00360,2025-12-16,US,iOS,Organic Search,Regular,0.507,13,1,0,Free,0.0
+U00361,2026-01-03,IN,iOS,Paid Search,Regular,0.581,17,1,0,Free,0.0
+U00362,2026-01-11,US,Web,Organic Search,Casual,0.269,7,1,1,Monthly,9.99
+U00363,2025-09-11,US,Android,Paid Search,Casual,0.286,8,1,0,Free,0.0
+U00364,2026-01-12,US,Android,Referral,Regular,0.583,24,1,0,Free,0.0
+U00365,2025-08-22,UK,iOS,Paid Search,Power,0.925,21,1,0,Free,0.0
+U00366,2025-11-04,UK,iOS,Paid Social,Casual,0.205,8,1,0,Free,0.0
+U00367,2025-10-26,US,iOS,Influencer,Casual,0.153,6,1,1,Monthly,9.99
+U00368,2025-09-28,US,iOS,Referral,Casual,0.187,7,1,0,Free,0.0
+U00369,2025-08-05,UK,iOS,Organic Search,Casual,0.208,8,0,0,Free,0.0
+U00370,2025-12-21,US,Android,Organic Search,Power,0.742,13,1,1,Annual,99.99
+U00371,2025-10-01,DE,iOS,Paid Search,Casual,0.256,9,1,1,Monthly,12.99
+U00372,2025-11-30,US,Android,Paid Social,Casual,0.325,12,1,0,Free,0.0
+U00373,2025-10-15,US,iOS,Organic Search,Casual,0.342,9,1,0,Free,0.0
+U00374,2025-10-08,US,iOS,Organic Search,Casual,0.28,12,1,0,Free,0.0
+U00375,2026-01-11,US,Android,Organic Search,Power,0.928,15,1,0,Free,0.0
+U00376,2025-08-18,US,Android,Paid Social,Casual,0.229,4,1,1,Monthly,9.99
+U00377,2025-12-14,US,iOS,Paid Search,Casual,0.152,7,1,0,Free,0.0
+U00378,2025-12-16,DE,Android,Organic Search,Casual,0.313,17,1,0,Free,0.0
+U00379,2025-10-09,US,iOS,Referral,Power,0.69,6,1,0,Free,0.0
+U00380,2025-09-18,US,iOS,Paid Social,Power,0.755,17,1,1,Annual,79.99
+U00381,2025-08-01,US,Android,Paid Social,Casual,0.281,12,1,0,Free,0.0
+U00382,2026-01-20,US,iOS,Organic Search,Casual,0.244,6,1,0,Free,0.0
+U00383,2026-01-22,CA,iOS,Referral,Casual,0.239,5,1,0,Free,0.0
+U00384,2025-09-14,US,Android,App Store Browse,Casual,0.179,6,0,0,Free,0.0
+U00385,2025-08-06,UK,iOS,Paid Social,Casual,0.249,6,1,0,Free,0.0
+U00386,2025-08-23,US,iOS,Organic Search,Regular,0.61,9,1,0,Free,0.0
+U00387,2025-08-13,DE,iOS,Organic Search,Power,0.801,14,1,0,Free,0.0
+U00388,2025-12-31,US,Web,Organic Search,Casual,0.2,7,1,0,Free,0.0
+U00389,2026-01-12,AU,Android,Influencer,Casual,0.175,6,1,1,Monthly,9.99
+U00390,2025-08-29,US,iOS,Organic Search,Casual,0.201,11,1,1,Monthly,7.99
+U00391,2025-12-16,US,iOS,App Store Browse,Casual,0.274,18,1,0,Free,0.0
+U00392,2025-09-02,IN,Android,Paid Search,Casual,0.271,9,1,0,Free,0.0
+U00393,2025-10-07,UK,iOS,Paid Search,Casual,0.202,7,1,0,Free,0.0
+U00394,2025-11-19,IN,Android,Influencer,Power,0.667,13,1,1,Monthly,7.99
+U00395,2025-12-11,US,Android,Organic Search,Casual,0.275,6,0,1,Monthly,9.99
+U00396,2026-01-08,UK,iOS,Referral,Regular,0.496,13,1,1,Monthly,7.99
+U00397,2025-08-09,AU,iOS,Organic Search,Casual,0.291,10,1,0,Free,0.0
+U00398,2025-09-06,UK,iOS,Influencer,Casual,0.205,3,0,0,Free,0.0
+U00399,2025-09-21,US,iOS,Paid Search,Casual,0.191,9,1,1,Monthly,12.99
+U00400,2025-09-27,UK,iOS,Organic Search,Power,0.809,12,1,0,Free,0.0
+U00401,2026-01-31,UK,Android,Influencer,Casual,0.391,11,1,0,Free,0.0
+U00402,2025-12-22,DE,iOS,Organic Search,Casual,0.295,8,1,1,Monthly,9.99
+U00403,2025-09-28,US,Android,Organic Search,Regular,0.558,9,1,0,Free,0.0
+U00404,2026-01-26,US,Android,Referral,Regular,0.572,23,1,0,Free,0.0
+U00405,2025-10-31,IN,iOS,Paid Social,Regular,0.445,7,0,0,Free,0.0
+U00406,2025-11-01,US,iOS,Influencer,Casual,0.183,8,1,1,Monthly,9.99
+U00407,2025-10-19,IN,iOS,Paid Search,Casual,0.099,6,1,1,Monthly,7.99
+U00408,2025-08-27,US,Android,Paid Search,Regular,0.654,24,1,1,Monthly,7.99
+U00409,2026-01-19,US,iOS,Paid Social,Casual,0.342,13,1,0,Free,0.0
+U00410,2025-08-03,IN,Android,Organic Search,Casual,0.274,7,1,0,Free,0.0
+U00411,2025-09-02,US,Android,App Store Browse,Casual,0.258,10,1,0,Free,0.0
+U00412,2025-09-12,US,Android,Organic Search,Casual,0.157,3,0,0,Free,0.0
+U00413,2025-09-21,CA,Web,Paid Search,Power,0.787,16,1,1,Monthly,7.99
+U00414,2025-08-25,IN,Android,Organic Search,Regular,0.658,12,1,0,Free,0.0
+U00415,2025-08-04,AU,Android,Organic Search,Casual,0.258,7,1,0,Free,0.0
+U00416,2025-12-03,US,Android,Paid Search,Power,0.766,14,1,0,Free,0.0
+U00417,2026-01-26,US,Android,Referral,Casual,0.145,5,0,0,Free,0.0
+U00418,2025-08-23,DE,Android,Referral,Casual,0.333,8,1,1,Monthly,9.99
+U00419,2025-09-24,US,Web,Influencer,Casual,0.246,8,0,0,Free,0.0
+U00420,2025-11-02,US,iOS,Paid Social,Regular,0.445,8,0,0,Free,0.0
+U00421,2026-01-18,US,Android,Paid Social,Casual,0.195,7,1,1,Monthly,9.99
+U00422,2025-12-06,US,Android,Organic Search,Casual,0.173,10,1,0,Free,0.0
+U00423,2025-12-19,AU,Android,Referral,Regular,0.542,16,1,1,Monthly,9.99
+U00424,2025-11-15,IN,iOS,Paid Social,Casual,0.262,7,1,0,Free,0.0
+U00425,2025-10-16,UK,Android,Paid Search,Power,0.77,22,1,0,Free,0.0
+U00426,2025-09-06,US,Android,Organic Search,Casual,0.297,10,1,1,Monthly,7.99
+U00427,2026-01-07,US,Web,Influencer,Casual,0.255,10,1,0,Free,0.0
+U00428,2025-12-26,US,iOS,Influencer,Regular,0.614,18,1,0,Free,0.0
+U00429,2025-08-05,US,Android,Influencer,Casual,0.229,9,1,0,Free,0.0
+U00430,2025-12-10,US,Android,Organic Search,Casual,0.433,10,1,0,Free,0.0
+U00431,2025-08-16,US,Web,App Store Browse,Regular,0.516,15,1,0,Free,0.0
+U00432,2025-12-14,US,Web,Organic Search,Regular,0.496,10,1,0,Free,0.0
+U00433,2025-12-30,CA,Android,Paid Social,Regular,0.488,9,0,0,Free,0.0
+U00434,2025-08-25,UK,Android,Organic Search,Regular,0.537,12,1,0,Free,0.0
+U00435,2025-10-19,US,iOS,Organic Search,Casual,0.147,7,1,0,Free,0.0
+U00436,2025-08-23,US,Web,Paid Search,Casual,0.268,9,1,0,Free,0.0
+U00437,2025-11-13,IN,iOS,Organic Search,Casual,0.136,9,1,0,Free,0.0
+U00438,2026-01-18,IN,Android,Paid Social,Casual,0.26,10,1,1,Monthly,9.99
+U00439,2025-08-15,IN,Android,Paid Search,Regular,0.469,17,0,1,Monthly,7.99
+U00440,2025-10-13,US,iOS,Influencer,Casual,0.227,6,1,0,Free,0.0
+U00441,2026-01-27,IN,iOS,Referral,Casual,0.286,11,1,0,Free,0.0
+U00442,2025-09-25,US,iOS,Paid Search,Casual,0.388,10,1,1,Monthly,9.99
+U00443,2025-08-25,US,Android,Organic Search,Casual,0.185,6,1,0,Free,0.0
+U00444,2025-10-29,US,Android,Influencer,Casual,0.241,10,1,0,Free,0.0
+U00445,2025-11-02,US,iOS,Organic Search,Casual,0.207,3,1,0,Free,0.0
+U00446,2025-11-30,US,Android,Organic Search,Casual,0.198,11,1,0,Free,0.0
+U00447,2025-09-27,US,iOS,Organic Search,Casual,0.207,4,1,1,Monthly,12.99
+U00448,2026-01-23,IN,Android,Paid Search,Casual,0.299,9,1,0,Free,0.0
+U00449,2025-11-04,US,iOS,Paid Social,Regular,0.521,14,1,0,Free,0.0
+U00450,2025-09-22,US,iOS,Paid Search,Casual,0.385,12,1,0,Free,0.0
+U00451,2026-01-24,US,iOS,Paid Social,Casual,0.275,5,1,0,Free,0.0
+U00452,2026-01-18,US,Android,Paid Social,Casual,0.189,7,0,1,Monthly,9.99
+U00453,2025-10-31,US,iOS,Paid Social,Casual,0.228,6,1,0,Free,0.0
+U00454,2025-08-05,US,Android,Organic Search,Regular,0.502,8,1,0,Free,0.0
+U00455,2025-11-18,US,iOS,Paid Social,Regular,0.598,17,1,1,Monthly,9.99
+U00456,2025-11-11,IN,iOS,Paid Search,Power,0.702,13,1,1,Monthly,9.99
+U00457,2025-08-28,DE,iOS,Paid Search,Regular,0.47,10,1,0,Free,0.0
+U00458,2025-11-25,US,iOS,Organic Search,Casual,0.215,6,1,1,Monthly,12.99
+U00459,2026-01-02,UK,Web,Paid Search,Casual,0.291,16,1,1,Monthly,9.99
+U00460,2025-08-20,AU,iOS,Paid Social,Casual,0.324,15,1,0,Free,0.0
+U00461,2025-12-12,DE,Web,Organic Search,Casual,0.333,9,1,0,Free,0.0
+U00462,2025-08-26,CA,iOS,Organic Search,Casual,0.282,15,1,0,Free,0.0
+U00463,2025-12-16,AU,iOS,Paid Social,Casual,0.245,7,1,1,Monthly,9.99
+U00464,2025-10-17,AU,iOS,Paid Social,Casual,0.298,7,1,1,Monthly,9.99
+U00465,2025-08-02,IN,iOS,Referral,Casual,0.181,11,1,0,Free,0.0
+U00466,2026-01-25,US,Android,Organic Search,Regular,0.439,12,1,1,Monthly,7.99
+U00467,2025-08-31,US,Android,Referral,Regular,0.576,11,1,0,Free,0.0
+U00468,2025-11-18,US,iOS,Paid Social,Power,0.74,14,1,0,Free,0.0
+U00469,2025-09-03,US,Android,Paid Search,Casual,0.246,6,1,0,Free,0.0
+U00470,2026-01-19,US,Android,Referral,Casual,0.257,7,1,0,Free,0.0
+U00471,2025-12-14,US,Web,Paid Social,Power,0.815,15,1,0,Free,0.0
+U00472,2025-12-27,CA,Web,Organic Search,Regular,0.606,14,1,0,Free,0.0
+U00473,2025-10-19,CA,Android,Paid Search,Casual,0.3,10,1,0,Free,0.0
+U00474,2025-10-25,IN,Android,App Store Browse,Casual,0.262,12,1,0,Free,0.0
+U00475,2025-11-25,US,Android,App Store Browse,Casual,0.223,4,1,0,Free,0.0
+U00476,2025-12-23,US,Android,Organic Search,Regular,0.556,16,1,1,Monthly,9.99
+U00477,2026-01-03,IN,Android,Referral,Regular,0.514,15,1,0,Free,0.0
+U00478,2025-08-04,IN,iOS,Paid Social,Casual,0.238,8,1,0,Free,0.0
+U00479,2025-12-01,DE,Android,Organic Search,Casual,0.407,14,1,0,Free,0.0
+U00480,2025-08-21,AU,Web,Paid Search,Casual,0.261,12,1,1,Monthly,7.99
+U00481,2025-09-22,AU,iOS,Paid Search,Casual,0.277,9,0,0,Free,0.0
+U00482,2025-12-31,US,Android,Paid Search,Regular,0.508,16,1,0,Free,0.0
+U00483,2025-09-16,US,Web,Influencer,Casual,0.311,13,1,1,Monthly,12.99
+U00484,2025-12-25,US,iOS,Paid Social,Casual,0.296,12,1,0,Free,0.0
+U00485,2025-10-25,CA,Android,Paid Search,Casual,0.296,11,1,0,Free,0.0
+U00486,2025-09-12,DE,Web,Paid Social,Power,0.813,16,1,0,Free,0.0
+U00487,2025-10-01,US,Web,Organic Search,Casual,0.312,14,1,0,Free,0.0
+U00488,2025-11-06,CA,iOS,Paid Social,Casual,0.326,7,1,0,Free,0.0
+U00489,2025-12-19,US,iOS,App Store Browse,Regular,0.567,16,1,1,Monthly,12.99
+U00490,2025-11-20,US,Android,Paid Social,Regular,0.543,20,1,0,Free,0.0
+U00491,2026-01-19,US,iOS,Organic Search,Regular,0.604,22,1,1,Monthly,9.99
+U00492,2026-01-07,US,iOS,Referral,Regular,0.496,13,1,0,Free,0.0
+U00493,2025-12-17,DE,iOS,App Store Browse,Casual,0.207,6,1,0,Free,0.0
+U00494,2025-11-19,US,iOS,App Store Browse,Power,0.797,27,1,0,Free,0.0
+U00495,2025-09-23,IN,Android,Paid Search,Regular,0.446,9,1,0,Free,0.0
+U00496,2025-10-15,UK,Android,Paid Social,Casual,0.3,8,1,0,Free,0.0
+U00497,2025-08-22,US,Android,Paid Search,Regular,0.492,10,1,0,Free,0.0
+U00498,2025-10-08,US,Android,Influencer,Casual,0.222,8,1,0,Free,0.0
+U00499,2026-01-18,IN,iOS,Influencer,Casual,0.237,4,1,1,Monthly,9.99
+U00500,2025-10-18,US,iOS,Influencer,Casual,0.252,8,1,0,Free,0.0
+U00501,2025-08-21,AU,iOS,Paid Social,Casual,0.229,7,1,0,Free,0.0
+U00502,2025-11-28,US,iOS,Organic Search,Power,0.796,18,1,1,Annual,99.99
+U00503,2026-01-25,UK,iOS,Paid Search,Casual,0.246,8,0,1,Monthly,9.99
+U00504,2026-01-07,IN,iOS,Organic Search,Casual,0.223,8,1,1,Monthly,12.99
+U00505,2025-09-20,US,iOS,Organic Search,Casual,0.204,10,1,0,Free,0.0
+U00506,2025-10-23,US,iOS,Paid Social,Casual,0.315,10,1,0,Free,0.0
+U00507,2025-11-06,DE,Android,Paid Search,Casual,0.124,11,1,0,Free,0.0
+U00508,2025-09-15,US,Android,Influencer,Casual,0.238,12,1,1,Monthly,9.99
+U00509,2025-09-19,US,Web,Referral,Regular,0.522,15,1,0,Free,0.0
+U00510,2025-09-13,US,Android,Influencer,Power,0.825,6,1,0,Free,0.0
+U00511,2026-01-31,US,Android,Referral,Casual,0.163,8,1,0,Free,0.0
+U00512,2025-12-16,IN,iOS,Referral,Power,0.77,13,1,0,Free,0.0
+U00513,2026-01-02,IN,Android,Organic Search,Regular,0.544,13,1,0,Free,0.0
+U00514,2025-12-29,US,iOS,Paid Search,Casual,0.314,10,1,0,Free,0.0
+U00515,2026-01-24,IN,iOS,Organic Search,Casual,0.27,9,1,0,Free,0.0
+U00516,2025-08-20,US,iOS,Organic Search,Casual,0.179,9,1,0,Free,0.0
+U00517,2026-01-10,US,iOS,Organic Search,Regular,0.521,13,1,0,Free,0.0
+U00518,2025-08-13,CA,iOS,Influencer,Casual,0.303,13,1,0,Free,0.0
+U00519,2025-10-27,DE,Android,Referral,Casual,0.178,2,1,0,Free,0.0
+U00520,2025-11-18,US,Android,App Store Browse,Regular,0.545,10,1,1,Monthly,7.99
+U00521,2025-10-05,US,Android,App Store Browse,Casual,0.249,12,1,0,Free,0.0
+U00522,2025-08-27,US,Android,Influencer,Regular,0.527,18,1,1,Monthly,12.99
+U00523,2025-09-05,IN,Android,Organic Search,Casual,0.412,13,1,1,Monthly,7.99
+U00524,2025-12-30,US,iOS,Influencer,Power,0.775,13,1,1,Monthly,12.99
+U00525,2025-09-28,US,Android,Influencer,Casual,0.277,12,1,1,Monthly,9.99
+U00526,2025-09-27,IN,Android,Influencer,Casual,0.204,8,1,0,Free,0.0
+U00527,2026-01-17,US,iOS,Organic Search,Regular,0.582,17,1,1,Monthly,9.99
+U00528,2025-08-27,US,iOS,Organic Search,Casual,0.302,13,1,0,Free,0.0
+U00529,2026-01-16,US,Web,App Store Browse,Power,0.765,14,1,1,Annual,59.99
+U00530,2026-01-17,US,Android,Organic Search,Regular,0.547,14,1,0,Free,0.0
+U00531,2025-11-19,US,iOS,Paid Social,Casual,0.196,14,1,1,Monthly,12.99
+U00532,2025-08-31,AU,Android,Paid Social,Casual,0.181,9,1,1,Monthly,7.99
+U00533,2025-08-29,UK,iOS,Organic Search,Power,0.862,24,1,1,Annual,59.99
+U00534,2025-09-22,UK,iOS,Organic Search,Casual,0.217,15,1,1,Monthly,12.99
+U00535,2025-11-15,DE,iOS,App Store Browse,Regular,0.405,8,1,0,Free,0.0
+U00536,2025-08-29,US,iOS,Influencer,Casual,0.356,15,1,0,Free,0.0
+U00537,2025-10-23,US,Android,App Store Browse,Power,0.752,13,1,0,Free,0.0
+U00538,2025-08-22,AU,iOS,Paid Social,Casual,0.235,11,1,1,Monthly,9.99
+U00539,2025-11-08,US,Android,Organic Search,Regular,0.648,15,1,0,Free,0.0
+U00540,2025-08-04,UK,iOS,Paid Social,Casual,0.241,11,1,0,Free,0.0
+U00541,2025-12-09,IN,Android,Paid Social,Casual,0.24,10,1,0,Free,0.0
+U00542,2025-08-11,US,Android,Organic Search,Power,0.726,20,1,0,Free,0.0
+U00543,2025-09-05,US,Android,Referral,Power,0.702,11,1,1,Monthly,7.99
+U00544,2025-09-02,US,Android,App Store Browse,Casual,0.24,11,1,0,Free,0.0
+U00545,2025-12-31,US,Web,Paid Search,Power,0.822,14,1,1,Monthly,9.99
+U00546,2025-08-10,US,Android,Paid Social,Casual,0.268,5,1,0,Free,0.0
+U00547,2025-10-18,US,Android,Paid Social,Casual,0.221,7,1,0,Free,0.0
+U00548,2025-11-17,IN,Android,Organic Search,Casual,0.251,11,1,0,Free,0.0
+U00549,2025-11-03,AU,iOS,Organic Search,Casual,0.14,11,1,0,Free,0.0
+U00550,2025-12-04,IN,iOS,Paid Search,Casual,0.278,15,1,0,Free,0.0
+U00551,2025-12-26,US,iOS,Paid Social,Casual,0.26,7,1,1,Monthly,9.99
+U00552,2025-10-12,US,iOS,Paid Search,Casual,0.368,11,1,0,Free,0.0
+U00553,2025-12-31,US,iOS,Influencer,Regular,0.55,9,1,0,Free,0.0
+U00554,2025-09-28,US,iOS,Organic Search,Regular,0.493,11,0,0,Free,0.0
+U00555,2026-01-29,DE,Android,Organic Search,Regular,0.547,21,1,1,Monthly,9.99
+U00556,2025-11-01,US,iOS,Organic Search,Casual,0.23,7,1,0,Free,0.0
+U00557,2025-12-14,US,Android,Organic Search,Regular,0.576,23,1,0,Free,0.0
+U00558,2026-01-09,IN,iOS,Paid Search,Casual,0.252,16,1,1,Monthly,12.99
+U00559,2025-12-24,US,Android,Influencer,Regular,0.474,12,1,0,Free,0.0
+U00560,2026-01-04,US,iOS,Influencer,Casual,0.152,7,0,0,Free,0.0
+U00561,2025-11-07,US,iOS,Paid Search,Casual,0.266,3,0,0,Free,0.0
+U00562,2025-08-08,UK,iOS,Paid Social,Casual,0.333,11,1,1,Monthly,9.99
+U00563,2025-10-30,IN,Android,Organic Search,Regular,0.555,12,1,0,Free,0.0
+U00564,2025-09-03,US,iOS,Paid Social,Power,0.849,23,1,0,Free,0.0
+U00565,2026-01-11,AU,Web,Paid Social,Regular,0.611,13,0,0,Free,0.0
+U00566,2025-09-13,AU,iOS,Influencer,Power,0.816,18,1,1,Annual,79.99
+U00567,2025-09-11,IN,Android,Paid Social,Power,0.751,11,1,0,Free,0.0
+U00568,2025-09-15,US,iOS,Organic Search,Casual,0.262,7,1,0,Free,0.0
+U00569,2025-11-27,US,Android,Paid Social,Regular,0.622,11,1,0,Free,0.0
+U00570,2025-11-14,AU,iOS,Organic Search,Casual,0.282,11,1,0,Free,0.0
+U00571,2026-01-22,US,iOS,App Store Browse,Casual,0.295,8,1,1,Monthly,12.99
+U00572,2025-10-16,CA,iOS,Organic Search,Casual,0.222,14,1,1,Monthly,7.99
+U00573,2025-09-21,IN,iOS,Organic Search,Power,0.788,15,1,0,Free,0.0
+U00574,2025-08-10,US,iOS,Organic Search,Regular,0.543,18,1,0,Free,0.0
+U00575,2025-08-02,IN,Web,Influencer,Casual,0.247,10,0,1,Monthly,7.99
+U00576,2025-10-08,DE,iOS,Paid Search,Casual,0.32,7,1,0,Free,0.0
+U00577,2026-01-18,UK,iOS,Paid Search,Casual,0.109,6,0,0,Free,0.0
+U00578,2025-11-05,US,Web,Paid Social,Regular,0.552,13,1,0,Free,0.0
+U00579,2026-01-12,AU,iOS,Organic Search,Power,0.795,13,1,0,Free,0.0
+U00580,2025-08-19,US,iOS,Influencer,Casual,0.168,10,1,0,Free,0.0
+U00581,2025-08-18,IN,Android,Organic Search,Casual,0.29,16,1,0,Free,0.0
+U00582,2026-01-01,IN,Web,Organic Search,Casual,0.207,9,1,1,Monthly,7.99
+U00583,2025-08-20,IN,Android,Paid Search,Casual,0.229,5,1,0,Free,0.0
+U00584,2025-08-10,US,iOS,Organic Search,Casual,0.361,8,1,1,Monthly,7.99
+U00585,2025-10-14,US,Web,Organic Search,Casual,0.311,8,1,0,Free,0.0
+U00586,2026-01-18,US,iOS,Influencer,Casual,0.284,13,1,0,Free,0.0
+U00587,2025-12-05,US,Web,Paid Social,Casual,0.273,6,1,0,Free,0.0
+U00588,2025-08-19,US,Android,Organic Search,Regular,0.54,13,1,1,Monthly,9.99
+U00589,2026-01-02,CA,Web,Paid Social,Casual,0.37,18,1,0,Free,0.0
+U00590,2026-01-03,US,iOS,Referral,Casual,0.298,5,1,0,Free,0.0
+U00591,2025-12-26,IN,iOS,Organic Search,Regular,0.505,9,1,0,Free,0.0
+U00592,2026-01-14,AU,Android,Organic Search,Power,0.716,7,1,1,Monthly,7.99
+U00593,2025-09-14,US,Android,Paid Search,Casual,0.284,9,0,0,Free,0.0
+U00594,2026-01-28,IN,Android,Paid Search,Casual,0.247,9,1,0,Free,0.0
+U00595,2025-09-29,UK,Web,App Store Browse,Regular,0.464,14,1,1,Monthly,12.99
+U00596,2025-12-26,US,Android,Paid Social,Casual,0.276,9,1,1,Monthly,7.99
+U00597,2025-11-15,US,iOS,Organic Search,Regular,0.534,12,1,1,Monthly,7.99
+U00598,2025-12-22,IN,iOS,Paid Search,Casual,0.282,8,1,0,Free,0.0
+U00599,2025-11-24,DE,iOS,Paid Search,Casual,0.277,9,1,1,Monthly,9.99
+U00600,2025-11-27,UK,iOS,Organic Search,Casual,0.214,5,1,0,Free,0.0
+U00601,2025-11-22,AU,iOS,Paid Search,Regular,0.588,19,1,0,Free,0.0
+U00602,2025-12-22,DE,Android,Organic Search,Casual,0.22,6,1,0,Free,0.0
+U00603,2025-12-14,US,Android,Influencer,Casual,0.224,3,0,0,Free,0.0
+U00604,2025-08-25,UK,Android,Influencer,Casual,0.218,5,1,0,Free,0.0
+U00605,2025-12-30,US,iOS,Paid Social,Regular,0.618,13,1,0,Free,0.0
+U00606,2025-11-07,DE,Android,App Store Browse,Casual,0.233,10,1,0,Free,0.0
+U00607,2025-09-29,US,Android,App Store Browse,Regular,0.632,13,1,0,Free,0.0
+U00608,2025-11-03,US,Android,Organic Search,Regular,0.657,16,1,0,Free,0.0
+U00609,2026-01-25,AU,Android,Paid Social,Casual,0.206,10,1,0,Free,0.0
+U00610,2026-01-05,US,Android,Paid Search,Power,0.625,11,1,1,Monthly,9.99
+U00611,2026-01-01,IN,Android,Organic Search,Regular,0.613,10,1,0,Free,0.0
+U00612,2025-10-25,US,iOS,Paid Social,Casual,0.229,11,1,0,Free,0.0
+U00613,2025-12-23,DE,Android,Organic Search,Casual,0.198,6,1,0,Free,0.0
+U00614,2025-10-10,AU,iOS,App Store Browse,Casual,0.215,3,0,0,Free,0.0
+U00615,2025-12-05,US,iOS,Paid Social,Casual,0.225,5,0,0,Free,0.0
+U00616,2025-11-26,IN,iOS,Referral,Casual,0.328,8,1,0,Free,0.0
+U00617,2025-09-15,US,Android,Paid Social,Regular,0.56,17,1,1,Monthly,9.99
+U00618,2025-09-19,CA,Android,Organic Search,Regular,0.627,8,1,1,Monthly,7.99
+U00619,2025-08-12,UK,Android,Influencer,Casual,0.28,8,1,0,Free,0.0
+U00620,2025-08-26,IN,iOS,Organic Search,Casual,0.231,4,1,0,Free,0.0
+U00621,2025-10-19,US,iOS,Organic Search,Casual,0.227,6,0,0,Free,0.0
+U00622,2025-10-27,US,Android,Paid Social,Casual,0.284,7,1,0,Free,0.0
+U00623,2025-08-31,UK,iOS,Referral,Casual,0.299,5,0,1,Monthly,12.99
+U00624,2025-10-16,CA,Web,Paid Social,Power,0.86,12,1,0,Free,0.0
+U00625,2025-11-20,US,iOS,Organic Search,Regular,0.534,10,1,0,Free,0.0
+U00626,2025-09-12,US,Android,Paid Social,Casual,0.261,4,1,0,Free,0.0
+U00627,2025-10-02,US,Android,Organic Search,Regular,0.585,16,1,0,Free,0.0
+U00628,2025-10-07,AU,Android,Organic Search,Casual,0.227,11,1,0,Free,0.0
+U00629,2025-11-01,US,iOS,Paid Search,Regular,0.482,15,1,0,Free,0.0
+U00630,2025-10-07,US,Web,Organic Search,Casual,0.202,8,0,0,Free,0.0
+U00631,2025-12-14,DE,Android,Paid Social,Casual,0.236,11,1,0,Free,0.0
+U00632,2025-09-30,US,Android,Paid Search,Regular,0.59,12,1,0,Free,0.0
+U00633,2025-10-19,IN,Android,Referral,Casual,0.326,10,1,0,Free,0.0
+U00634,2025-10-09,US,iOS,Organic Search,Casual,0.169,4,1,0,Free,0.0
+U00635,2025-09-03,AU,Android,Paid Social,Casual,0.214,6,1,0,Free,0.0
+U00636,2025-12-05,IN,iOS,Organic Search,Regular,0.529,11,1,0,Free,0.0
+U00637,2025-09-13,AU,iOS,App Store Browse,Regular,0.598,18,1,0,Free,0.0
+U00638,2025-09-24,US,Android,Organic Search,Casual,0.218,10,1,0,Free,0.0
+U00639,2025-12-24,US,Android,Organic Search,Casual,0.224,13,1,1,Monthly,7.99
+U00640,2026-01-22,IN,iOS,Paid Social,Regular,0.465,8,1,1,Monthly,12.99
+U00641,2025-12-02,US,iOS,Organic Search,Casual,0.279,14,1,1,Monthly,7.99
+U00642,2026-01-16,US,iOS,Organic Search,Casual,0.24,12,1,0,Free,0.0
+U00643,2026-01-05,US,iOS,Organic Search,Regular,0.511,19,1,1,Monthly,7.99
+U00644,2025-10-28,DE,Android,Paid Search,Casual,0.234,6,1,0,Free,0.0
+U00645,2025-12-20,UK,iOS,Paid Search,Regular,0.618,21,1,0,Free,0.0
+U00646,2025-09-30,UK,Android,Paid Search,Casual,0.19,7,1,0,Free,0.0
+U00647,2025-10-24,IN,iOS,Referral,Regular,0.5,8,1,1,Monthly,7.99
+U00648,2025-11-07,US,iOS,Paid Social,Casual,0.325,12,1,0,Free,0.0
+U00649,2026-01-24,US,Android,App Store Browse,Casual,0.255,5,1,0,Free,0.0
+U00650,2026-01-04,US,iOS,Referral,Casual,0.29,6,1,0,Free,0.0
+U00651,2025-10-30,UK,iOS,Influencer,Regular,0.574,10,1,0,Free,0.0
+U00652,2025-11-29,US,Web,Referral,Regular,0.548,14,1,0,Free,0.0
+U00653,2025-09-07,AU,Web,Paid Social,Regular,0.529,18,1,0,Free,0.0
+U00654,2025-12-27,IN,Android,Paid Social,Casual,0.3,9,1,0,Free,0.0
+U00655,2025-11-10,US,iOS,Paid Social,Casual,0.32,3,0,0,Free,0.0
+U00656,2025-11-07,CA,Android,Organic Search,Regular,0.615,7,1,0,Free,0.0
+U00657,2025-12-19,US,Web,Paid Social,Regular,0.479,16,1,1,Monthly,7.99
+U00658,2025-11-25,DE,Web,Organic Search,Casual,0.328,12,1,0,Free,0.0
+U00659,2025-08-14,AU,iOS,Organic Search,Regular,0.529,19,0,0,Free,0.0
+U00660,2025-09-23,AU,iOS,App Store Browse,Casual,0.205,14,1,0,Free,0.0
+U00661,2025-09-02,US,iOS,Referral,Casual,0.24,8,1,0,Free,0.0
+U00662,2025-12-14,US,iOS,Paid Search,Regular,0.6,14,1,0,Free,0.0
+U00663,2025-08-07,US,Android,Paid Social,Casual,0.282,3,1,1,Monthly,9.99
+U00664,2025-09-07,US,iOS,Paid Search,Casual,0.235,9,1,1,Monthly,7.99
+U00665,2025-11-18,US,iOS,Influencer,Casual,0.3,7,1,0,Free,0.0
+U00666,2025-12-06,US,iOS,Paid Search,Power,0.808,22,1,0,Free,0.0
+U00667,2025-11-01,DE,Android,Paid Search,Casual,0.216,11,1,1,Monthly,12.99
+U00668,2026-01-06,US,iOS,Paid Social,Regular,0.508,14,1,1,Monthly,7.99
+U00669,2026-01-17,US,iOS,Paid Social,Casual,0.275,5,1,0,Free,0.0
+U00670,2025-08-25,IN,iOS,Referral,Casual,0.245,5,1,0,Free,0.0
+U00671,2026-01-23,CA,Web,App Store Browse,Casual,0.167,10,1,0,Free,0.0
+U00672,2025-11-22,IN,iOS,Paid Social,Casual,0.301,7,0,1,Monthly,7.99
+U00673,2025-11-26,UK,Android,Paid Social,Casual,0.221,7,1,0,Free,0.0
+U00674,2025-08-18,AU,iOS,Paid Social,Casual,0.346,4,0,0,Free,0.0
+U00675,2025-11-23,UK,iOS,Paid Social,Regular,0.466,16,1,0,Free,0.0
+U00676,2025-12-12,US,iOS,App Store Browse,Casual,0.239,7,1,0,Free,0.0
+U00677,2025-11-15,UK,iOS,Referral,Regular,0.508,5,1,0,Free,0.0
+U00678,2025-08-16,US,iOS,Paid Social,Regular,0.491,11,1,0,Free,0.0
+U00679,2025-11-05,US,Android,Paid Social,Casual,0.221,9,1,0,Free,0.0
+U00680,2026-01-20,US,Android,Paid Social,Casual,0.356,14,1,0,Free,0.0
+U00681,2025-12-12,US,iOS,Organic Search,Casual,0.259,9,1,0,Free,0.0
+U00682,2025-08-26,IN,iOS,Paid Search,Casual,0.202,12,1,1,Monthly,7.99
+U00683,2026-01-24,US,Android,Influencer,Casual,0.14,2,0,0,Free,0.0
+U00684,2026-01-24,US,iOS,Paid Search,Casual,0.147,4,0,0,Free,0.0
+U00685,2025-09-01,US,iOS,Organic Search,Casual,0.218,3,0,0,Free,0.0
+U00686,2025-12-26,IN,iOS,Referral,Casual,0.212,8,1,0,Free,0.0
+U00687,2025-10-14,US,iOS,Referral,Power,0.787,27,1,0,Free,0.0
+U00688,2025-11-18,UK,iOS,Organic Search,Casual,0.114,8,1,0,Free,0.0
+U00689,2025-10-21,AU,Web,Paid Search,Casual,0.244,6,1,0,Free,0.0
+U00690,2025-12-23,US,Web,Paid Search,Casual,0.312,9,1,0,Free,0.0
+U00691,2026-01-31,IN,Web,Influencer,Regular,0.647,17,1,0,Free,0.0
+U00692,2025-12-25,US,iOS,Organic Search,Casual,0.136,7,0,0,Free,0.0
+U00693,2026-01-19,US,iOS,Organic Search,Casual,0.202,8,1,0,Free,0.0
+U00694,2026-01-22,UK,iOS,Paid Social,Regular,0.499,14,1,0,Free,0.0
+U00695,2025-08-17,AU,iOS,Organic Search,Casual,0.259,10,0,0,Free,0.0
+U00696,2025-09-16,US,iOS,Paid Social,Casual,0.177,7,0,0,Free,0.0
+U00697,2025-12-11,CA,iOS,Referral,Casual,0.351,13,1,1,Monthly,7.99
+U00698,2025-11-17,US,iOS,Organic Search,Regular,0.553,19,1,0,Free,0.0
+U00699,2025-08-10,CA,iOS,Paid Social,Power,0.793,9,1,1,Monthly,7.99
+U00700,2025-08-18,CA,iOS,App Store Browse,Regular,0.646,20,1,0,Free,0.0
+U00701,2025-11-04,CA,Android,Paid Search,Casual,0.249,15,1,0,Free,0.0
+U00702,2025-11-22,CA,iOS,Paid Social,Casual,0.274,7,1,0,Free,0.0
+U00703,2025-08-31,US,Android,Paid Search,Casual,0.205,8,1,0,Free,0.0
+U00704,2025-09-01,UK,iOS,Organic Search,Regular,0.468,10,1,0,Free,0.0
+U00705,2025-08-24,UK,Android,Organic Search,Power,0.763,14,1,1,Monthly,9.99
+U00706,2025-11-12,UK,iOS,Paid Search,Regular,0.681,17,1,0,Free,0.0
+U00707,2025-08-02,US,Android,Paid Social,Casual,0.288,9,1,1,Monthly,7.99
+U00708,2025-11-14,US,iOS,Paid Social,Regular,0.566,16,1,0,Free,0.0
+U00709,2025-10-27,US,iOS,Organic Search,Regular,0.491,11,1,0,Free,0.0
+U00710,2025-10-25,US,Android,Influencer,Regular,0.605,14,1,0,Free,0.0
+U00711,2025-12-03,US,iOS,Organic Search,Regular,0.469,7,1,0,Free,0.0
+U00712,2025-11-05,US,iOS,Referral,Casual,0.156,11,1,0,Free,0.0
+U00713,2025-12-12,IN,Web,Paid Social,Regular,0.516,17,1,0,Free,0.0
+U00714,2025-12-19,US,iOS,Paid Search,Casual,0.367,6,1,1,Monthly,9.99
+U00715,2026-01-17,IN,Android,Organic Search,Casual,0.364,14,1,1,Monthly,7.99
+U00716,2025-12-26,US,Android,Organic Search,Regular,0.523,12,1,0,Free,0.0
+U00717,2025-11-04,IN,iOS,Paid Search,Power,0.76,21,1,0,Free,0.0
+U00718,2025-10-30,US,iOS,Referral,Regular,0.452,11,1,0,Free,0.0
+U00719,2025-09-13,US,iOS,Organic Search,Casual,0.255,8,1,1,Monthly,7.99
+U00720,2025-11-19,CA,Android,Paid Social,Casual,0.26,13,1,0,Free,0.0
+U00721,2025-08-26,AU,iOS,Paid Social,Casual,0.297,4,1,0,Free,0.0
+U00722,2026-01-19,US,iOS,Organic Search,Regular,0.605,18,1,0,Free,0.0
+U00723,2026-01-03,US,iOS,Paid Search,Regular,0.538,14,1,1,Monthly,9.99
+U00724,2025-08-23,CA,Web,Organic Search,Power,0.833,14,1,0,Free,0.0
+U00725,2025-12-23,IN,Android,Paid Search,Casual,0.208,6,1,0,Free,0.0
+U00726,2025-08-22,US,Web,Organic Search,Casual,0.282,11,1,0,Free,0.0
+U00727,2025-12-11,US,Android,Paid Social,Regular,0.52,10,1,0,Free,0.0
+U00728,2025-08-17,US,Android,Paid Social,Casual,0.278,7,1,0,Free,0.0
+U00729,2025-10-29,AU,Android,Paid Social,Power,0.823,15,1,0,Free,0.0
+U00730,2025-11-30,US,Web,Paid Social,Casual,0.254,9,1,0,Free,0.0
+U00731,2025-12-13,US,Android,App Store Browse,Casual,0.298,10,1,0,Free,0.0
+U00732,2025-10-17,DE,iOS,Paid Social,Casual,0.156,6,1,0,Free,0.0
+U00733,2026-01-17,US,Android,Influencer,Regular,0.486,5,1,1,Monthly,9.99
+U00734,2025-12-21,US,Android,Organic Search,Regular,0.534,12,1,0,Free,0.0
+U00735,2025-09-08,US,iOS,Paid Social,Regular,0.463,13,1,0,Free,0.0
+U00736,2025-12-02,US,iOS,Organic Search,Regular,0.526,13,1,0,Free,0.0
+U00737,2025-12-13,US,iOS,Paid Social,Casual,0.228,12,1,0,Free,0.0
+U00738,2025-10-01,US,Android,Paid Search,Regular,0.629,10,1,1,Monthly,12.99
+U00739,2025-12-14,IN,iOS,Influencer,Power,0.809,21,1,1,Monthly,7.99
+U00740,2026-01-13,IN,Android,Paid Search,Casual,0.312,6,0,0,Free,0.0
+U00741,2025-12-29,US,iOS,Paid Search,Regular,0.568,15,1,0,Free,0.0
+U00742,2025-12-19,CA,Android,Organic Search,Casual,0.218,10,0,0,Free,0.0
+U00743,2025-11-25,US,iOS,Organic Search,Casual,0.258,14,1,0,Free,0.0
+U00744,2025-09-19,DE,Web,Referral,Casual,0.294,8,1,0,Free,0.0
+U00745,2025-12-25,US,Android,Organic Search,Regular,0.622,11,1,0,Free,0.0
+U00746,2025-10-07,CA,iOS,Organic Search,Casual,0.242,12,1,0,Free,0.0
+U00747,2025-11-06,US,iOS,App Store Browse,Casual,0.151,6,0,0,Free,0.0
+U00748,2025-09-27,UK,iOS,App Store Browse,Regular,0.447,11,1,0,Free,0.0
+U00749,2025-09-27,US,iOS,Paid Search,Casual,0.23,7,1,1,Monthly,9.99
+U00750,2025-08-30,IN,Android,Paid Social,Regular,0.41,10,1,1,Monthly,7.99
+U00751,2026-01-24,US,Web,Influencer,Power,0.908,13,1,1,Monthly,9.99
+U00752,2025-08-28,AU,Android,Organic Search,Casual,0.286,7,1,1,Monthly,9.99
+U00753,2025-08-16,US,Android,Paid Social,Casual,0.212,10,1,1,Monthly,7.99
+U00754,2026-01-20,IN,iOS,Paid Social,Power,0.733,13,1,0,Free,0.0
+U00755,2025-11-11,IN,Android,App Store Browse,Casual,0.312,7,1,0,Free,0.0
+U00756,2025-10-20,DE,Android,App Store Browse,Casual,0.183,3,1,0,Free,0.0
+U00757,2025-12-14,US,iOS,Paid Search,Power,0.739,23,1,0,Free,0.0
+U00758,2025-10-10,US,Web,Organic Search,Regular,0.504,15,1,0,Free,0.0
+U00759,2025-08-24,US,iOS,Paid Social,Regular,0.557,15,1,1,Monthly,9.99
+U00760,2025-12-13,US,Android,Organic Search,Casual,0.287,6,1,1,Monthly,12.99
+U00761,2025-09-02,CA,Web,Influencer,Regular,0.622,21,1,0,Free,0.0
+U00762,2025-11-10,DE,Android,Organic Search,Regular,0.613,11,1,0,Free,0.0
+U00763,2026-01-22,DE,iOS,Organic Search,Regular,0.55,9,0,0,Free,0.0
+U00764,2026-01-20,US,Android,Referral,Regular,0.611,17,1,0,Free,0.0
+U00765,2025-10-06,UK,iOS,Paid Social,Regular,0.51,16,1,0,Free,0.0
+U00766,2025-12-22,AU,Android,Influencer,Casual,0.141,7,1,1,Monthly,7.99
+U00767,2025-11-21,DE,iOS,Organic Search,Casual,0.21,13,1,0,Free,0.0
+U00768,2025-10-28,US,Android,Influencer,Casual,0.202,6,1,0,Free,0.0
+U00769,2025-08-26,US,Web,Organic Search,Casual,0.212,8,1,1,Monthly,9.99
+U00770,2025-10-09,IN,iOS,Organic Search,Casual,0.192,12,1,0,Free,0.0
+U00771,2025-11-28,US,iOS,Paid Social,Casual,0.222,9,1,0,Free,0.0
+U00772,2026-01-29,US,Android,Organic Search,Regular,0.587,26,1,0,Free,0.0
+U00773,2025-08-01,DE,iOS,Paid Search,Casual,0.353,12,1,0,Free,0.0
+U00774,2025-12-11,DE,iOS,Organic Search,Casual,0.146,5,1,0,Free,0.0
+U00775,2026-01-03,AU,iOS,Organic Search,Casual,0.173,13,1,0,Free,0.0
+U00776,2026-01-23,IN,iOS,Referral,Casual,0.203,7,0,0,Free,0.0
+U00777,2025-10-17,US,Android,Organic Search,Regular,0.596,13,1,0,Free,0.0
+U00778,2025-08-22,US,Android,Paid Search,Casual,0.238,7,1,1,Monthly,9.99
+U00779,2025-09-19,US,iOS,Referral,Casual,0.207,9,1,1,Monthly,9.99
+U00780,2026-01-04,CA,iOS,Organic Search,Regular,0.593,15,1,1,Monthly,9.99
+U00781,2026-01-09,US,iOS,Referral,Casual,0.307,8,1,0,Free,0.0
+U00782,2025-11-26,UK,iOS,Organic Search,Casual,0.249,8,1,0,Free,0.0
+U00783,2025-08-23,US,Android,Paid Social,Regular,0.501,22,1,0,Free,0.0
+U00784,2025-08-23,IN,iOS,Organic Search,Casual,0.266,5,1,0,Free,0.0
+U00785,2025-10-27,US,Android,Influencer,Regular,0.536,13,1,1,Monthly,9.99
+U00786,2025-11-17,US,Web,Paid Search,Regular,0.536,15,1,0,Free,0.0
+U00787,2025-08-06,US,Android,Paid Search,Power,0.769,13,1,0,Free,0.0
+U00788,2025-12-05,US,Android,App Store Browse,Casual,0.305,11,1,0,Free,0.0
+U00789,2025-11-09,AU,iOS,Paid Social,Regular,0.565,18,1,0,Free,0.0
+U00790,2025-08-03,US,iOS,Influencer,Regular,0.612,12,1,1,Monthly,12.99
+U00791,2025-08-18,US,iOS,Referral,Casual,0.33,15,1,0,Free,0.0
+U00792,2025-10-23,IN,Android,App Store Browse,Power,0.828,14,1,0,Free,0.0
+U00793,2025-12-11,CA,Android,App Store Browse,Casual,0.22,10,1,0,Free,0.0
+U00794,2025-12-30,US,iOS,App Store Browse,Regular,0.612,14,1,0,Free,0.0
+U00795,2025-10-19,US,iOS,Organic Search,Casual,0.278,10,1,0,Free,0.0
+U00796,2025-09-24,US,iOS,Referral,Casual,0.406,8,1,1,Monthly,7.99
+U00797,2026-01-26,UK,Android,Influencer,Casual,0.269,11,1,1,Monthly,9.99
+U00798,2025-10-24,US,Android,Paid Search,Regular,0.592,15,1,1,Monthly,9.99
+U00799,2025-09-28,US,Android,Organic Search,Casual,0.267,7,1,0,Free,0.0
+U00800,2025-10-21,US,Web,App Store Browse,Casual,0.244,8,1,1,Monthly,7.99
+U00801,2025-08-03,CA,iOS,Organic Search,Casual,0.234,10,1,0,Free,0.0
+U00802,2025-09-25,US,Android,Paid Social,Regular,0.568,21,1,1,Monthly,9.99
+U00803,2025-11-03,IN,Android,Paid Search,Casual,0.281,9,0,0,Free,0.0
+U00804,2026-01-16,US,iOS,Organic Search,Casual,0.319,7,0,0,Free,0.0
+U00805,2025-12-14,CA,Web,Referral,Regular,0.569,20,1,0,Free,0.0
+U00806,2025-12-22,US,iOS,Organic Search,Casual,0.222,14,1,0,Free,0.0
+U00807,2025-11-09,US,Android,Referral,Casual,0.23,6,1,0,Free,0.0
+U00808,2025-08-21,US,Android,Influencer,Casual,0.171,6,1,0,Free,0.0
+U00809,2025-10-11,IN,Web,Paid Social,Power,0.9,17,1,0,Free,0.0
+U00810,2026-01-31,AU,Android,Referral,Regular,0.518,14,1,0,Free,0.0
+U00811,2025-08-09,US,iOS,Organic Search,Casual,0.308,6,0,0,Free,0.0
+U00812,2026-01-09,US,Android,Influencer,Casual,0.267,6,1,1,Monthly,9.99
+U00813,2025-12-04,AU,Android,App Store Browse,Casual,0.268,7,1,0,Free,0.0
+U00814,2025-09-22,US,Android,Organic Search,Power,0.793,20,1,0,Free,0.0
+U00815,2025-12-22,US,Android,Referral,Casual,0.203,6,0,0,Free,0.0
+U00816,2026-01-01,US,iOS,Paid Search,Casual,0.192,8,0,0,Free,0.0
+U00817,2025-08-08,UK,Android,Paid Search,Power,0.904,10,1,1,Monthly,12.99
+U00818,2025-08-20,UK,Android,Referral,Casual,0.257,10,1,0,Free,0.0
+U00819,2025-12-01,CA,iOS,Paid Social,Casual,0.318,12,1,0,Free,0.0
+U00820,2026-01-31,DE,Android,Paid Search,Casual,0.333,18,1,0,Free,0.0
+U00821,2025-08-05,US,Web,Organic Search,Casual,0.225,6,1,0,Free,0.0
+U00822,2025-12-01,US,Android,Paid Social,Casual,0.275,10,1,0,Free,0.0
+U00823,2025-08-26,US,Android,Influencer,Power,0.803,16,1,0,Free,0.0
+U00824,2025-11-28,US,iOS,Organic Search,Casual,0.181,3,1,0,Free,0.0
+U00825,2025-11-23,US,Web,Paid Search,Casual,0.239,9,1,0,Free,0.0
+U00826,2025-08-17,US,iOS,Organic Search,Regular,0.585,12,1,0,Free,0.0
+U00827,2025-12-04,US,Android,Influencer,Regular,0.52,11,1,0,Free,0.0
+U00828,2026-01-13,UK,iOS,Paid Search,Regular,0.531,17,1,0,Free,0.0
+U00829,2026-01-06,US,Android,Paid Social,Regular,0.54,18,1,0,Free,0.0
+U00830,2025-08-06,US,Web,Organic Search,Casual,0.377,17,1,0,Free,0.0
+U00831,2025-09-15,UK,Android,Paid Social,Regular,0.44,12,1,0,Free,0.0
+U00832,2025-09-14,CA,Android,App Store Browse,Casual,0.28,15,1,0,Free,0.0
+U00833,2025-10-23,IN,iOS,Paid Search,Casual,0.235,11,1,0,Free,0.0
+U00834,2025-08-27,IN,Android,Paid Social,Power,0.762,15,1,0,Free,0.0
+U00835,2026-01-05,UK,Android,Referral,Regular,0.533,18,1,0,Free,0.0
+U00836,2025-12-21,US,iOS,Paid Social,Casual,0.29,9,1,0,Free,0.0
+U00837,2025-12-27,US,Android,Paid Social,Casual,0.293,5,1,0,Free,0.0
+U00838,2025-09-06,CA,Android,Paid Social,Power,0.811,10,1,0,Free,0.0
+U00839,2025-08-03,US,Android,Organic Search,Casual,0.316,4,0,0,Free,0.0
+U00840,2026-01-15,US,Android,Referral,Casual,0.326,6,1,0,Free,0.0
+U00841,2025-09-23,US,iOS,Influencer,Casual,0.299,13,1,0,Free,0.0
+U00842,2025-11-29,US,Android,App Store Browse,Casual,0.217,7,1,0,Free,0.0
+U00843,2026-01-15,US,iOS,Influencer,Casual,0.28,3,0,0,Free,0.0
+U00844,2025-08-07,US,iOS,Paid Social,Power,0.83,13,1,0,Free,0.0
+U00845,2025-08-02,IN,iOS,Paid Social,Casual,0.201,10,1,0,Free,0.0
+U00846,2025-08-01,AU,iOS,Paid Search,Casual,0.156,4,1,0,Free,0.0
+U00847,2025-08-29,US,iOS,App Store Browse,Regular,0.429,11,1,0,Free,0.0
+U00848,2025-08-10,AU,Android,Referral,Casual,0.254,6,1,1,Monthly,12.99
+U00849,2025-12-29,US,iOS,Paid Social,Regular,0.568,11,1,0,Free,0.0
+U00850,2025-11-20,AU,iOS,Referral,Regular,0.479,14,1,0,Free,0.0
+U00851,2026-01-28,DE,iOS,Referral,Casual,0.313,9,1,0,Free,0.0
+U00852,2025-12-26,US,Android,App Store Browse,Regular,0.559,16,1,0,Free,0.0
+U00853,2026-01-25,IN,iOS,Referral,Regular,0.631,24,1,0,Free,0.0
+U00854,2025-09-13,DE,iOS,Paid Social,Regular,0.572,15,1,0,Free,0.0
+U00855,2025-09-22,AU,Android,Organic Search,Regular,0.486,10,1,0,Free,0.0
+U00856,2026-01-04,DE,iOS,Paid Social,Casual,0.277,8,1,0,Free,0.0
+U00857,2025-09-15,CA,Web,Paid Social,Regular,0.59,16,1,0,Free,0.0
+U00858,2025-08-11,US,iOS,App Store Browse,Regular,0.517,12,1,0,Free,0.0
+U00859,2025-12-02,IN,iOS,Paid Search,Casual,0.163,6,1,1,Monthly,7.99
+U00860,2025-12-26,CA,iOS,Paid Social,Regular,0.556,14,1,0,Free,0.0
+U00861,2026-01-26,CA,Android,Paid Social,Casual,0.19,5,0,0,Free,0.0
+U00862,2026-01-18,US,iOS,Paid Search,Casual,0.317,11,1,0,Free,0.0
+U00863,2025-08-23,CA,Android,Paid Search,Regular,0.526,19,1,0,Free,0.0
+U00864,2025-12-21,US,iOS,Organic Search,Casual,0.353,12,1,1,Monthly,9.99
+U00865,2026-01-03,IN,Android,Influencer,Casual,0.123,8,1,0,Free,0.0
+U00866,2025-12-07,US,iOS,Paid Social,Casual,0.258,7,1,1,Monthly,9.99
+U00867,2025-12-29,UK,iOS,Paid Social,Regular,0.636,13,1,0,Free,0.0
+U00868,2026-01-02,IN,iOS,Organic Search,Casual,0.197,12,1,0,Free,0.0
+U00869,2025-10-22,US,Android,Paid Search,Regular,0.54,19,1,0,Free,0.0
+U00870,2025-08-08,US,iOS,Referral,Regular,0.526,25,1,0,Free,0.0
+U00871,2025-10-23,US,Web,Influencer,Regular,0.509,10,1,0,Free,0.0
+U00872,2025-09-07,DE,Android,Organic Search,Power,0.815,17,1,0,Free,0.0
+U00873,2025-08-21,IN,Web,App Store Browse,Regular,0.472,17,1,0,Free,0.0
+U00874,2025-08-23,US,iOS,Referral,Casual,0.243,4,1,0,Free,0.0
+U00875,2025-12-07,US,Android,Paid Social,Power,0.831,18,1,0,Free,0.0
+U00876,2025-11-01,US,Android,Organic Search,Casual,0.237,8,1,0,Free,0.0
+U00877,2025-11-08,US,Android,Paid Social,Casual,0.19,9,1,0,Free,0.0
+U00878,2025-12-16,DE,Web,Influencer,Casual,0.312,6,1,0,Free,0.0
+U00879,2025-11-09,IN,Android,Paid Social,Regular,0.594,16,1,1,Monthly,7.99
+U00880,2025-11-24,US,Android,Paid Social,Casual,0.188,8,0,0,Free,0.0
+U00881,2025-08-16,AU,Android,Referral,Casual,0.172,3,1,0,Free,0.0
+U00882,2026-01-04,US,iOS,Influencer,Casual,0.193,4,1,0,Free,0.0
+U00883,2025-10-22,AU,Android,Paid Search,Casual,0.283,13,1,0,Free,0.0
+U00884,2025-08-29,US,Android,Referral,Casual,0.267,6,0,0,Free,0.0
+U00885,2025-12-28,CA,Web,Organic Search,Regular,0.597,13,1,0,Free,0.0
+U00886,2025-12-14,AU,Android,Influencer,Casual,0.23,10,1,1,Monthly,9.99
+U00887,2025-08-10,US,iOS,Organic Search,Casual,0.195,6,1,0,Free,0.0
+U00888,2025-09-05,UK,iOS,Organic Search,Casual,0.305,16,1,1,Monthly,9.99
+U00889,2025-08-03,DE,iOS,App Store Browse,Casual,0.217,5,0,0,Free,0.0
+U00890,2025-09-19,US,Android,Organic Search,Regular,0.561,13,1,0,Free,0.0
+U00891,2025-08-19,US,iOS,Organic Search,Casual,0.157,3,1,1,Monthly,7.99
+U00892,2025-12-09,UK,Android,Paid Search,Casual,0.216,6,1,0,Free,0.0
+U00893,2025-11-05,US,Android,Paid Social,Regular,0.611,12,1,0,Free,0.0
+U00894,2026-01-28,US,Android,Organic Search,Casual,0.207,9,0,0,Free,0.0
+U00895,2025-12-16,US,iOS,Paid Search,Casual,0.299,9,1,1,Monthly,9.99
+U00896,2025-11-21,IN,Android,Referral,Regular,0.41,7,1,1,Monthly,9.99
+U00897,2025-11-02,US,iOS,Referral,Regular,0.516,9,1,0,Free,0.0
+U00898,2025-08-11,US,Android,Organic Search,Regular,0.54,12,1,0,Free,0.0
+U00899,2025-08-13,IN,iOS,Paid Search,Casual,0.355,16,1,1,Monthly,9.99
+U00900,2025-11-22,US,iOS,Influencer,Casual,0.18,9,0,0,Free,0.0
+U00901,2025-08-01,IN,iOS,Organic Search,Casual,0.29,12,1,0,Free,0.0
+U00902,2025-08-08,US,Android,Organic Search,Casual,0.313,10,1,0,Free,0.0
+U00903,2025-09-10,DE,iOS,Organic Search,Casual,0.207,8,1,0,Free,0.0
+U00904,2026-01-10,UK,Android,Paid Search,Power,0.778,17,1,0,Free,0.0
+U00905,2025-10-24,US,Android,Organic Search,Regular,0.558,10,1,0,Free,0.0
+U00906,2025-12-09,AU,Android,Referral,Casual,0.161,9,1,0,Free,0.0
+U00907,2025-10-15,US,iOS,App Store Browse,Casual,0.223,14,1,0,Free,0.0
+U00908,2025-09-01,US,iOS,Organic Search,Regular,0.627,12,1,0,Free,0.0
+U00909,2025-10-08,US,iOS,Paid Search,Casual,0.281,12,1,0,Free,0.0
+U00910,2025-08-17,UK,iOS,Organic Search,Casual,0.241,4,0,0,Free,0.0
+U00911,2025-12-20,US,Android,Organic Search,Casual,0.257,7,1,0,Free,0.0
+U00912,2025-09-03,US,iOS,Referral,Regular,0.585,18,1,0,Free,0.0
+U00913,2025-10-09,US,iOS,Paid Social,Regular,0.596,11,1,1,Monthly,7.99
+U00914,2026-01-28,US,iOS,App Store Browse,Casual,0.217,11,1,0,Free,0.0
+U00915,2025-11-17,US,Android,Paid Search,Casual,0.342,9,1,1,Monthly,7.99
+U00916,2025-10-24,US,iOS,Organic Search,Regular,0.629,16,1,0,Free,0.0
+U00917,2025-11-08,US,Android,Paid Social,Casual,0.291,17,1,0,Free,0.0
+U00918,2025-12-23,US,iOS,Organic Search,Regular,0.499,19,1,0,Free,0.0
+U00919,2025-09-16,CA,Web,Influencer,Casual,0.189,3,1,0,Free,0.0
+U00920,2025-11-26,US,Android,Referral,Regular,0.53,23,1,0,Free,0.0
+U00921,2026-01-08,UK,iOS,Paid Social,Power,0.804,17,1,0,Free,0.0
+U00922,2025-11-14,US,iOS,Paid Search,Casual,0.144,5,0,0,Free,0.0
+U00923,2025-10-22,US,iOS,Paid Search,Casual,0.28,9,1,0,Free,0.0
+U00924,2025-08-27,US,iOS,Referral,Regular,0.627,9,1,1,Monthly,9.99
+U00925,2025-09-15,US,iOS,Organic Search,Casual,0.285,9,1,0,Free,0.0
+U00926,2026-01-22,US,Android,Organic Search,Casual,0.209,3,0,0,Free,0.0
+U00927,2025-11-08,IN,Android,Organic Search,Casual,0.202,6,1,1,Monthly,9.99
+U00928,2025-09-25,US,iOS,Paid Social,Regular,0.568,12,1,0,Free,0.0
+U00929,2025-10-16,US,Android,Paid Social,Casual,0.241,6,1,0,Free,0.0
+U00930,2025-11-15,CA,iOS,Organic Search,Regular,0.577,9,1,0,Free,0.0
+U00931,2025-11-07,US,Web,Paid Social,Casual,0.286,11,1,0,Free,0.0
+U00932,2025-12-07,US,iOS,Paid Social,Casual,0.316,10,1,0,Free,0.0
+U00933,2025-09-17,US,Android,Organic Search,Casual,0.182,7,1,0,Free,0.0
+U00934,2025-11-28,US,Android,App Store Browse,Regular,0.563,17,1,0,Free,0.0
+U00935,2025-10-21,US,iOS,Paid Search,Casual,0.228,7,1,0,Free,0.0
+U00936,2026-01-21,IN,iOS,Paid Social,Casual,0.244,10,1,0,Free,0.0
+U00937,2025-08-30,DE,iOS,Paid Search,Casual,0.302,10,1,0,Free,0.0
+U00938,2025-08-28,US,Android,Paid Social,Casual,0.308,11,1,1,Monthly,7.99
+U00939,2025-10-24,CA,Android,Influencer,Casual,0.334,11,1,0,Free,0.0
+U00940,2025-11-02,IN,Android,Paid Search,Casual,0.276,9,1,0,Free,0.0
+U00941,2025-12-06,US,Android,Paid Social,Casual,0.243,7,1,0,Free,0.0
+U00942,2025-10-14,IN,Android,App Store Browse,Power,0.785,18,1,0,Free,0.0
+U00943,2026-01-16,UK,iOS,Influencer,Casual,0.146,8,1,0,Free,0.0
+U00944,2025-10-27,AU,Android,Influencer,Casual,0.33,10,0,0,Free,0.0
+U00945,2025-08-24,DE,Android,Organic Search,Casual,0.231,12,1,1,Monthly,9.99
+U00946,2025-08-22,US,iOS,Organic Search,Casual,0.28,11,1,0,Free,0.0
+U00947,2026-01-27,US,Android,Referral,Regular,0.591,25,1,0,Free,0.0
+U00948,2025-08-25,US,iOS,Paid Social,Casual,0.175,7,1,0,Free,0.0
+U00949,2026-01-22,US,iOS,Referral,Casual,0.195,5,1,0,Free,0.0
+U00950,2025-09-21,US,Android,Referral,Regular,0.643,16,1,0,Free,0.0
+U00951,2025-08-18,DE,iOS,Paid Social,Casual,0.267,5,0,0,Free,0.0
+U00952,2025-09-26,US,iOS,Paid Social,Power,0.765,22,1,0,Free,0.0
+U00953,2025-11-22,US,iOS,Paid Social,Power,0.792,13,1,0,Free,0.0
+U00954,2025-10-18,IN,Android,Organic Search,Casual,0.315,17,1,0,Free,0.0
+U00955,2025-12-23,US,Android,Paid Search,Casual,0.306,9,1,1,Monthly,7.99
+U00956,2025-11-21,US,iOS,Referral,Casual,0.162,4,0,0,Free,0.0
+U00957,2025-10-13,DE,iOS,Paid Social,Casual,0.348,11,0,0,Free,0.0
+U00958,2025-11-25,US,iOS,Referral,Casual,0.308,7,1,0,Free,0.0
+U00959,2026-01-26,US,Web,Paid Search,Casual,0.241,6,0,0,Free,0.0
+U00960,2025-10-15,US,iOS,Referral,Casual,0.178,9,1,1,Monthly,9.99
+U00961,2025-08-29,DE,Web,Organic Search,Casual,0.313,10,1,0,Free,0.0
+U00962,2025-10-15,US,Android,Referral,Casual,0.279,13,1,1,Monthly,9.99
+U00963,2026-01-02,US,iOS,Referral,Power,0.713,20,1,0,Free,0.0
+U00964,2025-09-10,US,Android,Organic Search,Power,0.786,13,1,0,Free,0.0
+U00965,2026-01-22,US,Android,Paid Search,Casual,0.438,12,1,0,Free,0.0
+U00966,2025-11-17,DE,Android,Influencer,Regular,0.551,14,1,0,Free,0.0
+U00967,2025-11-19,US,iOS,Organic Search,Casual,0.205,7,1,0,Free,0.0
+U00968,2025-09-28,DE,Android,Referral,Regular,0.489,9,1,0,Free,0.0
+U00969,2026-01-17,US,Android,App Store Browse,Casual,0.356,14,1,0,Free,0.0
+U00970,2025-08-07,US,Android,Influencer,Regular,0.601,12,1,1,Monthly,9.99
+U00971,2025-09-24,AU,Web,Paid Social,Casual,0.334,10,1,0,Free,0.0
+U00972,2025-10-16,US,iOS,Paid Search,Casual,0.265,11,1,0,Free,0.0
+U00973,2025-10-27,US,Android,App Store Browse,Power,0.875,23,1,0,Free,0.0
+U00974,2025-10-27,AU,Android,Paid Search,Casual,0.199,6,1,0,Free,0.0
+U00975,2025-08-28,US,iOS,Organic Search,Casual,0.26,6,1,0,Free,0.0
+U00976,2025-09-11,US,iOS,Organic Search,Regular,0.567,12,1,1,Monthly,9.99
+U00977,2025-08-18,DE,iOS,Referral,Regular,0.633,12,1,0,Free,0.0
+U00978,2025-11-14,US,Android,Paid Social,Regular,0.569,16,1,0,Free,0.0
+U00979,2025-10-04,US,iOS,Organic Search,Regular,0.512,9,1,1,Monthly,7.99
+U00980,2025-11-13,US,Android,Paid Social,Regular,0.554,14,1,0,Free,0.0
+U00981,2025-11-17,US,iOS,Referral,Casual,0.149,7,1,0,Free,0.0
+U00982,2025-12-08,US,iOS,Paid Social,Casual,0.111,2,1,0,Free,0.0
+U00983,2025-11-09,UK,Android,Influencer,Regular,0.6,16,1,0,Free,0.0
+U00984,2025-11-28,US,iOS,Referral,Regular,0.528,9,0,0,Free,0.0
+U00985,2025-11-17,UK,Android,App Store Browse,Casual,0.234,8,1,1,Monthly,7.99
+U00986,2025-11-29,US,iOS,Influencer,Casual,0.3,12,1,0,Free,0.0
+U00987,2025-11-22,US,Web,Organic Search,Regular,0.634,14,1,0,Free,0.0
+U00988,2025-09-28,US,iOS,Paid Search,Casual,0.282,7,0,1,Monthly,9.99
+U00989,2025-09-15,UK,Web,Organic Search,Casual,0.366,12,0,0,Free,0.0
+U00990,2025-12-23,US,Android,App Store Browse,Regular,0.58,18,1,0,Free,0.0
+U00991,2025-10-03,US,iOS,Organic Search,Casual,0.268,11,1,1,Monthly,7.99
+U00992,2025-11-10,AU,iOS,Paid Search,Casual,0.264,14,1,1,Monthly,12.99
+U00993,2025-09-06,CA,iOS,Influencer,Casual,0.173,6,1,0,Free,0.0
+U00994,2025-10-19,US,Android,Organic Search,Casual,0.307,17,1,0,Free,0.0
+U00995,2025-11-06,AU,Android,Influencer,Regular,0.403,10,1,0,Free,0.0
+U00996,2025-11-24,US,iOS,Organic Search,Casual,0.215,6,1,0,Free,0.0
+U00997,2025-11-05,US,iOS,Paid Social,Casual,0.251,6,1,0,Free,0.0
+U00998,2025-10-06,US,Android,Paid Social,Casual,0.203,10,1,0,Free,0.0
+U00999,2026-01-24,US,Android,Paid Social,Casual,0.223,8,0,0,Free,0.0
+U01000,2025-11-03,US,Android,Paid Search,Casual,0.36,8,0,0,Free,0.0
+U01001,2025-12-27,IN,iOS,App Store Browse,Casual,0.316,11,1,1,Monthly,7.99
+U01002,2025-12-14,US,Android,Paid Social,Casual,0.209,6,1,0,Free,0.0
+U01003,2025-11-11,IN,Web,Paid Search,Casual,0.222,8,1,0,Free,0.0
+U01004,2026-01-11,DE,iOS,Influencer,Casual,0.173,7,1,0,Free,0.0
+U01005,2025-08-24,CA,iOS,Referral,Casual,0.292,6,1,0,Free,0.0
+U01006,2026-01-17,UK,iOS,Organic Search,Casual,0.235,12,1,0,Free,0.0
+U01007,2026-01-04,UK,Android,App Store Browse,Casual,0.132,7,0,1,Monthly,7.99
+U01008,2025-11-01,DE,iOS,Organic Search,Casual,0.256,12,1,1,Monthly,7.99
+U01009,2025-12-13,US,Web,Paid Search,Casual,0.276,4,1,0,Free,0.0
+U01010,2025-11-04,US,Android,Paid Search,Casual,0.308,6,0,0,Free,0.0
+U01011,2025-09-19,US,Android,Referral,Regular,0.546,14,1,0,Free,0.0
+U01012,2025-12-26,US,Android,Organic Search,Casual,0.228,7,1,0,Free,0.0
+U01013,2025-09-15,US,iOS,Organic Search,Regular,0.669,15,1,1,Monthly,12.99
+U01014,2025-09-27,CA,Android,Referral,Regular,0.55,13,1,0,Free,0.0
+U01015,2025-11-04,US,iOS,Organic Search,Casual,0.293,15,1,0,Free,0.0
+U01016,2026-01-02,AU,Android,Paid Social,Casual,0.218,6,1,0,Free,0.0
+U01017,2025-10-10,US,Web,Referral,Casual,0.291,4,1,0,Free,0.0
+U01018,2025-10-30,US,Android,Paid Search,Casual,0.163,4,0,0,Free,0.0
+U01019,2025-08-08,US,Android,Organic Search,Casual,0.222,6,1,0,Free,0.0
+U01020,2025-08-22,US,iOS,Paid Social,Casual,0.178,8,1,0,Free,0.0
+U01021,2025-08-11,US,Android,App Store Browse,Regular,0.514,15,1,1,Monthly,12.99
+U01022,2025-08-14,US,Android,Paid Social,Casual,0.325,9,1,0,Free,0.0
+U01023,2026-01-07,US,Android,Organic Search,Regular,0.513,13,1,0,Free,0.0
+U01024,2026-01-02,US,iOS,Organic Search,Regular,0.593,7,1,0,Free,0.0
+U01025,2025-12-30,US,iOS,Paid Social,Casual,0.341,9,1,1,Monthly,7.99
+U01026,2025-08-11,US,Android,App Store Browse,Power,0.798,11,1,0,Free,0.0
+U01027,2025-08-15,US,iOS,Paid Social,Power,0.86,18,1,1,Annual,79.99
+U01028,2025-09-21,US,Android,Organic Search,Casual,0.282,9,0,0,Free,0.0
+U01029,2025-11-13,US,Android,Paid Search,Casual,0.257,10,1,1,Monthly,12.99
+U01030,2025-10-01,US,Web,Organic Search,Casual,0.295,8,1,1,Monthly,9.99
+U01031,2025-10-29,US,iOS,Organic Search,Casual,0.36,15,1,0,Free,0.0
+U01032,2025-09-01,IN,Web,App Store Browse,Casual,0.212,5,1,0,Free,0.0
+U01033,2025-12-13,DE,iOS,Referral,Casual,0.192,8,1,0,Free,0.0
+U01034,2025-09-27,AU,iOS,Organic Search,Casual,0.189,7,1,0,Free,0.0
+U01035,2025-08-13,US,Android,Paid Social,Regular,0.61,13,1,1,Monthly,7.99
+U01036,2025-12-15,US,iOS,Organic Search,Casual,0.318,14,1,1,Monthly,7.99
+U01037,2026-01-14,US,iOS,Organic Search,Casual,0.218,6,1,0,Free,0.0
+U01038,2025-08-03,IN,iOS,Paid Search,Casual,0.122,5,0,0,Free,0.0
+U01039,2025-10-20,IN,Android,Paid Search,Regular,0.51,8,1,1,Monthly,9.99
+U01040,2025-12-31,IN,Android,Referral,Regular,0.583,16,1,0,Free,0.0
+U01041,2025-12-08,AU,iOS,Influencer,Casual,0.246,7,1,0,Free,0.0
+U01042,2026-01-05,US,iOS,Organic Search,Regular,0.561,17,1,1,Monthly,7.99
+U01043,2025-10-16,IN,Android,App Store Browse,Casual,0.219,6,1,1,Monthly,7.99
+U01044,2025-10-08,IN,iOS,Paid Search,Regular,0.611,13,1,1,Monthly,7.99
+U01045,2025-12-09,US,Android,Organic Search,Casual,0.271,9,0,0,Free,0.0
+U01046,2025-08-29,AU,Web,Influencer,Casual,0.285,12,1,1,Monthly,9.99
+U01047,2025-09-14,US,Android,Organic Search,Regular,0.56,18,1,1,Monthly,7.99
+U01048,2025-11-19,DE,Android,Paid Search,Regular,0.581,14,1,1,Monthly,7.99
+U01049,2025-12-01,IN,Android,Referral,Regular,0.578,14,1,0,Free,0.0
+U01050,2025-08-23,US,Android,Organic Search,Casual,0.194,4,1,0,Free,0.0
+U01051,2025-11-02,UK,iOS,Influencer,Regular,0.572,17,1,0,Free,0.0
+U01052,2025-10-07,US,iOS,Organic Search,Casual,0.297,9,1,1,Monthly,9.99
+U01053,2025-11-01,IN,Android,Influencer,Regular,0.619,9,1,0,Free,0.0
+U01054,2026-01-24,IN,iOS,Organic Search,Regular,0.575,20,1,0,Free,0.0
+U01055,2025-08-15,CA,Android,Organic Search,Casual,0.192,5,0,0,Free,0.0
+U01056,2026-01-31,AU,Android,Paid Social,Casual,0.201,13,0,0,Free,0.0
+U01057,2025-10-22,US,Web,Influencer,Casual,0.224,5,0,0,Free,0.0
+U01058,2025-12-21,US,iOS,Organic Search,Casual,0.261,14,1,0,Free,0.0
+U01059,2025-10-18,US,Android,Influencer,Casual,0.243,15,1,0,Free,0.0
+U01060,2025-09-27,US,Android,Organic Search,Casual,0.183,7,0,0,Free,0.0
+U01061,2025-12-20,US,iOS,Paid Social,Casual,0.182,7,0,0,Free,0.0
+U01062,2025-12-05,US,Android,Paid Social,Casual,0.124,5,1,0,Free,0.0
+U01063,2025-08-27,US,Android,Organic Search,Casual,0.063,3,0,0,Free,0.0
+U01064,2025-12-08,US,Web,App Store Browse,Regular,0.542,11,1,0,Free,0.0
+U01065,2025-12-17,AU,Android,Paid Social,Casual,0.389,20,1,0,Free,0.0
+U01066,2025-10-11,US,iOS,Referral,Casual,0.358,8,1,1,Monthly,9.99
+U01067,2026-01-18,AU,iOS,Paid Search,Regular,0.491,11,1,0,Free,0.0
+U01068,2025-11-26,US,Android,Paid Search,Power,0.809,12,1,0,Free,0.0
+U01069,2025-10-01,US,iOS,Paid Search,Casual,0.162,8,1,0,Free,0.0
+U01070,2025-08-02,US,iOS,Influencer,Casual,0.171,5,1,0,Free,0.0
+U01071,2025-12-03,US,iOS,Referral,Casual,0.178,8,1,0,Free,0.0
+U01072,2025-09-08,US,iOS,Paid Search,Power,0.786,13,1,1,Monthly,12.99
+U01073,2025-12-18,US,Android,Paid Search,Regular,0.539,11,1,1,Monthly,7.99
+U01074,2025-11-05,US,iOS,Paid Search,Regular,0.565,9,1,0,Free,0.0
+U01075,2025-10-25,US,Android,Paid Social,Regular,0.59,16,1,0,Free,0.0
+U01076,2025-08-31,CA,iOS,Paid Search,Casual,0.23,12,1,0,Free,0.0
+U01077,2025-12-09,US,Android,Paid Social,Casual,0.252,8,0,0,Free,0.0
+U01078,2025-08-31,IN,iOS,Referral,Regular,0.484,10,1,0,Free,0.0
+U01079,2025-10-16,US,Android,App Store Browse,Regular,0.469,13,1,0,Free,0.0
+U01080,2026-01-01,DE,iOS,App Store Browse,Casual,0.16,12,1,0,Free,0.0
+U01081,2026-01-17,IN,Android,Influencer,Casual,0.289,13,1,0,Free,0.0
+U01082,2026-01-30,DE,iOS,Paid Search,Casual,0.23,10,1,0,Free,0.0
+U01083,2026-01-24,IN,iOS,Referral,Power,0.688,18,1,0,Free,0.0
+U01084,2025-11-11,US,iOS,Organic Search,Casual,0.246,7,1,0,Free,0.0
+U01085,2025-09-06,US,Android,Paid Social,Regular,0.475,4,1,0,Free,0.0
+U01086,2026-01-02,US,Web,Organic Search,Casual,0.35,12,1,0,Free,0.0
+U01087,2025-12-26,IN,iOS,Organic Search,Casual,0.215,11,1,0,Free,0.0
+U01088,2026-01-30,CA,iOS,App Store Browse,Regular,0.591,12,1,0,Free,0.0
+U01089,2025-11-28,US,Android,Influencer,Casual,0.315,7,1,0,Free,0.0
+U01090,2025-08-27,AU,Android,Paid Search,Regular,0.493,9,1,0,Free,0.0
+U01091,2025-11-01,US,iOS,Organic Search,Regular,0.555,19,1,0,Free,0.0
+U01092,2025-10-22,CA,Android,Referral,Regular,0.583,8,1,0,Free,0.0
+U01093,2026-01-03,UK,Android,Paid Social,Casual,0.257,11,1,0,Free,0.0
+U01094,2025-10-12,US,Android,Influencer,Regular,0.572,10,1,1,Monthly,7.99
+U01095,2025-09-30,CA,iOS,App Store Browse,Casual,0.17,10,0,0,Free,0.0
+U01096,2025-08-15,IN,iOS,Paid Social,Casual,0.283,9,1,0,Free,0.0
+U01097,2026-01-01,US,iOS,Organic Search,Casual,0.221,8,0,0,Free,0.0
+U01098,2025-12-17,US,Android,Organic Search,Casual,0.271,8,1,0,Free,0.0
+U01099,2025-08-08,US,iOS,Organic Search,Casual,0.305,10,1,1,Monthly,9.99
+U01100,2025-10-19,UK,Android,Paid Social,Casual,0.29,17,1,0,Free,0.0
+U01101,2025-10-28,US,Android,Organic Search,Casual,0.271,10,1,1,Monthly,7.99
+U01102,2025-10-26,DE,Android,Organic Search,Casual,0.289,7,1,0,Free,0.0
+U01103,2026-01-17,AU,iOS,Organic Search,Casual,0.291,9,1,0,Free,0.0
+U01104,2025-08-28,US,iOS,Organic Search,Casual,0.34,14,1,0,Free,0.0
+U01105,2025-09-26,US,iOS,Referral,Regular,0.548,20,1,0,Free,0.0
+U01106,2025-09-03,CA,Android,Organic Search,Casual,0.26,8,1,1,Monthly,12.99
+U01107,2025-09-14,UK,Web,Influencer,Casual,0.306,10,1,0,Free,0.0
+U01108,2026-01-14,US,iOS,Organic Search,Regular,0.521,13,1,0,Free,0.0
+U01109,2026-01-21,US,Android,Organic Search,Regular,0.47,15,1,0,Free,0.0
+U01110,2025-08-09,US,iOS,Organic Search,Regular,0.58,12,1,1,Monthly,9.99
+U01111,2025-11-25,DE,iOS,Referral,Regular,0.538,12,1,0,Free,0.0
+U01112,2025-09-12,US,iOS,Organic Search,Power,0.728,13,1,0,Free,0.0
+U01113,2025-09-05,AU,Android,Paid Search,Casual,0.28,8,1,0,Free,0.0
+U01114,2025-09-23,US,iOS,Organic Search,Power,0.886,26,1,0,Free,0.0
+U01115,2025-09-05,AU,iOS,App Store Browse,Power,0.702,11,1,0,Free,0.0
+U01116,2025-10-30,US,Android,Organic Search,Casual,0.311,10,1,0,Free,0.0
+U01117,2026-01-31,US,Android,Paid Social,Regular,0.398,14,1,0,Free,0.0
+U01118,2025-11-16,AU,iOS,Influencer,Regular,0.526,13,1,0,Free,0.0
+U01119,2025-12-12,DE,iOS,Organic Search,Regular,0.66,18,1,0,Free,0.0
+U01120,2025-10-30,US,Android,Organic Search,Regular,0.53,10,1,0,Free,0.0
+U01121,2025-08-03,US,iOS,Influencer,Casual,0.255,6,0,1,Monthly,9.99
+U01122,2025-08-16,US,iOS,Organic Search,Casual,0.296,13,1,0,Free,0.0
+U01123,2025-09-19,US,Android,Organic Search,Regular,0.447,10,1,0,Free,0.0
+U01124,2025-09-14,US,iOS,Paid Social,Regular,0.554,13,1,1,Monthly,7.99
+U01125,2026-01-02,AU,Android,Organic Search,Regular,0.554,12,1,0,Free,0.0
+U01126,2026-01-03,US,iOS,App Store Browse,Regular,0.662,10,1,0,Free,0.0
+U01127,2026-01-05,UK,iOS,Paid Search,Regular,0.476,11,1,0,Free,0.0
+U01128,2025-11-26,US,iOS,Paid Search,Power,0.777,19,1,0,Free,0.0
+U01129,2025-11-11,US,iOS,Organic Search,Casual,0.194,5,1,0,Free,0.0
+U01130,2025-11-28,UK,iOS,Referral,Power,0.738,16,1,0,Free,0.0
+U01131,2025-10-14,US,iOS,Paid Search,Casual,0.318,7,1,1,Monthly,12.99
+U01132,2025-12-02,UK,Web,Organic Search,Casual,0.252,9,1,0,Free,0.0
+U01133,2025-12-25,US,Android,Influencer,Casual,0.217,13,1,0,Free,0.0
+U01134,2025-12-19,DE,iOS,Paid Search,Casual,0.219,16,1,0,Free,0.0
+U01135,2025-11-21,IN,Android,Referral,Casual,0.216,8,1,0,Free,0.0
+U01136,2025-08-11,AU,Android,Organic Search,Casual,0.222,7,1,0,Free,0.0
+U01137,2025-12-12,US,Android,Organic Search,Regular,0.474,12,1,0,Free,0.0
+U01138,2025-10-07,US,iOS,Referral,Regular,0.534,6,0,0,Free,0.0
+U01139,2025-12-15,US,iOS,Referral,Casual,0.228,9,1,1,Monthly,9.99
+U01140,2025-11-08,US,iOS,Paid Social,Regular,0.505,10,1,1,Monthly,7.99
+U01141,2026-01-10,US,iOS,Organic Search,Casual,0.259,8,1,1,Monthly,12.99
+U01142,2025-10-02,US,iOS,Influencer,Casual,0.264,8,1,0,Free,0.0
+U01143,2026-01-19,US,Android,Organic Search,Casual,0.217,13,1,0,Free,0.0
+U01144,2026-01-03,US,Web,Paid Social,Casual,0.241,9,1,0,Free,0.0
+U01145,2025-09-30,US,iOS,Paid Search,Regular,0.68,17,1,0,Free,0.0
+U01146,2025-10-28,US,iOS,Organic Search,Casual,0.377,14,1,1,Monthly,9.99
+U01147,2025-11-06,US,iOS,Organic Search,Regular,0.487,12,1,1,Monthly,12.99
+U01148,2025-12-20,CA,Android,Organic Search,Casual,0.195,4,1,1,Monthly,7.99
+U01149,2025-12-05,US,Android,App Store Browse,Regular,0.486,15,1,0,Free,0.0
+U01150,2026-01-04,US,iOS,Paid Social,Power,0.863,13,1,0,Free,0.0
+U01151,2025-10-08,US,Android,Paid Search,Casual,0.226,7,1,0,Free,0.0
+U01152,2025-11-01,IN,Web,App Store Browse,Casual,0.264,8,1,0,Free,0.0
+U01153,2025-10-19,US,Android,Paid Search,Casual,0.37,8,1,1,Monthly,9.99
+U01154,2026-01-15,CA,Android,Paid Search,Casual,0.249,7,1,0,Free,0.0
+U01155,2025-09-26,DE,Android,Paid Search,Casual,0.292,6,0,0,Free,0.0
+U01156,2025-11-17,US,iOS,Paid Social,Casual,0.281,8,1,0,Free,0.0
+U01157,2025-08-23,AU,iOS,Paid Search,Regular,0.515,10,1,0,Free,0.0
+U01158,2026-01-04,IN,Android,App Store Browse,Power,0.864,16,1,0,Free,0.0
+U01159,2025-10-10,US,iOS,Referral,Casual,0.199,6,0,0,Free,0.0
+U01160,2025-10-02,US,Android,Paid Social,Casual,0.33,4,1,0,Free,0.0
+U01161,2025-11-16,UK,iOS,Paid Social,Casual,0.215,7,1,0,Free,0.0
+U01162,2025-10-31,DE,iOS,Influencer,Casual,0.221,10,1,0,Free,0.0
+U01163,2026-01-04,US,iOS,Organic Search,Regular,0.485,17,1,0,Free,0.0
+U01164,2025-11-06,US,Web,Influencer,Casual,0.195,13,1,0,Free,0.0
+U01165,2025-11-04,CA,iOS,Organic Search,Casual,0.224,11,1,0,Free,0.0
+U01166,2025-08-20,US,iOS,Referral,Casual,0.104,7,0,0,Free,0.0
+U01167,2025-08-05,IN,iOS,Influencer,Casual,0.236,8,1,1,Monthly,7.99
+U01168,2025-10-13,US,Android,Paid Social,Casual,0.22,7,1,0,Free,0.0
+U01169,2026-01-31,UK,Web,Organic Search,Casual,0.297,13,1,1,Monthly,9.99
+U01170,2026-01-16,AU,iOS,Influencer,Regular,0.575,13,1,0,Free,0.0
+U01171,2025-11-24,CA,Web,Paid Social,Casual,0.208,10,1,1,Monthly,7.99
+U01172,2025-11-25,CA,iOS,Paid Social,Regular,0.522,12,1,0,Free,0.0
+U01173,2025-10-12,IN,Android,Paid Search,Casual,0.236,6,1,0,Free,0.0
+U01174,2025-09-02,IN,iOS,Paid Social,Regular,0.639,8,1,0,Free,0.0
+U01175,2025-08-02,AU,Android,Referral,Casual,0.201,8,0,0,Free,0.0
+U01176,2025-10-02,US,Android,Organic Search,Casual,0.207,12,1,1,Monthly,7.99
+U01177,2025-09-28,CA,Android,Paid Social,Regular,0.482,11,1,0,Free,0.0
+U01178,2025-09-05,US,iOS,Influencer,Regular,0.461,11,1,1,Monthly,7.99
+U01179,2025-09-17,AU,Android,Organic Search,Casual,0.268,11,1,0,Free,0.0
+U01180,2025-08-05,UK,Web,Paid Social,Casual,0.262,5,1,0,Free,0.0
+U01181,2025-11-20,US,iOS,Paid Search,Regular,0.627,10,1,0,Free,0.0
+U01182,2026-01-18,US,Android,Influencer,Power,0.862,18,1,1,Monthly,9.99
+U01183,2025-12-06,US,Android,Paid Search,Regular,0.694,14,1,1,Monthly,9.99
+U01184,2025-10-22,UK,iOS,Influencer,Casual,0.246,9,1,0,Free,0.0
+U01185,2025-10-17,US,Android,Organic Search,Casual,0.234,12,1,1,Monthly,9.99
+U01186,2025-09-26,US,iOS,Paid Social,Casual,0.172,2,0,0,Free,0.0
+U01187,2025-08-27,AU,Android,App Store Browse,Casual,0.292,21,1,0,Free,0.0
+U01188,2025-11-19,IN,iOS,Influencer,Casual,0.257,9,1,0,Free,0.0
+U01189,2025-11-13,US,iOS,Paid Search,Regular,0.589,17,1,0,Free,0.0
+U01190,2025-08-02,US,Android,Paid Social,Casual,0.182,8,1,0,Free,0.0
+U01191,2025-10-16,DE,Android,Paid Social,Regular,0.571,9,1,0,Free,0.0
+U01192,2025-09-21,UK,Android,Organic Search,Regular,0.562,17,1,0,Free,0.0
+U01193,2025-09-01,CA,Web,Influencer,Regular,0.558,24,1,1,Monthly,7.99
+U01194,2025-12-08,US,iOS,Influencer,Casual,0.209,3,0,0,Free,0.0
+U01195,2025-11-05,US,iOS,Paid Social,Casual,0.321,15,1,0,Free,0.0
+U01196,2025-11-25,US,iOS,Organic Search,Casual,0.373,9,1,1,Monthly,9.99
+U01197,2025-12-10,UK,iOS,Paid Social,Casual,0.183,6,1,0,Free,0.0
+U01198,2026-01-28,US,Android,Organic Search,Casual,0.293,8,1,0,Free,0.0
+U01199,2025-12-26,US,Android,Referral,Casual,0.077,6,1,0,Free,0.0
+U01200,2025-11-23,UK,Android,Paid Search,Casual,0.29,11,1,0,Free,0.0
+U01201,2026-01-09,DE,iOS,Organic Search,Casual,0.138,8,1,0,Free,0.0
+U01202,2025-10-27,IN,iOS,Paid Search,Regular,0.519,13,1,0,Free,0.0
+U01203,2026-01-29,US,Android,App Store Browse,Regular,0.471,13,1,0,Free,0.0
+U01204,2025-12-19,US,iOS,Organic Search,Casual,0.237,6,1,0,Free,0.0
+U01205,2025-11-28,US,iOS,Paid Social,Power,0.85,18,1,0,Free,0.0
+U01206,2026-01-14,US,iOS,Paid Social,Casual,0.139,7,1,0,Free,0.0
+U01207,2025-11-03,US,iOS,Organic Search,Casual,0.228,9,0,0,Free,0.0
+U01208,2025-12-11,US,iOS,Paid Search,Regular,0.519,15,1,0,Free,0.0
+U01209,2025-09-22,CA,Android,Paid Search,Casual,0.345,12,1,0,Free,0.0
+U01210,2026-01-25,AU,iOS,Organic Search,Casual,0.276,13,1,0,Free,0.0
+U01211,2025-11-23,DE,Android,Organic Search,Casual,0.179,9,0,0,Free,0.0
+U01212,2025-12-22,US,Android,Influencer,Casual,0.222,5,1,0,Free,0.0
+U01213,2025-10-24,US,Android,Paid Social,Regular,0.643,19,1,0,Free,0.0
+U01214,2026-01-07,US,iOS,Paid Search,Casual,0.293,4,1,1,Monthly,7.99
+U01215,2025-08-14,US,iOS,Paid Search,Casual,0.195,9,1,0,Free,0.0
+U01216,2025-08-21,US,iOS,Influencer,Casual,0.234,6,1,0,Free,0.0
+U01217,2025-11-02,US,iOS,Referral,Casual,0.236,7,1,0,Free,0.0
+U01218,2025-12-13,IN,iOS,Influencer,Casual,0.218,4,1,0,Free,0.0
+U01219,2025-12-27,US,Android,Paid Search,Regular,0.447,15,1,0,Free,0.0
+U01220,2025-10-20,AU,iOS,Paid Social,Regular,0.509,13,1,0,Free,0.0
+U01221,2025-11-28,US,iOS,Paid Social,Casual,0.333,9,0,0,Free,0.0
+U01222,2025-11-10,US,iOS,Paid Social,Regular,0.527,12,1,0,Free,0.0
+U01223,2026-01-24,US,Android,Paid Social,Casual,0.244,5,0,1,Monthly,12.99
+U01224,2025-11-29,US,Android,Organic Search,Casual,0.258,8,1,0,Free,0.0
+U01225,2025-10-16,US,Android,Paid Social,Casual,0.383,11,1,0,Free,0.0
+U01226,2026-01-26,DE,Android,Paid Social,Casual,0.251,12,1,0,Free,0.0
+U01227,2025-08-20,US,Android,Organic Search,Regular,0.616,14,1,0,Free,0.0
+U01228,2026-01-29,US,Android,Organic Search,Power,0.764,36,1,0,Free,0.0
+U01229,2025-08-29,CA,iOS,Referral,Casual,0.234,10,1,0,Free,0.0
+U01230,2025-09-23,US,Android,Paid Search,Casual,0.251,8,1,0,Free,0.0
+U01231,2025-12-30,CA,Android,Influencer,Casual,0.204,8,1,1,Monthly,9.99
+U01232,2025-12-14,US,iOS,Paid Search,Casual,0.238,10,1,0,Free,0.0
+U01233,2026-01-26,IN,Android,Influencer,Casual,0.303,8,1,0,Free,0.0
+U01234,2025-12-16,US,Android,Referral,Power,0.752,19,1,0,Free,0.0
+U01235,2025-11-26,US,Android,Organic Search,Regular,0.55,6,1,0,Free,0.0
+U01236,2025-10-03,UK,iOS,App Store Browse,Power,0.843,19,1,0,Free,0.0
+U01237,2025-08-01,AU,Android,Organic Search,Casual,0.201,5,1,1,Monthly,7.99
+U01238,2025-08-23,US,Android,Paid Search,Casual,0.316,11,1,1,Monthly,12.99
+U01239,2025-09-24,CA,iOS,Referral,Casual,0.254,9,1,1,Monthly,7.99
+U01240,2025-08-08,US,iOS,Paid Social,Power,0.79,14,1,0,Free,0.0
+U01241,2025-11-02,US,iOS,Paid Search,Casual,0.13,7,0,0,Free,0.0
+U01242,2025-12-22,US,iOS,Paid Social,Casual,0.228,6,1,0,Free,0.0
+U01243,2026-01-25,UK,Web,Organic Search,Casual,0.272,18,1,0,Free,0.0
+U01244,2025-10-30,US,Android,Organic Search,Regular,0.655,14,1,1,Monthly,7.99
+U01245,2026-01-09,UK,iOS,Organic Search,Regular,0.584,14,1,1,Monthly,7.99
+U01246,2026-01-29,US,iOS,Organic Search,Regular,0.618,24,1,0,Free,0.0
+U01247,2026-01-06,AU,Web,Paid Search,Casual,0.177,2,1,0,Free,0.0
+U01248,2025-10-25,IN,iOS,Paid Search,Regular,0.542,16,1,1,Monthly,7.99
+U01249,2025-09-29,US,Android,Paid Social,Casual,0.323,6,1,0,Free,0.0
+U01250,2026-01-27,US,iOS,Referral,Casual,0.197,11,1,0,Free,0.0
+U01251,2025-09-14,US,iOS,Organic Search,Casual,0.308,14,0,0,Free,0.0
+U01252,2025-10-15,AU,Android,Organic Search,Casual,0.294,6,1,1,Monthly,9.99
+U01253,2025-08-14,US,iOS,Referral,Casual,0.266,6,0,0,Free,0.0
+U01254,2025-12-25,US,Android,App Store Browse,Power,0.78,19,1,0,Free,0.0
+U01255,2025-11-28,US,iOS,Paid Social,Casual,0.191,5,0,0,Free,0.0
+U01256,2025-08-16,IN,Android,Organic Search,Casual,0.357,18,1,0,Free,0.0
+U01257,2025-09-10,US,Android,Referral,Regular,0.588,10,1,0,Free,0.0
+U01258,2025-11-11,US,Android,Influencer,Regular,0.57,10,1,1,Monthly,9.99
+U01259,2025-11-08,DE,iOS,Paid Social,Casual,0.225,8,1,0,Free,0.0
+U01260,2025-12-26,US,Android,Organic Search,Casual,0.252,12,1,0,Free,0.0
+U01261,2025-09-18,IN,Web,Organic Search,Casual,0.26,2,0,0,Free,0.0
+U01262,2026-01-18,US,iOS,Paid Search,Casual,0.274,11,1,0,Free,0.0
+U01263,2025-10-21,US,iOS,App Store Browse,Regular,0.594,13,1,1,Monthly,7.99
+U01264,2025-12-30,AU,Android,Paid Search,Casual,0.203,7,1,0,Free,0.0
+U01265,2025-09-13,UK,iOS,Paid Social,Casual,0.162,7,1,0,Free,0.0
+U01266,2025-08-07,UK,Android,Paid Search,Casual,0.255,5,1,0,Free,0.0
+U01267,2025-08-11,US,Android,Influencer,Casual,0.145,8,1,0,Free,0.0
+U01268,2025-10-08,US,iOS,Paid Social,Casual,0.231,6,1,1,Monthly,12.99
+U01269,2026-01-23,US,Android,Influencer,Regular,0.519,8,1,0,Free,0.0
+U01270,2025-08-09,US,Android,Paid Social,Casual,0.28,2,0,0,Free,0.0
+U01271,2025-10-07,US,iOS,Paid Social,Regular,0.669,15,1,1,Monthly,9.99
+U01272,2025-08-21,US,Android,Paid Search,Casual,0.133,6,1,1,Monthly,7.99
+U01273,2026-01-19,US,iOS,Paid Social,Regular,0.686,14,1,0,Free,0.0
+U01274,2025-12-03,US,iOS,App Store Browse,Casual,0.236,9,1,0,Free,0.0
+U01275,2025-12-19,US,Android,Paid Search,Casual,0.271,11,1,0,Free,0.0
+U01276,2025-12-10,US,iOS,Paid Social,Casual,0.165,10,1,0,Free,0.0
+U01277,2025-11-29,AU,Android,Paid Social,Casual,0.31,13,1,0,Free,0.0
+U01278,2025-12-21,CA,iOS,Paid Search,Regular,0.552,13,1,0,Free,0.0
+U01279,2025-08-02,US,Android,Paid Social,Regular,0.546,8,1,1,Monthly,7.99
+U01280,2026-01-07,UK,iOS,Referral,Regular,0.434,16,1,0,Free,0.0
+U01281,2025-12-15,IN,Android,Paid Social,Casual,0.254,7,0,1,Monthly,9.99
+U01282,2025-12-15,US,Android,Paid Social,Casual,0.301,8,1,0,Free,0.0
+U01283,2025-10-12,US,Android,Paid Search,Regular,0.536,14,1,0,Free,0.0
+U01284,2025-12-26,US,Web,Organic Search,Regular,0.62,21,1,0,Free,0.0
+U01285,2025-10-10,US,Android,Paid Search,Casual,0.318,12,1,0,Free,0.0
+U01286,2025-08-10,IN,Android,Paid Search,Regular,0.512,6,1,1,Monthly,9.99
+U01287,2026-01-15,DE,Android,Paid Social,Casual,0.346,9,1,1,Monthly,7.99
+U01288,2025-09-13,US,Web,Referral,Power,0.803,13,1,1,Annual,59.99
+U01289,2025-08-19,IN,Android,Referral,Casual,0.253,9,1,0,Free,0.0
+U01290,2025-11-23,US,Android,Influencer,Casual,0.256,7,1,0,Free,0.0
+U01291,2025-09-12,CA,iOS,Paid Social,Regular,0.554,12,1,0,Free,0.0
+U01292,2026-01-05,IN,Android,Paid Social,Casual,0.092,2,0,0,Free,0.0
+U01293,2025-10-21,US,Android,Referral,Casual,0.239,8,1,0,Free,0.0
+U01294,2025-08-01,US,iOS,Paid Search,Casual,0.168,7,1,0,Free,0.0
+U01295,2026-01-23,CA,iOS,Paid Search,Casual,0.348,6,1,1,Monthly,12.99
+U01296,2025-11-03,DE,Web,Paid Search,Power,0.895,18,1,0,Free,0.0
+U01297,2025-09-18,US,iOS,Referral,Regular,0.601,19,1,0,Free,0.0
+U01298,2025-12-03,US,iOS,Organic Search,Casual,0.236,6,1,0,Free,0.0
+U01299,2025-11-06,US,iOS,Paid Search,Power,0.74,12,1,0,Free,0.0
+U01300,2025-08-06,CA,iOS,Organic Search,Regular,0.511,10,1,0,Free,0.0
+U01301,2025-12-18,CA,Android,Paid Social,Regular,0.667,20,1,0,Free,0.0
+U01302,2025-10-13,IN,Web,Paid Search,Casual,0.208,6,1,1,Monthly,9.99
+U01303,2025-12-07,IN,Web,Paid Social,Casual,0.109,6,1,0,Free,0.0
+U01304,2026-01-12,AU,Android,Paid Social,Casual,0.312,13,1,1,Monthly,9.99
+U01305,2025-11-21,IN,Android,Influencer,Casual,0.34,9,1,0,Free,0.0
+U01306,2025-12-02,US,iOS,Referral,Regular,0.65,8,1,0,Free,0.0
+U01307,2025-09-16,CA,Android,Paid Search,Casual,0.312,12,1,0,Free,0.0
+U01308,2025-09-13,US,iOS,App Store Browse,Casual,0.322,6,0,0,Free,0.0
+U01309,2025-10-16,US,iOS,Paid Social,Regular,0.553,10,1,1,Monthly,9.99
+U01310,2026-01-04,DE,Web,Referral,Casual,0.125,2,0,0,Free,0.0
+U01311,2025-11-05,UK,Android,Organic Search,Casual,0.252,8,1,0,Free,0.0
+U01312,2025-10-04,DE,iOS,Paid Social,Regular,0.587,18,1,0,Free,0.0
+U01313,2025-12-22,US,Android,Paid Social,Regular,0.542,14,1,0,Free,0.0
+U01314,2026-01-05,US,iOS,Organic Search,Casual,0.239,6,1,0,Free,0.0
+U01315,2026-01-14,US,iOS,Paid Search,Power,0.742,18,1,0,Free,0.0
+U01316,2025-09-25,US,iOS,Organic Search,Regular,0.49,12,1,0,Free,0.0
+U01317,2025-12-09,US,iOS,Paid Search,Regular,0.66,19,1,0,Free,0.0
+U01318,2025-11-17,US,Android,Organic Search,Casual,0.362,14,1,0,Free,0.0
+U01319,2025-10-22,US,iOS,Organic Search,Regular,0.55,20,1,0,Free,0.0
+U01320,2025-10-13,DE,Android,App Store Browse,Regular,0.567,12,1,0,Free,0.0
+U01321,2025-08-22,US,iOS,Paid Search,Casual,0.191,8,1,0,Free,0.0
+U01322,2025-09-20,US,Web,App Store Browse,Power,0.839,19,1,0,Free,0.0
+U01323,2025-11-10,IN,Android,Paid Social,Regular,0.656,16,1,0,Free,0.0
+U01324,2026-01-11,US,Android,Organic Search,Casual,0.158,4,1,1,Monthly,9.99
+U01325,2026-01-07,AU,iOS,Paid Search,Regular,0.578,13,1,0,Free,0.0
+U01326,2025-09-04,UK,Android,Paid Search,Casual,0.282,9,1,0,Free,0.0
+U01327,2025-12-03,US,Android,Organic Search,Regular,0.582,14,1,0,Free,0.0
+U01328,2025-08-16,UK,iOS,Influencer,Regular,0.649,13,1,0,Free,0.0
+U01329,2025-12-03,UK,iOS,Paid Search,Casual,0.372,16,1,0,Free,0.0
+U01330,2025-10-02,IN,iOS,Referral,Casual,0.236,15,1,0,Free,0.0
+U01331,2025-10-22,IN,iOS,Paid Social,Casual,0.29,11,1,0,Free,0.0
+U01332,2025-12-11,UK,iOS,Paid Search,Regular,0.555,12,1,1,Monthly,7.99
+U01333,2025-10-18,CA,iOS,Organic Search,Casual,0.212,6,0,0,Free,0.0
+U01334,2025-12-27,US,iOS,App Store Browse,Regular,0.566,20,1,0,Free,0.0
+U01335,2025-11-07,UK,Android,Paid Social,Casual,0.29,10,1,0,Free,0.0
+U01336,2026-01-31,DE,iOS,Organic Search,Casual,0.263,11,1,0,Free,0.0
+U01337,2025-11-26,CA,iOS,Organic Search,Regular,0.497,11,1,0,Free,0.0
+U01338,2025-09-24,UK,Android,Paid Search,Casual,0.222,4,1,0,Free,0.0
+U01339,2025-12-21,US,iOS,App Store Browse,Casual,0.223,8,1,0,Free,0.0
+U01340,2025-10-15,IN,iOS,Influencer,Casual,0.199,10,1,0,Free,0.0
+U01341,2025-11-07,DE,iOS,Referral,Casual,0.269,7,1,1,Monthly,7.99
+U01342,2025-08-26,US,iOS,App Store Browse,Casual,0.275,4,1,0,Free,0.0
+U01343,2025-08-22,US,iOS,Referral,Casual,0.309,6,1,0,Free,0.0
+U01344,2025-11-14,US,iOS,Paid Social,Casual,0.199,6,0,0,Free,0.0
+U01345,2025-09-04,US,iOS,Paid Search,Casual,0.215,8,1,1,Monthly,7.99
+U01346,2026-01-31,CA,Web,Organic Search,Casual,0.343,11,1,0,Free,0.0
+U01347,2026-01-05,US,Web,Organic Search,Casual,0.24,4,1,0,Free,0.0
+U01348,2025-12-07,US,iOS,Paid Social,Casual,0.252,6,0,0,Free,0.0
+U01349,2025-12-14,CA,iOS,Organic Search,Power,0.789,18,1,0,Free,0.0
+U01350,2025-11-18,CA,iOS,App Store Browse,Casual,0.318,13,1,1,Monthly,9.99
+U01351,2025-08-12,UK,Android,App Store Browse,Casual,0.32,16,1,0,Free,0.0
+U01352,2025-10-12,UK,Android,Paid Social,Casual,0.317,10,1,0,Free,0.0
+U01353,2025-10-31,UK,iOS,Referral,Regular,0.552,14,1,0,Free,0.0
+U01354,2026-01-16,IN,iOS,Paid Social,Regular,0.498,14,1,0,Free,0.0
+U01355,2025-09-10,CA,iOS,Organic Search,Regular,0.666,16,1,1,Monthly,7.99
+U01356,2025-10-31,US,Android,Paid Social,Power,0.851,18,1,1,Monthly,12.99
+U01357,2025-10-03,CA,Android,Organic Search,Regular,0.523,10,1,0,Free,0.0
+U01358,2025-08-25,US,iOS,Paid Social,Power,0.885,18,1,0,Free,0.0
+U01359,2025-08-19,US,Android,Organic Search,Casual,0.218,11,1,0,Free,0.0
+U01360,2025-10-07,US,iOS,Organic Search,Regular,0.635,14,1,0,Free,0.0
+U01361,2025-08-16,AU,Android,Organic Search,Regular,0.639,14,1,0,Free,0.0
+U01362,2025-08-13,UK,Web,App Store Browse,Regular,0.495,12,1,0,Free,0.0
+U01363,2025-10-04,US,iOS,Organic Search,Casual,0.285,6,1,0,Free,0.0
+U01364,2025-09-07,CA,iOS,Paid Social,Regular,0.597,11,1,0,Free,0.0
+U01365,2025-11-11,US,Android,Paid Search,Casual,0.407,14,1,0,Free,0.0
+U01366,2025-08-04,IN,iOS,Paid Social,Casual,0.205,7,1,1,Monthly,7.99
+U01367,2025-09-25,IN,Android,Paid Search,Casual,0.336,11,1,1,Monthly,9.99
+U01368,2025-10-23,CA,iOS,Organic Search,Casual,0.251,10,1,0,Free,0.0
+U01369,2026-01-25,CA,Android,Paid Search,Regular,0.476,14,1,1,Monthly,7.99
+U01370,2025-11-25,US,iOS,Paid Search,Casual,0.243,11,1,0,Free,0.0
+U01371,2026-01-10,US,iOS,Referral,Casual,0.25,6,1,1,Monthly,9.99
+U01372,2025-10-03,AU,iOS,Paid Search,Casual,0.186,7,1,0,Free,0.0
+U01373,2025-10-22,UK,iOS,Paid Social,Regular,0.569,12,1,0,Free,0.0
+U01374,2025-10-17,US,iOS,Paid Social,Regular,0.607,15,1,0,Free,0.0
+U01375,2026-01-11,US,Android,Organic Search,Regular,0.564,16,1,0,Free,0.0
+U01376,2026-01-24,US,iOS,Paid Search,Casual,0.217,5,1,0,Free,0.0
+U01377,2026-01-25,US,iOS,Organic Search,Regular,0.541,28,1,0,Free,0.0
+U01378,2025-12-17,US,iOS,Paid Social,Regular,0.55,11,1,0,Free,0.0
+U01379,2025-11-01,US,iOS,Paid Search,Casual,0.263,9,1,0,Free,0.0
+U01380,2025-11-08,DE,Android,Organic Search,Casual,0.317,9,1,0,Free,0.0
+U01381,2026-01-28,US,Web,Organic Search,Casual,0.266,17,1,0,Free,0.0
+U01382,2025-09-22,US,iOS,Paid Search,Casual,0.166,12,1,0,Free,0.0
+U01383,2025-10-03,US,Android,Paid Social,Casual,0.216,5,1,1,Monthly,12.99
+U01384,2026-01-13,US,Android,Influencer,Casual,0.26,9,1,0,Free,0.0
+U01385,2025-10-11,IN,Web,App Store Browse,Casual,0.317,10,1,0,Free,0.0
+U01386,2025-09-13,US,iOS,App Store Browse,Casual,0.328,7,0,0,Free,0.0
+U01387,2025-11-12,IN,iOS,Paid Social,Casual,0.356,8,1,0,Free,0.0
+U01388,2025-09-29,IN,iOS,Organic Search,Regular,0.558,17,1,0,Free,0.0
+U01389,2026-01-11,US,Android,Paid Search,Casual,0.296,10,1,0,Free,0.0
+U01390,2026-01-15,CA,Android,Paid Search,Casual,0.163,3,0,0,Free,0.0
+U01391,2025-09-26,DE,iOS,Paid Search,Regular,0.576,13,1,0,Free,0.0
+U01392,2025-11-06,US,iOS,Paid Social,Casual,0.185,1,0,0,Free,0.0
+U01393,2026-01-29,US,Android,Organic Search,Casual,0.246,8,1,0,Free,0.0
+U01394,2025-12-15,AU,Android,Organic Search,Casual,0.432,9,1,0,Free,0.0
+U01395,2025-09-09,AU,iOS,Organic Search,Casual,0.268,8,1,0,Free,0.0
+U01396,2025-11-17,US,Android,Organic Search,Casual,0.198,7,1,0,Free,0.0
+U01397,2025-11-23,CA,iOS,App Store Browse,Casual,0.274,12,1,0,Free,0.0
+U01398,2025-11-29,US,iOS,Organic Search,Casual,0.219,8,1,0,Free,0.0
+U01399,2025-08-05,IN,Android,Paid Search,Casual,0.192,12,1,0,Free,0.0
+U01400,2025-09-25,US,Android,App Store Browse,Power,0.926,17,1,1,Monthly,9.99
+U01401,2026-01-05,US,Web,Paid Social,Casual,0.314,10,1,0,Free,0.0
+U01402,2025-09-14,UK,iOS,Paid Search,Casual,0.271,9,1,0,Free,0.0
+U01403,2025-09-25,DE,iOS,Referral,Casual,0.226,13,1,0,Free,0.0
+U01404,2025-09-29,IN,iOS,Paid Social,Regular,0.531,13,1,0,Free,0.0
+U01405,2025-09-02,US,iOS,Paid Social,Regular,0.643,17,1,1,Monthly,9.99
+U01406,2025-08-29,US,iOS,Influencer,Regular,0.568,9,1,0,Free,0.0
+U01407,2025-10-03,DE,iOS,Referral,Casual,0.065,3,0,0,Free,0.0
+U01408,2026-01-08,DE,iOS,Influencer,Casual,0.395,6,1,0,Free,0.0
+U01409,2025-08-01,US,iOS,App Store Browse,Regular,0.561,12,1,0,Free,0.0
+U01410,2025-09-22,UK,iOS,Paid Social,Casual,0.271,9,1,0,Free,0.0
+U01411,2025-08-12,US,Android,Referral,Power,0.865,17,1,0,Free,0.0
+U01412,2025-11-12,US,iOS,Paid Search,Casual,0.278,9,1,0,Free,0.0
+U01413,2025-09-16,US,Android,Paid Search,Casual,0.295,14,1,0,Free,0.0
+U01414,2025-12-24,US,Web,Referral,Casual,0.225,6,1,1,Monthly,9.99
+U01415,2025-11-16,US,Android,Referral,Casual,0.176,6,1,0,Free,0.0
+U01416,2025-12-23,IN,iOS,Influencer,Regular,0.567,20,1,0,Free,0.0
+U01417,2025-11-25,US,iOS,Paid Social,Casual,0.336,6,1,0,Free,0.0
+U01418,2025-10-20,US,Android,Paid Search,Casual,0.211,7,1,0,Free,0.0
+U01419,2026-01-06,US,Android,Paid Social,Casual,0.206,7,1,0,Free,0.0
+U01420,2025-10-27,US,iOS,Paid Search,Regular,0.623,15,1,1,Monthly,9.99
+U01421,2026-01-22,US,iOS,Referral,Casual,0.223,5,1,0,Free,0.0
+U01422,2026-01-31,CA,Android,Referral,Power,0.775,30,1,0,Free,0.0
+U01423,2025-11-17,US,iOS,Paid Social,Regular,0.528,20,1,0,Free,0.0
+U01424,2025-12-03,CA,Android,Paid Search,Casual,0.246,10,1,1,Monthly,9.99
+U01425,2025-09-17,AU,iOS,Paid Social,Regular,0.456,9,1,0,Free,0.0
+U01426,2025-12-28,US,iOS,Organic Search,Power,0.768,18,1,0,Free,0.0
+U01427,2025-12-02,AU,Android,Organic Search,Casual,0.264,7,1,0,Free,0.0
+U01428,2026-01-14,AU,iOS,App Store Browse,Casual,0.263,6,1,0,Free,0.0
+U01429,2025-09-19,IN,Android,Paid Social,Casual,0.319,9,1,0,Free,0.0
+U01430,2025-12-23,UK,iOS,App Store Browse,Regular,0.66,20,1,0,Free,0.0
+U01431,2025-10-26,CA,iOS,Organic Search,Casual,0.341,10,1,0,Free,0.0
+U01432,2025-09-04,UK,Web,Referral,Regular,0.605,16,1,0,Free,0.0
+U01433,2025-09-01,UK,iOS,Paid Search,Casual,0.241,11,1,0,Free,0.0
+U01434,2025-11-12,US,iOS,Referral,Casual,0.213,7,1,0,Free,0.0
+U01435,2025-09-28,DE,Web,Paid Search,Casual,0.251,11,1,0,Free,0.0
+U01436,2025-08-19,CA,Android,Referral,Regular,0.585,15,1,1,Monthly,7.99
+U01437,2025-10-18,IN,Android,App Store Browse,Casual,0.299,7,1,1,Monthly,9.99
+U01438,2025-11-29,US,iOS,Paid Search,Regular,0.587,12,1,0,Free,0.0
+U01439,2025-09-28,US,iOS,Organic Search,Casual,0.243,8,1,0,Free,0.0
+U01440,2026-01-23,US,Android,Organic Search,Casual,0.297,7,1,1,Monthly,9.99
+U01441,2025-12-22,US,iOS,Referral,Casual,0.326,14,1,0,Free,0.0
+U01442,2025-11-03,US,iOS,Paid Social,Power,0.853,13,1,0,Free,0.0
+U01443,2026-01-19,US,Android,Paid Search,Casual,0.248,6,1,0,Free,0.0
+U01444,2025-10-19,US,iOS,Paid Search,Regular,0.5,10,1,0,Free,0.0
+U01445,2025-08-26,US,iOS,Paid Social,Casual,0.199,8,1,0,Free,0.0
+U01446,2025-08-07,US,iOS,Referral,Regular,0.509,17,1,0,Free,0.0
+U01447,2026-01-20,DE,iOS,Referral,Casual,0.265,16,1,0,Free,0.0
+U01448,2026-01-24,US,Android,Referral,Casual,0.281,7,1,0,Free,0.0
+U01449,2025-12-15,US,Android,Referral,Casual,0.165,6,1,0,Free,0.0
+U01450,2025-08-19,US,iOS,Influencer,Casual,0.22,8,1,1,Monthly,9.99
+U01451,2025-09-24,US,iOS,Paid Search,Casual,0.265,5,1,0,Free,0.0
+U01452,2025-08-08,US,Android,App Store Browse,Casual,0.196,6,1,0,Free,0.0
+U01453,2025-08-10,UK,iOS,Organic Search,Casual,0.276,9,1,0,Free,0.0
+U01454,2025-09-15,DE,Android,Paid Search,Power,0.782,10,1,0,Free,0.0
+U01455,2025-11-14,US,Web,Referral,Casual,0.207,7,1,0,Free,0.0
+U01456,2025-08-13,UK,Android,Paid Social,Regular,0.553,16,1,0,Free,0.0
+U01457,2026-01-29,US,iOS,Paid Social,Casual,0.274,11,1,0,Free,0.0
+U01458,2025-10-23,US,Web,Paid Search,Casual,0.199,7,0,0,Free,0.0
+U01459,2025-09-18,US,iOS,Paid Social,Casual,0.235,5,0,1,Monthly,7.99
+U01460,2025-11-03,US,Web,App Store Browse,Casual,0.278,13,1,0,Free,0.0
+U01461,2025-12-24,CA,Android,Paid Social,Casual,0.204,5,1,1,Monthly,9.99
+U01462,2025-09-27,UK,Android,Organic Search,Regular,0.451,12,1,0,Free,0.0
+U01463,2025-08-09,IN,Web,Paid Search,Regular,0.458,12,1,1,Monthly,9.99
+U01464,2025-08-10,US,Android,Paid Social,Casual,0.225,6,1,0,Free,0.0
+U01465,2026-01-04,CA,iOS,Organic Search,Casual,0.171,5,1,0,Free,0.0
+U01466,2025-08-21,US,iOS,Paid Search,Casual,0.229,8,1,0,Free,0.0
+U01467,2025-11-25,US,Android,Paid Search,Casual,0.35,11,1,0,Free,0.0
+U01468,2025-10-10,US,Android,Organic Search,Casual,0.167,10,1,0,Free,0.0
+U01469,2025-12-22,UK,iOS,Paid Search,Casual,0.233,4,1,0,Free,0.0
+U01470,2025-08-12,DE,Android,Paid Search,Casual,0.378,12,1,0,Free,0.0
+U01471,2026-01-13,US,Android,Referral,Casual,0.274,9,1,0,Free,0.0
+U01472,2025-12-07,CA,iOS,Paid Social,Regular,0.528,17,1,0,Free,0.0
+U01473,2025-10-22,IN,iOS,Organic Search,Casual,0.241,10,1,0,Free,0.0
+U01474,2025-09-08,IN,iOS,App Store Browse,Casual,0.276,12,1,0,Free,0.0
+U01475,2026-01-27,US,iOS,Paid Search,Regular,0.652,21,1,0,Free,0.0
+U01476,2025-09-25,CA,iOS,Organic Search,Power,0.768,7,1,0,Free,0.0
+U01477,2025-10-30,UK,iOS,Influencer,Casual,0.205,8,1,0,Free,0.0
+U01478,2025-10-12,AU,iOS,Organic Search,Casual,0.167,9,1,0,Free,0.0
+U01479,2025-09-12,US,iOS,Referral,Regular,0.556,14,1,0,Free,0.0
+U01480,2025-10-16,AU,Android,Referral,Casual,0.166,4,0,0,Free,0.0
+U01481,2025-08-28,US,iOS,App Store Browse,Casual,0.222,10,1,0,Free,0.0
+U01482,2025-08-01,IN,Web,App Store Browse,Casual,0.195,7,1,0,Free,0.0
+U01483,2025-09-23,US,Web,Organic Search,Casual,0.314,8,1,0,Free,0.0
+U01484,2025-08-21,US,Android,Referral,Power,0.769,15,1,0,Free,0.0
+U01485,2025-10-16,US,Web,Paid Social,Regular,0.574,12,1,1,Monthly,9.99
+U01486,2026-01-06,US,Android,Paid Search,Power,0.704,15,1,0,Free,0.0
+U01487,2025-08-30,US,iOS,Paid Search,Regular,0.558,13,1,0,Free,0.0
+U01488,2025-08-01,US,Android,Organic Search,Casual,0.178,6,1,0,Free,0.0
+U01489,2025-08-21,US,iOS,Organic Search,Regular,0.524,13,1,1,Monthly,7.99
+U01490,2025-11-02,US,Android,Organic Search,Regular,0.683,16,1,1,Monthly,9.99
+U01491,2025-09-20,IN,Android,Organic Search,Casual,0.306,13,1,0,Free,0.0
+U01492,2025-10-30,AU,iOS,Organic Search,Casual,0.242,11,1,1,Monthly,9.99
+U01493,2025-08-06,UK,iOS,App Store Browse,Casual,0.442,17,1,0,Free,0.0
+U01494,2025-10-01,US,Web,Paid Search,Casual,0.195,6,1,0,Free,0.0
+U01495,2025-10-15,US,iOS,Referral,Casual,0.32,13,1,1,Monthly,7.99
+U01496,2025-10-19,AU,iOS,Influencer,Casual,0.158,9,0,0,Free,0.0
+U01497,2025-11-10,US,iOS,Referral,Casual,0.235,4,1,0,Free,0.0
+U01498,2025-12-22,US,iOS,Paid Social,Casual,0.169,4,1,1,Monthly,9.99
+U01499,2025-10-25,DE,Android,Influencer,Casual,0.265,7,1,0,Free,0.0
+U01500,2026-01-02,DE,Android,Referral,Casual,0.253,5,0,1,Monthly,7.99
+U01501,2025-11-06,US,iOS,Referral,Casual,0.232,8,0,0,Free,0.0
+U01502,2025-09-17,UK,iOS,App Store Browse,Power,0.866,18,1,0,Free,0.0
+U01503,2025-09-12,US,iOS,Paid Search,Casual,0.216,11,1,0,Free,0.0
+U01504,2025-09-29,IN,iOS,Paid Search,Casual,0.27,12,1,0,Free,0.0
+U01505,2025-11-18,US,Android,Influencer,Casual,0.299,13,1,1,Monthly,7.99
+U01506,2025-09-14,US,Android,Paid Social,Regular,0.461,17,1,0,Free,0.0
+U01507,2026-01-16,CA,iOS,Influencer,Regular,0.505,10,1,0,Free,0.0
+U01508,2025-10-28,US,Android,Organic Search,Casual,0.253,9,1,0,Free,0.0
+U01509,2026-01-06,UK,iOS,Organic Search,Casual,0.288,5,0,0,Free,0.0
+U01510,2025-12-04,US,Android,Paid Search,Regular,0.635,11,1,0,Free,0.0
+U01511,2025-10-01,AU,Android,Organic Search,Power,0.787,14,1,0,Free,0.0
+U01512,2025-09-11,IN,Android,App Store Browse,Casual,0.231,13,1,0,Free,0.0
+U01513,2025-12-15,US,Android,Organic Search,Casual,0.198,10,1,0,Free,0.0
+U01514,2025-09-30,IN,Web,Referral,Casual,0.27,7,1,1,Monthly,7.99
+U01515,2025-09-15,US,iOS,Organic Search,Casual,0.232,4,0,0,Free,0.0
+U01516,2026-01-19,US,iOS,App Store Browse,Regular,0.534,14,1,1,Monthly,7.99
+U01517,2025-10-28,US,iOS,Paid Social,Power,0.794,20,1,0,Free,0.0
+U01518,2025-08-09,AU,Android,Organic Search,Power,0.833,18,1,0,Free,0.0
+U01519,2025-10-31,IN,Android,Organic Search,Regular,0.516,7,1,0,Free,0.0
+U01520,2025-10-24,AU,Android,Paid Search,Casual,0.204,8,1,0,Free,0.0
+U01521,2026-01-06,AU,Android,App Store Browse,Power,0.826,14,1,1,Monthly,12.99
+U01522,2025-12-09,DE,iOS,App Store Browse,Casual,0.068,5,1,0,Free,0.0
+U01523,2025-09-05,US,Android,Paid Social,Casual,0.214,6,1,0,Free,0.0
+U01524,2025-08-28,DE,Android,Paid Social,Regular,0.481,10,1,0,Free,0.0
+U01525,2025-11-20,CA,iOS,Organic Search,Casual,0.322,8,1,0,Free,0.0
+U01526,2025-08-09,US,iOS,Paid Search,Regular,0.524,13,1,1,Monthly,9.99
+U01527,2025-09-28,CA,iOS,Paid Search,Power,0.766,14,1,0,Free,0.0
+U01528,2025-08-26,US,iOS,Organic Search,Regular,0.547,10,1,0,Free,0.0
+U01529,2025-08-04,US,Android,Paid Search,Regular,0.514,11,1,0,Free,0.0
+U01530,2026-01-17,US,Web,Influencer,Casual,0.226,11,1,0,Free,0.0
+U01531,2025-08-17,US,Android,Organic Search,Casual,0.256,15,1,0,Free,0.0
+U01532,2025-08-02,US,iOS,Organic Search,Regular,0.525,16,1,0,Free,0.0
+U01533,2026-01-19,AU,Android,Organic Search,Casual,0.224,7,0,0,Free,0.0
+U01534,2025-09-04,UK,Android,Organic Search,Regular,0.489,10,1,0,Free,0.0
+U01535,2025-12-29,US,iOS,Organic Search,Casual,0.181,11,1,1,Monthly,7.99
+U01536,2025-08-06,US,Android,Paid Search,Casual,0.254,17,1,0,Free,0.0
+U01537,2025-08-29,US,iOS,Organic Search,Casual,0.268,9,1,0,Free,0.0
+U01538,2025-08-21,US,iOS,Referral,Regular,0.464,17,1,0,Free,0.0
+U01539,2025-12-08,IN,iOS,Influencer,Regular,0.596,13,1,0,Free,0.0
+U01540,2025-11-23,US,iOS,App Store Browse,Power,0.846,15,1,0,Free,0.0
+U01541,2025-10-27,UK,Android,Paid Search,Casual,0.308,8,1,0,Free,0.0
+U01542,2025-09-14,IN,iOS,Organic Search,Casual,0.268,13,1,1,Monthly,7.99
+U01543,2025-08-17,CA,iOS,Organic Search,Casual,0.288,7,1,0,Free,0.0
+U01544,2025-11-13,AU,iOS,Organic Search,Casual,0.381,12,1,0,Free,0.0
+U01545,2025-09-12,US,iOS,App Store Browse,Casual,0.232,6,1,0,Free,0.0
+U01546,2025-11-17,AU,iOS,App Store Browse,Casual,0.187,10,1,1,Monthly,7.99
+U01547,2025-12-05,UK,iOS,Paid Social,Casual,0.158,11,1,0,Free,0.0
+U01548,2026-01-04,IN,Android,Paid Social,Casual,0.355,6,1,0,Free,0.0
+U01549,2025-10-30,UK,iOS,Paid Search,Regular,0.656,17,1,0,Free,0.0
+U01550,2025-08-01,IN,Android,Paid Social,Regular,0.495,11,1,0,Free,0.0
+U01551,2025-09-21,DE,iOS,App Store Browse,Casual,0.206,5,0,0,Free,0.0
+U01552,2026-01-05,US,Android,Organic Search,Casual,0.231,8,0,0,Free,0.0
+U01553,2025-11-07,IN,Android,Paid Social,Regular,0.623,18,1,0,Free,0.0
+U01554,2025-11-22,IN,iOS,Paid Social,Regular,0.473,13,1,1,Monthly,9.99
+U01555,2025-10-24,US,iOS,Organic Search,Regular,0.432,5,1,1,Monthly,7.99
+U01556,2025-08-30,AU,Web,Paid Social,Casual,0.38,9,1,1,Monthly,7.99
+U01557,2026-01-12,US,iOS,Influencer,Casual,0.269,10,1,0,Free,0.0
+U01558,2025-12-21,CA,Android,Organic Search,Regular,0.577,20,1,1,Monthly,7.99
+U01559,2026-01-31,US,iOS,Paid Search,Casual,0.238,12,0,0,Free,0.0
+U01560,2026-01-05,US,iOS,Paid Social,Casual,0.278,16,1,0,Free,0.0
+U01561,2025-09-23,IN,Android,Organic Search,Power,0.709,12,1,0,Free,0.0
+U01562,2025-09-16,US,Android,Organic Search,Casual,0.2,6,1,1,Monthly,7.99
+U01563,2025-09-15,US,iOS,Organic Search,Regular,0.556,15,1,0,Free,0.0
+U01564,2026-01-17,US,Android,Organic Search,Regular,0.414,12,1,0,Free,0.0
+U01565,2025-11-11,US,Android,Paid Social,Casual,0.232,8,0,0,Free,0.0
+U01566,2025-10-23,IN,iOS,Influencer,Regular,0.528,16,1,0,Free,0.0
+U01567,2026-01-26,AU,iOS,Referral,Casual,0.232,5,1,1,Monthly,9.99
+U01568,2025-11-20,US,iOS,App Store Browse,Regular,0.517,13,1,0,Free,0.0
+U01569,2026-01-15,CA,iOS,Paid Social,Regular,0.49,19,1,0,Free,0.0
+U01570,2026-01-29,US,Android,Referral,Regular,0.441,11,1,1,Monthly,7.99
+U01571,2025-08-15,CA,iOS,Paid Search,Casual,0.259,4,1,1,Monthly,7.99
+U01572,2025-10-06,US,iOS,Organic Search,Regular,0.532,19,1,0,Free,0.0
+U01573,2025-12-14,US,Android,Paid Social,Power,0.717,21,1,0,Free,0.0
+U01574,2025-12-28,US,Android,Paid Search,Regular,0.554,21,1,0,Free,0.0
+U01575,2025-08-28,CA,Android,Referral,Casual,0.232,6,1,0,Free,0.0
+U01576,2025-09-28,US,Android,Paid Social,Casual,0.222,11,1,0,Free,0.0
+U01577,2025-11-09,US,iOS,Organic Search,Regular,0.421,10,1,1,Monthly,7.99
+U01578,2025-12-26,IN,Android,App Store Browse,Casual,0.291,10,1,0,Free,0.0
+U01579,2025-08-21,IN,iOS,Organic Search,Casual,0.176,10,1,0,Free,0.0
+U01580,2025-11-19,US,iOS,App Store Browse,Power,0.804,19,1,0,Free,0.0
+U01581,2025-09-24,IN,iOS,Influencer,Power,0.752,15,1,0,Free,0.0
+U01582,2025-09-09,AU,Android,Influencer,Power,0.777,18,1,0,Free,0.0
+U01583,2025-11-03,US,Android,Referral,Casual,0.319,7,1,0,Free,0.0
+U01584,2025-10-16,CA,iOS,Organic Search,Casual,0.282,11,1,0,Free,0.0
+U01585,2025-11-25,US,Android,Paid Search,Casual,0.318,10,1,0,Free,0.0
+U01586,2025-09-28,IN,Android,Referral,Casual,0.27,7,1,1,Monthly,9.99
+U01587,2025-12-30,US,iOS,Referral,Regular,0.574,13,1,0,Free,0.0
+U01588,2025-08-15,UK,Android,Organic Search,Casual,0.143,8,1,0,Free,0.0
+U01589,2026-01-06,US,iOS,Organic Search,Casual,0.231,6,0,0,Free,0.0
+U01590,2025-08-06,US,Web,Paid Social,Casual,0.237,8,1,0,Free,0.0
+U01591,2025-12-14,DE,iOS,Paid Social,Casual,0.323,9,1,0,Free,0.0
+U01592,2025-10-03,US,iOS,Paid Search,Regular,0.52,9,1,1,Monthly,9.99
+U01593,2025-10-10,AU,iOS,Influencer,Regular,0.566,14,1,0,Free,0.0
+U01594,2025-08-04,DE,iOS,Referral,Casual,0.264,3,1,1,Monthly,9.99
+U01595,2025-12-08,AU,Android,Paid Search,Casual,0.319,13,1,0,Free,0.0
+U01596,2025-08-31,US,Android,Organic Search,Casual,0.242,7,1,0,Free,0.0
+U01597,2025-11-30,IN,iOS,Paid Social,Casual,0.3,18,1,0,Free,0.0
+U01598,2025-12-12,US,Android,Paid Social,Power,0.698,16,1,1,Monthly,9.99
+U01599,2026-01-03,US,Android,Organic Search,Regular,0.453,15,1,1,Monthly,7.99
+U01600,2025-12-09,AU,Android,Organic Search,Casual,0.113,7,0,0,Free,0.0
+U01601,2025-09-25,UK,Android,Paid Social,Regular,0.597,14,0,0,Free,0.0
+U01602,2025-12-14,US,iOS,Organic Search,Casual,0.29,6,1,0,Free,0.0
+U01603,2025-12-30,US,iOS,Paid Search,Casual,0.304,7,1,1,Monthly,7.99
+U01604,2025-09-28,IN,Android,Organic Search,Casual,0.209,12,1,1,Monthly,9.99
+U01605,2025-08-23,UK,Android,Organic Search,Casual,0.216,7,1,0,Free,0.0
+U01606,2026-01-11,US,Android,Organic Search,Casual,0.243,9,1,0,Free,0.0
+U01607,2025-08-28,AU,Android,Paid Search,Regular,0.637,18,1,0,Free,0.0
+U01608,2025-11-18,US,iOS,Paid Search,Power,0.902,22,1,0,Free,0.0
+U01609,2025-09-13,US,Android,Paid Social,Casual,0.298,8,0,0,Free,0.0
+U01610,2025-08-24,UK,iOS,Organic Search,Regular,0.57,22,1,1,Monthly,9.99
+U01611,2025-12-21,DE,iOS,App Store Browse,Casual,0.33,6,1,0,Free,0.0
+U01612,2025-08-27,US,iOS,Paid Search,Casual,0.235,4,1,0,Free,0.0
+U01613,2025-12-02,US,iOS,Paid Search,Casual,0.227,2,0,0,Free,0.0
+U01614,2025-12-06,US,Web,Paid Search,Casual,0.242,12,1,0,Free,0.0
+U01615,2025-08-12,AU,iOS,Influencer,Casual,0.191,5,0,0,Free,0.0
+U01616,2025-09-01,US,Android,Influencer,Power,0.789,9,1,1,Monthly,7.99
+U01617,2025-12-25,US,Android,Paid Social,Regular,0.483,10,1,0,Free,0.0
+U01618,2025-11-02,DE,Android,Referral,Casual,0.312,4,1,0,Free,0.0
+U01619,2025-08-23,US,Web,Organic Search,Regular,0.583,13,1,0,Free,0.0
+U01620,2026-01-30,CA,iOS,Paid Search,Casual,0.336,12,1,0,Free,0.0
+U01621,2025-09-18,US,iOS,Paid Social,Regular,0.452,17,1,0,Free,0.0
+U01622,2025-08-01,IN,iOS,Organic Search,Casual,0.364,12,1,0,Free,0.0
+U01623,2026-01-18,US,iOS,App Store Browse,Casual,0.156,2,1,0,Free,0.0
+U01624,2025-08-04,US,Android,Influencer,Regular,0.478,7,1,0,Free,0.0
+U01625,2025-11-10,US,iOS,Paid Social,Casual,0.213,8,0,0,Free,0.0
+U01626,2026-01-30,IN,iOS,App Store Browse,Casual,0.328,13,1,1,Monthly,12.99
+U01627,2025-11-15,IN,iOS,Paid Social,Casual,0.264,6,1,0,Free,0.0
+U01628,2025-11-16,US,Android,Paid Social,Casual,0.235,8,1,0,Free,0.0
+U01629,2025-10-11,US,Android,Influencer,Casual,0.202,8,1,0,Free,0.0
+U01630,2025-08-24,AU,iOS,Paid Social,Casual,0.167,10,1,0,Free,0.0
+U01631,2025-11-14,US,Android,Paid Social,Regular,0.618,13,1,0,Free,0.0
+U01632,2026-01-13,US,Android,Paid Search,Casual,0.298,6,1,0,Free,0.0
+U01633,2025-08-17,CA,Android,Organic Search,Casual,0.331,10,1,0,Free,0.0
+U01634,2026-01-09,US,iOS,Paid Social,Casual,0.274,7,1,0,Free,0.0
+U01635,2025-10-16,US,Android,Paid Social,Regular,0.391,11,1,0,Free,0.0
+U01636,2025-11-07,US,iOS,Paid Search,Regular,0.475,11,1,0,Free,0.0
+U01637,2025-08-31,US,iOS,Organic Search,Casual,0.278,7,1,0,Free,0.0
+U01638,2025-11-23,US,Android,Organic Search,Casual,0.228,13,1,1,Monthly,12.99
+U01639,2025-09-03,UK,Android,Referral,Casual,0.216,11,1,0,Free,0.0
+U01640,2025-09-20,CA,iOS,Organic Search,Casual,0.184,11,1,0,Free,0.0
+U01641,2025-12-11,US,Android,Paid Social,Casual,0.307,11,1,0,Free,0.0
+U01642,2025-08-10,IN,iOS,Referral,Casual,0.277,12,1,0,Free,0.0
+U01643,2025-10-22,US,Android,Referral,Regular,0.58,5,1,0,Free,0.0
+U01644,2025-11-18,IN,Web,Organic Search,Casual,0.212,6,0,0,Free,0.0
+U01645,2025-08-25,US,Android,Influencer,Regular,0.561,26,1,1,Monthly,9.99
+U01646,2025-09-24,IN,Android,Referral,Casual,0.17,6,1,1,Monthly,12.99
+U01647,2025-10-03,US,Android,Paid Social,Casual,0.242,5,1,0,Free,0.0
+U01648,2025-12-01,US,Android,Referral,Regular,0.398,11,1,0,Free,0.0
+U01649,2026-01-27,US,Android,Referral,Regular,0.456,20,1,0,Free,0.0
+U01650,2026-01-01,US,Android,Paid Search,Casual,0.231,14,1,1,Monthly,7.99
+U01651,2025-09-04,US,iOS,Paid Search,Regular,0.693,16,1,0,Free,0.0
+U01652,2025-08-04,UK,Android,Referral,Casual,0.142,11,1,1,Monthly,9.99
+U01653,2025-08-10,IN,iOS,App Store Browse,Casual,0.175,3,0,0,Free,0.0
+U01654,2025-11-18,US,Web,Paid Search,Regular,0.563,10,1,0,Free,0.0
+U01655,2025-08-29,AU,iOS,Influencer,Regular,0.656,17,1,0,Free,0.0
+U01656,2025-09-12,IN,iOS,Referral,Casual,0.262,5,1,0,Free,0.0
+U01657,2026-01-03,AU,Android,Influencer,Power,0.842,13,1,0,Free,0.0
+U01658,2026-01-08,UK,iOS,App Store Browse,Regular,0.53,21,1,1,Monthly,9.99
+U01659,2026-01-02,UK,iOS,Organic Search,Casual,0.219,7,0,0,Free,0.0
+U01660,2025-09-16,US,Android,Organic Search,Casual,0.255,4,0,0,Free,0.0
+U01661,2025-11-23,UK,iOS,Paid Search,Casual,0.211,8,1,0,Free,0.0
+U01662,2025-11-21,AU,iOS,Paid Social,Casual,0.293,16,1,0,Free,0.0
+U01663,2025-09-04,US,Android,Paid Search,Regular,0.454,16,1,0,Free,0.0
+U01664,2025-11-10,US,iOS,Referral,Casual,0.303,10,1,0,Free,0.0
+U01665,2025-11-05,US,iOS,App Store Browse,Regular,0.552,16,1,0,Free,0.0
+U01666,2025-10-12,DE,iOS,Paid Social,Casual,0.237,8,1,0,Free,0.0
+U01667,2025-12-17,US,iOS,Referral,Regular,0.451,6,1,0,Free,0.0
+U01668,2025-12-03,UK,iOS,Organic Search,Regular,0.491,17,1,0,Free,0.0
+U01669,2025-11-07,IN,iOS,Paid Search,Regular,0.622,11,0,0,Free,0.0
+U01670,2025-12-12,DE,Android,Organic Search,Regular,0.537,15,1,0,Free,0.0
+U01671,2025-12-19,US,Android,Paid Search,Regular,0.567,14,1,1,Monthly,9.99
+U01672,2025-11-13,IN,iOS,Paid Search,Casual,0.197,7,1,0,Free,0.0
+U01673,2025-09-19,AU,iOS,Referral,Regular,0.548,11,1,0,Free,0.0
+U01674,2025-12-18,US,Android,Paid Search,Power,0.718,16,1,0,Free,0.0
+U01675,2025-12-11,IN,Android,Paid Social,Casual,0.256,9,1,0,Free,0.0
+U01676,2026-01-28,US,iOS,Organic Search,Casual,0.272,16,1,1,Monthly,7.99
+U01677,2025-08-28,UK,iOS,Organic Search,Power,0.819,10,1,0,Free,0.0
+U01678,2025-10-17,US,iOS,App Store Browse,Casual,0.196,5,1,1,Monthly,9.99
+U01679,2026-01-18,US,Android,App Store Browse,Casual,0.229,9,1,0,Free,0.0
+U01680,2025-11-03,US,Web,Paid Social,Casual,0.282,10,1,0,Free,0.0
+U01681,2026-01-21,US,Web,Organic Search,Casual,0.237,8,1,0,Free,0.0
+U01682,2025-08-03,US,iOS,Paid Social,Casual,0.233,10,1,0,Free,0.0
+U01683,2025-08-07,UK,iOS,Referral,Casual,0.364,10,1,0,Free,0.0
+U01684,2025-12-25,US,iOS,Paid Social,Power,0.743,15,1,0,Free,0.0
+U01685,2025-10-05,US,iOS,Organic Search,Casual,0.315,14,1,0,Free,0.0
+U01686,2025-11-04,UK,iOS,Paid Social,Casual,0.181,7,1,0,Free,0.0
+U01687,2025-10-18,UK,Android,Organic Search,Regular,0.589,20,1,1,Monthly,9.99
+U01688,2025-10-15,US,iOS,Paid Social,Regular,0.592,13,1,1,Monthly,9.99
+U01689,2026-01-20,DE,Web,Organic Search,Casual,0.219,7,1,0,Free,0.0
+U01690,2025-08-18,US,iOS,Paid Search,Casual,0.177,4,1,1,Monthly,9.99
+U01691,2025-12-21,IN,iOS,Paid Search,Regular,0.432,19,1,0,Free,0.0
+U01692,2026-01-11,US,Android,Organic Search,Regular,0.513,15,1,0,Free,0.0
+U01693,2025-11-29,IN,Android,Paid Search,Casual,0.282,9,1,1,Monthly,7.99
+U01694,2025-10-12,DE,iOS,Paid Social,Casual,0.185,9,1,0,Free,0.0
+U01695,2025-08-30,IN,Android,Referral,Regular,0.556,17,1,1,Monthly,12.99
+U01696,2025-12-04,CA,iOS,App Store Browse,Regular,0.461,9,1,0,Free,0.0
+U01697,2025-10-26,CA,iOS,Organic Search,Casual,0.236,6,1,0,Free,0.0
+U01698,2025-08-28,US,iOS,Influencer,Regular,0.481,14,1,1,Monthly,9.99
+U01699,2025-10-06,UK,iOS,Referral,Regular,0.545,13,1,1,Monthly,7.99
+U01700,2026-01-24,IN,Android,Referral,Regular,0.52,17,1,0,Free,0.0
+U01701,2025-09-18,DE,iOS,Paid Social,Regular,0.479,17,1,0,Free,0.0
+U01702,2025-09-02,US,Android,Paid Social,Regular,0.51,8,1,0,Free,0.0
+U01703,2025-12-04,US,Android,Organic Search,Casual,0.194,13,1,0,Free,0.0
+U01704,2025-09-06,CA,iOS,App Store Browse,Casual,0.171,10,1,0,Free,0.0
+U01705,2026-01-17,US,iOS,Paid Search,Regular,0.615,18,1,1,Monthly,7.99
+U01706,2026-01-06,US,iOS,Paid Social,Casual,0.228,9,0,0,Free,0.0
+U01707,2026-01-28,US,Android,Paid Search,Casual,0.118,11,1,1,Monthly,9.99
+U01708,2026-01-15,IN,Android,Organic Search,Casual,0.213,7,1,0,Free,0.0
+U01709,2025-09-14,US,Android,Organic Search,Regular,0.605,12,0,0,Free,0.0
+U01710,2025-09-09,US,iOS,Paid Search,Regular,0.504,9,1,1,Monthly,9.99
+U01711,2025-10-03,US,iOS,Paid Search,Casual,0.34,8,1,0,Free,0.0
+U01712,2025-10-26,AU,Android,Referral,Casual,0.199,4,0,0,Free,0.0
+U01713,2026-01-09,UK,iOS,Paid Search,Casual,0.28,7,1,0,Free,0.0
+U01714,2025-12-13,US,Android,Paid Search,Power,0.862,17,1,1,Annual,99.99
+U01715,2025-11-27,US,iOS,Influencer,Regular,0.577,21,1,0,Free,0.0
+U01716,2026-01-09,CA,iOS,Organic Search,Casual,0.168,6,1,1,Monthly,7.99
+U01717,2025-11-27,US,Android,Referral,Casual,0.193,7,0,0,Free,0.0
+U01718,2025-10-09,CA,Android,Referral,Regular,0.62,11,1,0,Free,0.0
+U01719,2025-10-15,US,Android,Organic Search,Casual,0.202,9,1,0,Free,0.0
+U01720,2025-11-04,AU,iOS,Organic Search,Power,0.859,19,1,1,Annual,99.99
+U01721,2025-08-17,US,Web,Organic Search,Casual,0.224,6,1,0,Free,0.0
+U01722,2025-12-15,UK,Android,Organic Search,Casual,0.258,7,1,0,Free,0.0
+U01723,2025-11-29,US,Android,Paid Search,Casual,0.167,8,1,1,Monthly,7.99
+U01724,2025-12-13,DE,Android,Organic Search,Casual,0.214,10,1,0,Free,0.0
+U01725,2025-11-07,DE,Android,Paid Search,Casual,0.197,8,0,0,Free,0.0
+U01726,2025-12-23,IN,Android,Organic Search,Regular,0.564,8,1,0,Free,0.0
+U01727,2026-01-22,US,iOS,Organic Search,Casual,0.256,6,1,0,Free,0.0
+U01728,2025-11-13,US,iOS,Paid Social,Casual,0.278,7,1,1,Monthly,9.99
+U01729,2025-10-21,IN,Android,Organic Search,Regular,0.521,15,1,0,Free,0.0
+U01730,2025-08-20,IN,iOS,App Store Browse,Regular,0.494,9,1,1,Monthly,9.99
+U01731,2025-12-22,US,iOS,Paid Social,Casual,0.261,8,1,0,Free,0.0
+U01732,2026-01-14,US,Android,Organic Search,Casual,0.188,8,1,1,Monthly,7.99
+U01733,2025-12-07,US,iOS,Organic Search,Casual,0.315,9,1,0,Free,0.0
+U01734,2026-01-07,IN,Android,Paid Social,Casual,0.243,8,1,0,Free,0.0
+U01735,2026-01-06,UK,Android,Paid Search,Regular,0.53,12,1,0,Free,0.0
+U01736,2025-12-25,UK,iOS,Referral,Casual,0.278,16,1,0,Free,0.0
+U01737,2025-11-01,UK,Android,Paid Social,Casual,0.245,6,0,0,Free,0.0
+U01738,2025-08-19,US,iOS,Paid Search,Regular,0.451,13,1,1,Monthly,9.99
+U01739,2025-08-01,US,Android,Paid Social,Casual,0.186,6,1,0,Free,0.0
+U01740,2025-09-07,US,Android,Influencer,Casual,0.313,12,1,0,Free,0.0
+U01741,2025-10-19,IN,iOS,Paid Search,Casual,0.255,13,1,0,Free,0.0
+U01742,2025-12-15,US,iOS,Paid Social,Power,0.699,13,1,0,Free,0.0
+U01743,2025-10-23,US,iOS,Referral,Regular,0.571,11,1,0,Free,0.0
+U01744,2025-08-05,US,iOS,Influencer,Casual,0.216,6,1,0,Free,0.0
+U01745,2025-09-08,US,iOS,Paid Social,Regular,0.498,15,1,0,Free,0.0
+U01746,2026-01-28,CA,Web,App Store Browse,Casual,0.181,6,1,0,Free,0.0
+U01747,2026-01-29,US,iOS,Influencer,Casual,0.31,12,1,0,Free,0.0
+U01748,2025-10-09,US,Android,Organic Search,Casual,0.132,9,1,0,Free,0.0
+U01749,2025-12-27,IN,iOS,Referral,Casual,0.2,5,1,0,Free,0.0
+U01750,2025-12-11,US,Web,Paid Search,Casual,0.257,6,1,0,Free,0.0
+U01751,2026-01-19,US,iOS,Paid Search,Power,0.895,20,1,0,Free,0.0
+U01752,2026-01-11,US,iOS,Paid Search,Casual,0.283,4,1,0,Free,0.0
+U01753,2025-11-24,IN,Android,Influencer,Regular,0.499,20,0,0,Free,0.0
+U01754,2025-10-12,US,iOS,Paid Search,Regular,0.642,12,1,0,Free,0.0
+U01755,2025-11-24,IN,Android,Paid Search,Casual,0.169,5,1,0,Free,0.0
+U01756,2025-09-28,DE,iOS,Organic Search,Casual,0.266,14,1,1,Monthly,9.99
+U01757,2025-10-04,UK,Android,Paid Social,Casual,0.279,13,1,0,Free,0.0
+U01758,2025-11-21,US,Android,App Store Browse,Casual,0.197,12,1,0,Free,0.0
+U01759,2025-11-14,IN,Android,Referral,Casual,0.292,13,1,1,Monthly,7.99
+U01760,2025-11-15,US,iOS,Organic Search,Power,0.769,22,1,0,Free,0.0
+U01761,2025-10-10,US,iOS,Influencer,Regular,0.592,19,1,0,Free,0.0
+U01762,2025-10-15,US,iOS,Influencer,Casual,0.14,2,0,0,Free,0.0
+U01763,2025-08-02,US,iOS,Paid Search,Casual,0.27,9,1,1,Monthly,9.99
+U01764,2025-11-19,US,iOS,Organic Search,Casual,0.225,5,1,0,Free,0.0
+U01765,2025-11-14,US,Web,Paid Search,Power,0.869,12,1,1,Monthly,12.99
+U01766,2026-01-20,US,Android,Organic Search,Casual,0.247,8,1,1,Monthly,9.99
+U01767,2025-11-01,US,Android,Paid Social,Casual,0.325,5,0,0,Free,0.0
+U01768,2025-10-26,CA,iOS,Paid Search,Regular,0.58,11,1,1,Monthly,12.99
+U01769,2025-08-13,DE,iOS,App Store Browse,Casual,0.242,9,1,0,Free,0.0
+U01770,2025-09-06,US,Android,Paid Social,Casual,0.297,18,1,0,Free,0.0
+U01771,2025-10-02,CA,iOS,Influencer,Regular,0.598,19,1,0,Free,0.0
+U01772,2025-10-09,US,iOS,App Store Browse,Casual,0.278,4,1,0,Free,0.0
+U01773,2025-10-06,US,iOS,Organic Search,Casual,0.112,4,1,1,Monthly,7.99
+U01774,2025-10-12,US,Android,Organic Search,Casual,0.191,4,1,1,Monthly,7.99
+U01775,2025-12-20,US,Web,Referral,Casual,0.333,11,1,0,Free,0.0
+U01776,2025-08-25,US,iOS,Referral,Power,0.725,14,1,0,Free,0.0
+U01777,2025-10-01,US,Android,Paid Social,Casual,0.303,9,1,1,Monthly,7.99
+U01778,2025-08-30,US,iOS,Paid Search,Regular,0.592,10,1,0,Free,0.0
+U01779,2025-09-26,US,iOS,Paid Search,Casual,0.206,6,1,1,Monthly,9.99
+U01780,2025-12-04,US,Android,Referral,Regular,0.43,15,1,0,Free,0.0
+U01781,2025-08-09,US,iOS,Referral,Power,0.766,15,1,0,Free,0.0
+U01782,2025-10-02,US,Android,Organic Search,Casual,0.375,15,1,0,Free,0.0
+U01783,2025-08-05,US,iOS,Organic Search,Power,0.748,15,1,0,Free,0.0
+U01784,2026-01-23,US,iOS,Organic Search,Regular,0.502,10,1,1,Monthly,12.99
+U01785,2025-12-12,US,Web,App Store Browse,Regular,0.49,14,1,0,Free,0.0
+U01786,2025-09-14,US,iOS,App Store Browse,Casual,0.323,12,1,0,Free,0.0
+U01787,2025-09-06,US,Android,Referral,Regular,0.535,11,1,1,Monthly,12.99
+U01788,2025-08-19,DE,iOS,Organic Search,Casual,0.212,5,1,0,Free,0.0
+U01789,2025-10-27,US,Web,Paid Search,Power,0.885,17,1,1,Monthly,9.99
+U01790,2025-12-17,US,iOS,Organic Search,Regular,0.585,10,1,1,Monthly,7.99
+U01791,2025-11-16,US,iOS,Paid Social,Casual,0.195,9,1,1,Monthly,12.99
+U01792,2026-01-10,DE,Android,Organic Search,Power,0.727,14,1,1,Monthly,7.99
+U01793,2025-10-03,CA,iOS,Influencer,Regular,0.619,17,1,0,Free,0.0
+U01794,2025-09-21,CA,iOS,Organic Search,Casual,0.251,7,1,0,Free,0.0
+U01795,2025-10-27,DE,Web,Paid Search,Casual,0.157,7,1,0,Free,0.0
+U01796,2025-09-07,US,Android,App Store Browse,Casual,0.143,7,1,0,Free,0.0
+U01797,2026-01-27,DE,Android,Referral,Casual,0.183,6,1,0,Free,0.0
+U01798,2025-09-04,US,Android,Organic Search,Casual,0.176,8,1,0,Free,0.0
+U01799,2025-10-28,CA,Android,App Store Browse,Power,0.677,13,1,0,Free,0.0
+U01800,2025-11-05,US,Android,Paid Search,Casual,0.184,10,1,0,Free,0.0
+U01801,2025-08-11,US,Android,Paid Social,Regular,0.495,13,1,0,Free,0.0
+U01802,2025-10-26,DE,iOS,Paid Search,Regular,0.522,16,1,0,Free,0.0
+U01803,2025-10-23,US,iOS,Influencer,Regular,0.652,19,1,0,Free,0.0
+U01804,2025-09-17,DE,Android,Paid Social,Casual,0.234,10,1,0,Free,0.0
+U01805,2025-08-24,US,Android,Paid Search,Casual,0.24,11,1,1,Monthly,7.99
+U01806,2025-08-09,UK,iOS,Paid Social,Regular,0.581,14,1,0,Free,0.0
+U01807,2025-08-02,DE,iOS,Organic Search,Casual,0.236,7,1,0,Free,0.0
+U01808,2025-10-28,US,iOS,Referral,Casual,0.274,7,1,0,Free,0.0
+U01809,2025-08-17,AU,Android,Organic Search,Regular,0.567,13,1,0,Free,0.0
+U01810,2026-01-24,CA,Android,Paid Social,Casual,0.257,8,1,0,Free,0.0
+U01811,2025-09-15,UK,iOS,Paid Social,Casual,0.416,9,1,0,Free,0.0
+U01812,2025-11-29,US,Android,Paid Social,Casual,0.305,5,1,0,Free,0.0
+U01813,2025-12-02,US,Android,Paid Social,Casual,0.185,12,1,1,Monthly,12.99
+U01814,2025-10-31,UK,Web,Paid Search,Regular,0.572,13,1,1,Monthly,9.99
+U01815,2026-01-10,US,iOS,Paid Social,Casual,0.202,7,1,0,Free,0.0
+U01816,2025-08-21,US,Web,Organic Search,Power,0.827,17,1,0,Free,0.0
+U01817,2025-09-13,US,Android,Influencer,Regular,0.467,13,1,1,Monthly,7.99
+U01818,2025-09-16,AU,Android,App Store Browse,Casual,0.184,9,1,0,Free,0.0
+U01819,2025-08-25,US,iOS,Paid Social,Casual,0.271,11,1,0,Free,0.0
+U01820,2025-09-24,UK,Android,Paid Social,Casual,0.31,4,1,0,Free,0.0
+U01821,2025-09-27,DE,Android,Organic Search,Regular,0.58,11,1,0,Free,0.0
+U01822,2025-12-19,US,iOS,Organic Search,Regular,0.601,11,1,0,Free,0.0
+U01823,2025-09-25,US,iOS,Paid Social,Casual,0.272,11,1,1,Monthly,12.99
+U01824,2026-01-09,UK,Android,App Store Browse,Casual,0.26,8,0,0,Free,0.0
+U01825,2025-12-21,US,Android,Referral,Casual,0.22,6,0,0,Free,0.0
+U01826,2026-01-13,CA,iOS,Paid Social,Casual,0.299,14,1,1,Monthly,7.99
+U01827,2025-08-20,UK,iOS,App Store Browse,Casual,0.311,8,0,0,Free,0.0
+U01828,2026-01-29,CA,iOS,Paid Social,Casual,0.246,11,1,0,Free,0.0
+U01829,2025-11-21,US,Web,Organic Search,Regular,0.543,12,1,1,Monthly,12.99
+U01830,2026-01-28,UK,Web,Paid Social,Casual,0.345,6,1,0,Free,0.0
+U01831,2025-10-05,CA,iOS,Organic Search,Casual,0.249,10,1,0,Free,0.0
+U01832,2026-01-23,US,iOS,Influencer,Regular,0.555,17,1,0,Free,0.0
+U01833,2025-11-17,CA,iOS,Paid Social,Power,0.829,14,1,0,Free,0.0
+U01834,2025-08-14,AU,iOS,Paid Search,Casual,0.244,9,1,1,Monthly,9.99
+U01835,2025-10-15,UK,Android,Paid Social,Regular,0.501,8,1,0,Free,0.0
+U01836,2025-08-26,US,Android,App Store Browse,Casual,0.273,11,1,0,Free,0.0
+U01837,2026-01-21,US,iOS,Paid Search,Regular,0.548,16,1,1,Monthly,7.99
+U01838,2025-09-26,US,iOS,Paid Social,Casual,0.361,11,1,0,Free,0.0
+U01839,2025-09-10,US,iOS,Organic Search,Regular,0.597,10,1,1,Monthly,7.99
+U01840,2025-11-10,US,Android,App Store Browse,Casual,0.214,10,1,0,Free,0.0
+U01841,2025-10-18,DE,Android,Paid Search,Power,0.844,21,1,0,Free,0.0
+U01842,2025-08-18,US,Android,Paid Social,Power,0.818,21,1,0,Free,0.0
+U01843,2025-12-29,IN,iOS,Influencer,Casual,0.329,12,1,0,Free,0.0
+U01844,2026-01-03,US,Web,Organic Search,Casual,0.219,9,1,1,Monthly,12.99
+U01845,2025-12-15,US,iOS,Paid Social,Casual,0.261,7,0,1,Monthly,9.99
+U01846,2025-11-22,US,Android,Paid Search,Casual,0.244,10,1,0,Free,0.0
+U01847,2025-10-14,US,Android,Paid Social,Regular,0.554,21,1,1,Monthly,9.99
+U01848,2025-11-08,IN,Android,Paid Social,Regular,0.497,16,1,0,Free,0.0
+U01849,2025-11-04,DE,Android,Organic Search,Casual,0.285,10,1,0,Free,0.0
+U01850,2025-08-31,AU,iOS,Organic Search,Casual,0.275,13,1,0,Free,0.0
+U01851,2025-08-16,US,Android,Organic Search,Regular,0.627,9,1,0,Free,0.0
+U01852,2025-09-16,IN,iOS,Organic Search,Casual,0.249,10,1,0,Free,0.0
+U01853,2025-10-23,US,iOS,App Store Browse,Regular,0.525,12,1,0,Free,0.0
+U01854,2025-08-30,AU,iOS,Paid Search,Casual,0.297,10,1,0,Free,0.0
+U01855,2025-08-20,US,iOS,Paid Social,Casual,0.202,9,1,0,Free,0.0
+U01856,2026-01-04,US,iOS,Paid Social,Casual,0.315,8,1,0,Free,0.0
+U01857,2025-10-08,US,iOS,Referral,Casual,0.315,12,1,0,Free,0.0
+U01858,2025-11-16,US,Android,Organic Search,Regular,0.625,12,1,0,Free,0.0
+U01859,2025-11-05,US,iOS,Organic Search,Casual,0.273,11,1,1,Monthly,12.99
+U01860,2025-12-14,AU,iOS,Paid Search,Regular,0.521,11,1,0,Free,0.0
+U01861,2025-12-15,IN,Web,Paid Social,Regular,0.557,13,1,1,Monthly,9.99
+U01862,2025-09-24,DE,Web,Referral,Casual,0.273,8,1,0,Free,0.0
+U01863,2026-01-04,US,iOS,Influencer,Casual,0.216,7,1,0,Free,0.0
+U01864,2025-10-08,CA,iOS,Influencer,Regular,0.63,19,1,0,Free,0.0
+U01865,2026-01-01,US,Android,Organic Search,Regular,0.585,15,1,1,Monthly,9.99
+U01866,2025-10-14,US,Android,Organic Search,Casual,0.196,12,1,0,Free,0.0
+U01867,2025-08-21,US,iOS,Organic Search,Casual,0.363,9,1,0,Free,0.0
+U01868,2025-12-18,US,Android,Referral,Regular,0.556,12,1,0,Free,0.0
+U01869,2025-08-06,CA,iOS,App Store Browse,Casual,0.184,6,1,1,Monthly,9.99
+U01870,2025-12-21,US,iOS,App Store Browse,Regular,0.5,16,1,0,Free,0.0
+U01871,2025-08-08,US,Android,Paid Social,Casual,0.339,5,1,0,Free,0.0
+U01872,2025-09-08,UK,Android,Influencer,Regular,0.659,13,1,0,Free,0.0
+U01873,2025-11-20,US,Android,Paid Search,Casual,0.311,11,1,0,Free,0.0
+U01874,2026-01-21,DE,iOS,Influencer,Regular,0.629,12,1,0,Free,0.0
+U01875,2025-10-15,US,iOS,Paid Search,Casual,0.323,9,0,0,Free,0.0
+U01876,2025-08-23,IN,iOS,Organic Search,Casual,0.283,7,0,0,Free,0.0
+U01877,2025-09-12,UK,iOS,Organic Search,Casual,0.27,6,1,1,Monthly,7.99
+U01878,2026-01-12,UK,iOS,App Store Browse,Regular,0.582,12,1,0,Free,0.0
+U01879,2025-12-12,UK,Android,Paid Social,Casual,0.294,16,1,0,Free,0.0
+U01880,2025-08-19,AU,Android,Paid Social,Casual,0.206,6,1,0,Free,0.0
+U01881,2025-10-10,CA,Android,Paid Social,Regular,0.594,6,0,0,Free,0.0
+U01882,2025-09-18,US,iOS,Paid Social,Casual,0.338,13,1,0,Free,0.0
+U01883,2025-09-02,US,iOS,App Store Browse,Casual,0.238,7,1,0,Free,0.0
+U01884,2026-01-03,CA,Android,Organic Search,Regular,0.531,15,1,0,Free,0.0
+U01885,2025-11-22,US,iOS,Organic Search,Regular,0.579,13,1,1,Monthly,9.99
+U01886,2025-09-03,US,Android,Referral,Regular,0.511,17,1,0,Free,0.0
+U01887,2025-11-28,US,iOS,Paid Search,Casual,0.171,5,1,0,Free,0.0
+U01888,2025-10-16,US,Android,Organic Search,Casual,0.319,14,1,0,Free,0.0
+U01889,2025-08-12,US,Android,Organic Search,Regular,0.523,5,0,1,Monthly,7.99
+U01890,2025-10-22,CA,Android,Organic Search,Casual,0.251,6,1,1,Monthly,7.99
+U01891,2025-09-04,IN,Android,Organic Search,Regular,0.513,11,1,0,Free,0.0
+U01892,2025-09-15,IN,Android,Organic Search,Casual,0.327,16,1,0,Free,0.0
+U01893,2026-01-09,US,iOS,Organic Search,Regular,0.601,20,1,0,Free,0.0
+U01894,2025-12-09,US,Android,Referral,Regular,0.536,11,1,0,Free,0.0
+U01895,2025-08-25,CA,Android,Influencer,Casual,0.179,6,0,1,Monthly,9.99
+U01896,2026-01-04,US,Web,Influencer,Casual,0.229,7,1,1,Monthly,9.99
+U01897,2025-11-14,UK,iOS,Paid Social,Casual,0.284,7,1,1,Monthly,7.99
+U01898,2026-01-08,US,iOS,Paid Social,Casual,0.261,11,1,0,Free,0.0
+U01899,2025-12-16,DE,Android,App Store Browse,Regular,0.557,13,1,1,Monthly,9.99
+U01900,2025-10-02,US,Android,Referral,Casual,0.263,10,1,0,Free,0.0
+U01901,2025-11-07,IN,iOS,Paid Search,Casual,0.296,7,1,1,Monthly,7.99
+U01902,2025-11-06,CA,iOS,Organic Search,Casual,0.247,5,1,0,Free,0.0
+U01903,2025-12-11,US,iOS,Paid Social,Regular,0.577,15,1,1,Monthly,12.99
+U01904,2025-09-15,IN,iOS,Paid Search,Casual,0.191,7,1,0,Free,0.0
+U01905,2025-10-01,US,iOS,Paid Search,Casual,0.403,11,1,0,Free,0.0
+U01906,2025-09-15,IN,iOS,Organic Search,Power,0.783,11,1,0,Free,0.0
+U01907,2025-09-24,CA,iOS,App Store Browse,Casual,0.262,11,1,1,Monthly,9.99
+U01908,2025-08-30,US,Web,Paid Search,Casual,0.284,12,1,0,Free,0.0
+U01909,2025-08-07,US,iOS,Paid Search,Power,0.775,13,1,1,Monthly,9.99
+U01910,2026-01-20,IN,iOS,Organic Search,Casual,0.25,7,0,0,Free,0.0
+U01911,2025-08-14,US,iOS,Referral,Power,0.8,13,1,0,Free,0.0
+U01912,2026-01-11,AU,iOS,Referral,Regular,0.495,11,1,0,Free,0.0
+U01913,2025-08-01,IN,Web,Organic Search,Regular,0.576,17,1,0,Free,0.0
+U01914,2025-12-22,UK,Web,Paid Search,Casual,0.151,5,1,0,Free,0.0
+U01915,2025-09-30,US,iOS,Paid Search,Casual,0.355,8,1,0,Free,0.0
+U01916,2025-11-04,UK,iOS,Influencer,Casual,0.298,9,1,1,Monthly,7.99
+U01917,2025-09-21,DE,iOS,Organic Search,Casual,0.288,10,1,0,Free,0.0
+U01918,2025-10-30,US,iOS,Influencer,Casual,0.146,11,1,0,Free,0.0
+U01919,2025-10-23,US,iOS,Paid Social,Casual,0.202,12,1,0,Free,0.0
+U01920,2025-11-06,US,iOS,Organic Search,Regular,0.633,11,1,1,Monthly,7.99
+U01921,2025-10-12,US,iOS,Organic Search,Casual,0.499,12,1,0,Free,0.0
+U01922,2025-11-07,IN,Android,Organic Search,Regular,0.622,16,1,0,Free,0.0
+U01923,2025-12-30,US,iOS,Paid Social,Power,0.862,17,1,1,Annual,59.99
+U01924,2025-10-19,CA,iOS,Paid Social,Regular,0.581,12,1,0,Free,0.0
+U01925,2025-10-06,US,Android,Referral,Regular,0.499,10,1,0,Free,0.0
+U01926,2025-08-25,US,iOS,Organic Search,Regular,0.61,9,1,0,Free,0.0
+U01927,2025-10-06,US,iOS,App Store Browse,Casual,0.184,8,1,1,Monthly,7.99
+U01928,2025-08-24,AU,iOS,Organic Search,Casual,0.177,6,1,0,Free,0.0
+U01929,2025-09-03,CA,iOS,Paid Search,Power,0.724,24,1,0,Free,0.0
+U01930,2026-01-23,US,iOS,App Store Browse,Regular,0.609,13,1,1,Monthly,12.99
+U01931,2025-08-17,IN,Android,Influencer,Regular,0.547,15,1,1,Monthly,12.99
+U01932,2025-10-28,US,Web,Paid Search,Power,0.806,9,1,1,Annual,99.99
+U01933,2026-01-01,US,iOS,Referral,Casual,0.249,11,1,0,Free,0.0
+U01934,2026-01-23,US,iOS,Organic Search,Casual,0.182,10,1,0,Free,0.0
+U01935,2025-08-27,DE,Android,Organic Search,Regular,0.51,18,1,0,Free,0.0
+U01936,2025-08-31,UK,Android,Paid Social,Casual,0.213,7,1,0,Free,0.0
+U01937,2025-10-08,CA,iOS,Organic Search,Casual,0.166,8,1,0,Free,0.0
+U01938,2025-11-11,US,iOS,Paid Social,Regular,0.52,8,1,0,Free,0.0
+U01939,2026-01-24,US,iOS,Organic Search,Casual,0.185,6,0,0,Free,0.0
+U01940,2025-09-08,UK,Android,App Store Browse,Casual,0.285,5,1,0,Free,0.0
+U01941,2025-08-31,US,iOS,Influencer,Regular,0.59,18,1,0,Free,0.0
+U01942,2025-09-16,AU,iOS,Influencer,Casual,0.172,8,1,0,Free,0.0
+U01943,2026-01-08,IN,iOS,Referral,Regular,0.532,15,1,0,Free,0.0
+U01944,2025-08-06,US,iOS,Organic Search,Casual,0.361,11,1,1,Monthly,7.99
+U01945,2025-10-09,IN,iOS,Organic Search,Regular,0.491,21,1,0,Free,0.0
+U01946,2025-08-22,DE,Android,Paid Search,Casual,0.276,8,1,0,Free,0.0
+U01947,2025-08-29,US,Android,Paid Search,Casual,0.256,6,0,1,Monthly,12.99
+U01948,2026-01-16,UK,iOS,Paid Social,Casual,0.316,7,1,1,Monthly,7.99
+U01949,2025-08-01,AU,iOS,Paid Social,Casual,0.268,13,1,0,Free,0.0
+U01950,2025-09-29,US,Android,Paid Social,Casual,0.224,8,1,0,Free,0.0
+U01951,2026-01-16,AU,iOS,Organic Search,Regular,0.554,12,1,0,Free,0.0
+U01952,2025-11-20,US,iOS,Paid Social,Regular,0.555,16,1,0,Free,0.0
+U01953,2025-08-14,UK,iOS,Paid Social,Casual,0.244,5,1,0,Free,0.0
+U01954,2025-10-25,IN,Android,Paid Search,Regular,0.471,13,1,0,Free,0.0
+U01955,2026-01-26,CA,Android,App Store Browse,Regular,0.625,18,1,0,Free,0.0
+U01956,2025-10-13,US,Android,Paid Search,Regular,0.614,15,1,0,Free,0.0
+U01957,2025-11-06,CA,Android,Referral,Casual,0.187,7,1,0,Free,0.0
+U01958,2025-11-06,US,iOS,Influencer,Casual,0.232,7,0,0,Free,0.0
+U01959,2025-11-30,US,iOS,Organic Search,Power,0.786,18,1,0,Free,0.0
+U01960,2025-09-04,US,iOS,Paid Search,Casual,0.181,10,1,0,Free,0.0
+U01961,2026-01-02,CA,Android,Paid Social,Casual,0.138,5,0,0,Free,0.0
+U01962,2026-01-29,US,Android,Paid Search,Regular,0.51,24,1,1,Monthly,9.99
+U01963,2025-08-27,US,iOS,Organic Search,Casual,0.229,7,0,0,Free,0.0
+U01964,2025-12-29,AU,Android,App Store Browse,Regular,0.464,17,1,0,Free,0.0
+U01965,2025-12-29,US,iOS,App Store Browse,Casual,0.261,10,1,1,Monthly,9.99
+U01966,2025-12-15,US,iOS,Organic Search,Regular,0.62,11,1,0,Free,0.0
+U01967,2025-10-08,US,iOS,Organic Search,Power,0.851,13,1,1,Annual,59.99
+U01968,2025-10-26,US,Android,Organic Search,Power,0.792,19,1,1,Annual,59.99
+U01969,2026-01-02,IN,Web,Referral,Power,0.69,15,1,0,Free,0.0
+U01970,2025-08-29,US,Android,Paid Search,Regular,0.593,14,1,1,Monthly,9.99
+U01971,2025-12-31,US,Web,Organic Search,Casual,0.259,7,1,0,Free,0.0
+U01972,2026-01-17,DE,Android,Influencer,Power,0.825,13,1,0,Free,0.0
+U01973,2025-12-04,IN,Android,Paid Social,Power,0.916,16,1,1,Monthly,9.99
+U01974,2025-10-02,UK,Android,Paid Social,Casual,0.201,3,1,0,Free,0.0
+U01975,2025-11-11,AU,iOS,Paid Social,Casual,0.078,4,0,0,Free,0.0
+U01976,2025-08-10,AU,Android,Paid Search,Casual,0.187,6,1,0,Free,0.0
+U01977,2026-01-19,US,Android,Paid Social,Casual,0.279,8,1,0,Free,0.0
+U01978,2025-10-03,CA,Android,Organic Search,Regular,0.552,12,1,0,Free,0.0
+U01979,2025-08-11,CA,iOS,Paid Social,Casual,0.177,8,1,1,Monthly,12.99
+U01980,2025-12-25,US,Android,App Store Browse,Casual,0.165,6,1,1,Monthly,9.99
+U01981,2025-11-29,US,Web,Paid Search,Casual,0.229,11,1,0,Free,0.0
+U01982,2025-11-23,US,iOS,App Store Browse,Casual,0.175,4,1,0,Free,0.0
+U01983,2025-08-10,UK,Web,Paid Search,Power,0.831,21,1,0,Free,0.0
+U01984,2025-12-17,IN,iOS,Referral,Casual,0.225,3,0,0,Free,0.0
+U01985,2025-11-26,IN,iOS,Paid Social,Casual,0.212,6,1,1,Monthly,7.99
+U01986,2025-12-25,US,iOS,Referral,Casual,0.205,8,1,0,Free,0.0
+U01987,2025-12-31,US,Android,Organic Search,Regular,0.566,19,1,0,Free,0.0
+U01988,2025-09-08,US,Android,Organic Search,Regular,0.553,15,1,0,Free,0.0
+U01989,2025-09-08,US,iOS,Organic Search,Casual,0.262,10,1,0,Free,0.0
+U01990,2026-01-17,AU,Android,Organic Search,Casual,0.261,8,1,1,Monthly,7.99
+U01991,2025-11-06,AU,iOS,App Store Browse,Casual,0.246,9,1,0,Free,0.0
+U01992,2025-10-20,AU,iOS,App Store Browse,Casual,0.188,7,0,0,Free,0.0
+U01993,2025-09-22,AU,Android,Referral,Regular,0.506,17,1,0,Free,0.0
+U01994,2025-11-26,DE,Android,Organic Search,Casual,0.226,11,1,0,Free,0.0
+U01995,2025-12-17,US,Android,Influencer,Casual,0.374,12,1,0,Free,0.0
+U01996,2025-08-01,US,Android,Referral,Casual,0.169,9,1,0,Free,0.0
+U01997,2025-11-10,US,Web,Paid Social,Casual,0.225,4,1,0,Free,0.0
+U01998,2026-01-30,US,iOS,Paid Search,Casual,0.256,11,1,0,Free,0.0
+U01999,2025-09-21,US,iOS,Paid Search,Casual,0.232,6,1,0,Free,0.0
+U02000,2025-09-21,US,iOS,Organic Search,Casual,0.314,5,1,0,Free,0.0
+U02001,2026-01-09,DE,Android,Paid Search,Casual,0.231,11,1,0,Free,0.0
+U02002,2025-08-12,US,Android,Referral,Casual,0.236,7,0,1,Monthly,12.99
+U02003,2025-10-13,DE,Android,Organic Search,Power,0.849,9,1,1,Monthly,9.99
+U02004,2025-10-24,IN,iOS,Paid Social,Casual,0.359,12,1,1,Monthly,9.99
+U02005,2025-12-25,UK,iOS,Paid Search,Casual,0.334,10,1,1,Monthly,12.99
+U02006,2025-08-24,UK,Android,Referral,Casual,0.242,11,1,0,Free,0.0
+U02007,2025-10-19,US,Web,App Store Browse,Regular,0.547,13,1,0,Free,0.0
+U02008,2025-08-29,UK,iOS,Influencer,Power,0.803,14,1,0,Free,0.0
+U02009,2025-12-23,US,iOS,Paid Search,Regular,0.559,13,1,0,Free,0.0
+U02010,2025-11-25,DE,iOS,Paid Search,Casual,0.199,9,1,0,Free,0.0
+U02011,2025-10-31,US,iOS,Paid Search,Regular,0.606,15,1,0,Free,0.0
+U02012,2025-10-12,US,iOS,Paid Search,Casual,0.262,11,1,0,Free,0.0
+U02013,2025-08-29,UK,iOS,Organic Search,Regular,0.547,11,1,0,Free,0.0
+U02014,2026-01-17,UK,Android,Referral,Regular,0.474,18,1,0,Free,0.0
+U02015,2025-11-28,US,iOS,Referral,Casual,0.254,4,1,0,Free,0.0
+U02016,2025-09-28,UK,iOS,Paid Search,Casual,0.136,9,1,0,Free,0.0
+U02017,2025-10-16,US,iOS,Influencer,Casual,0.215,13,0,0,Free,0.0
+U02018,2025-12-12,UK,Web,Paid Search,Casual,0.216,11,1,0,Free,0.0
+U02019,2025-12-11,US,iOS,Paid Social,Regular,0.567,14,1,0,Free,0.0
+U02020,2025-10-24,US,iOS,Organic Search,Casual,0.363,9,1,0,Free,0.0
+U02021,2025-09-25,US,iOS,Organic Search,Regular,0.584,9,1,0,Free,0.0
+U02022,2025-11-30,US,Android,Paid Social,Power,0.887,19,1,0,Free,0.0
+U02023,2025-11-30,US,Android,Paid Social,Casual,0.289,15,1,0,Free,0.0
+U02024,2025-11-19,US,iOS,Organic Search,Casual,0.318,11,1,1,Monthly,12.99
+U02025,2025-08-14,US,iOS,Organic Search,Casual,0.361,12,1,0,Free,0.0
+U02026,2025-10-26,US,iOS,Organic Search,Regular,0.506,17,1,0,Free,0.0
+U02027,2025-11-21,US,Android,Referral,Casual,0.202,9,1,0,Free,0.0
+U02028,2026-01-22,US,Web,Referral,Casual,0.29,7,1,1,Monthly,9.99
+U02029,2025-11-05,UK,iOS,Paid Social,Casual,0.25,8,1,0,Free,0.0
+U02030,2025-10-03,DE,iOS,Organic Search,Power,0.813,12,1,0,Free,0.0
+U02031,2025-11-11,US,Android,Organic Search,Casual,0.235,11,1,1,Monthly,7.99
+U02032,2025-09-02,AU,Android,Organic Search,Casual,0.214,8,1,0,Free,0.0
+U02033,2025-08-17,US,iOS,Paid Social,Power,0.897,11,1,0,Free,0.0
+U02034,2025-12-03,US,iOS,Organic Search,Casual,0.184,5,1,0,Free,0.0
+U02035,2026-01-29,UK,iOS,Paid Social,Casual,0.291,9,1,0,Free,0.0
+U02036,2026-01-03,IN,Android,App Store Browse,Casual,0.281,6,1,0,Free,0.0
+U02037,2025-11-16,IN,Android,Paid Search,Casual,0.155,2,1,0,Free,0.0
+U02038,2025-08-08,US,Android,Influencer,Casual,0.2,9,1,0,Free,0.0
+U02039,2026-01-29,IN,Android,Organic Search,Regular,0.51,17,1,1,Monthly,7.99
+U02040,2025-10-22,US,iOS,Organic Search,Regular,0.584,14,1,0,Free,0.0
+U02041,2025-09-23,US,iOS,App Store Browse,Casual,0.228,4,0,0,Free,0.0
+U02042,2026-01-12,US,iOS,Paid Social,Casual,0.245,7,1,0,Free,0.0
+U02043,2025-12-16,DE,Android,Paid Search,Casual,0.163,7,1,1,Monthly,7.99
+U02044,2025-12-16,US,Android,App Store Browse,Regular,0.69,24,1,1,Monthly,7.99
+U02045,2025-09-21,IN,iOS,Paid Search,Regular,0.554,13,1,0,Free,0.0
+U02046,2026-01-30,UK,iOS,Paid Social,Regular,0.58,24,1,1,Monthly,12.99
+U02047,2025-10-23,IN,Android,Paid Search,Regular,0.518,9,1,0,Free,0.0
+U02048,2025-11-06,UK,Android,Organic Search,Regular,0.511,11,1,1,Monthly,7.99
+U02049,2025-12-17,AU,Android,Organic Search,Regular,0.665,12,1,1,Monthly,7.99
+U02050,2025-11-30,US,iOS,Organic Search,Casual,0.135,8,1,0,Free,0.0
+U02051,2025-09-01,US,Web,Influencer,Power,0.817,13,1,1,Monthly,7.99
+U02052,2025-09-25,CA,Android,Paid Search,Regular,0.477,15,1,0,Free,0.0
+U02053,2025-10-06,US,Android,Paid Social,Casual,0.226,10,1,0,Free,0.0
+U02054,2026-01-22,US,Android,Organic Search,Casual,0.212,6,1,0,Free,0.0
+U02055,2025-12-10,US,Web,Referral,Casual,0.191,6,1,1,Monthly,9.99
+U02056,2025-10-07,US,Web,App Store Browse,Casual,0.252,12,1,0,Free,0.0
+U02057,2025-12-14,US,Android,Paid Social,Regular,0.396,8,0,0,Free,0.0
+U02058,2025-12-14,US,iOS,Paid Social,Casual,0.231,11,1,0,Free,0.0
+U02059,2025-10-12,AU,iOS,Influencer,Casual,0.245,8,1,0,Free,0.0
+U02060,2025-10-14,US,Android,Influencer,Casual,0.168,8,1,0,Free,0.0
+U02061,2026-01-12,DE,Android,App Store Browse,Regular,0.641,10,1,0,Free,0.0
+U02062,2025-11-12,DE,iOS,Paid Social,Casual,0.214,3,1,0,Free,0.0
+U02063,2025-08-28,US,iOS,Organic Search,Regular,0.536,14,0,0,Free,0.0
+U02064,2025-12-11,UK,Web,Paid Social,Casual,0.214,6,1,0,Free,0.0
+U02065,2025-11-17,CA,Android,Paid Social,Casual,0.245,10,1,0,Free,0.0
+U02066,2025-11-02,UK,Web,Influencer,Casual,0.328,4,0,0,Free,0.0
+U02067,2025-12-12,US,iOS,Organic Search,Casual,0.398,6,1,1,Monthly,7.99
+U02068,2026-01-14,US,Android,Paid Search,Regular,0.595,18,1,0,Free,0.0
+U02069,2025-09-30,US,Android,App Store Browse,Regular,0.615,19,1,1,Monthly,9.99
+U02070,2025-10-17,CA,iOS,App Store Browse,Casual,0.353,4,0,0,Free,0.0
+U02071,2025-09-04,DE,iOS,Paid Search,Casual,0.265,8,1,0,Free,0.0
+U02072,2025-11-28,UK,Web,App Store Browse,Regular,0.644,12,1,0,Free,0.0
+U02073,2025-10-14,UK,iOS,Organic Search,Regular,0.598,9,1,0,Free,0.0
+U02074,2025-10-02,DE,Android,Paid Social,Casual,0.259,11,1,0,Free,0.0
+U02075,2025-12-07,UK,Android,Organic Search,Regular,0.571,12,1,1,Monthly,9.99
+U02076,2025-10-15,US,Android,App Store Browse,Casual,0.141,4,1,0,Free,0.0
+U02077,2025-10-25,AU,iOS,App Store Browse,Casual,0.268,6,1,1,Monthly,7.99
+U02078,2025-10-20,US,Android,Organic Search,Regular,0.457,12,1,1,Monthly,12.99
+U02079,2025-09-17,US,iOS,Organic Search,Regular,0.452,19,1,0,Free,0.0
+U02080,2025-08-24,US,Android,Paid Social,Regular,0.562,14,1,0,Free,0.0
+U02081,2025-12-31,DE,iOS,Organic Search,Casual,0.183,6,1,0,Free,0.0
+U02082,2025-08-17,US,Android,Influencer,Casual,0.25,8,1,0,Free,0.0
+U02083,2025-09-29,US,Android,Organic Search,Regular,0.558,16,1,0,Free,0.0
+U02084,2025-12-01,US,iOS,Referral,Casual,0.261,12,1,0,Free,0.0
+U02085,2025-08-25,US,iOS,Paid Search,Casual,0.196,8,1,0,Free,0.0
+U02086,2025-11-29,US,Android,Paid Social,Regular,0.604,17,1,1,Monthly,7.99
+U02087,2025-12-13,UK,iOS,Organic Search,Casual,0.245,9,1,0,Free,0.0
+U02088,2025-11-30,AU,iOS,App Store Browse,Casual,0.276,12,1,0,Free,0.0
+U02089,2025-09-26,US,iOS,Paid Search,Casual,0.178,4,0,0,Free,0.0
+U02090,2025-08-04,US,Web,Paid Social,Regular,0.539,13,1,0,Free,0.0
+U02091,2026-01-11,US,Android,Paid Social,Casual,0.316,12,1,0,Free,0.0
+U02092,2025-09-30,US,iOS,App Store Browse,Casual,0.308,16,1,0,Free,0.0
+U02093,2025-12-27,CA,Web,Influencer,Casual,0.202,11,1,0,Free,0.0
+U02094,2025-09-06,UK,iOS,Influencer,Casual,0.217,11,1,0,Free,0.0
+U02095,2025-08-30,UK,iOS,Paid Search,Casual,0.191,7,1,1,Monthly,12.99
+U02096,2025-12-22,US,iOS,Influencer,Casual,0.211,11,1,1,Monthly,9.99
+U02097,2026-01-20,CA,iOS,Paid Social,Casual,0.166,8,1,0,Free,0.0
+U02098,2026-01-06,US,iOS,Referral,Casual,0.242,5,1,0,Free,0.0
+U02099,2025-12-17,US,Android,Paid Social,Casual,0.288,7,1,0,Free,0.0
+U02100,2025-09-15,DE,iOS,Paid Search,Casual,0.203,8,1,0,Free,0.0
+U02101,2026-01-16,IN,Android,App Store Browse,Casual,0.245,9,1,0,Free,0.0
+U02102,2025-12-01,AU,iOS,App Store Browse,Casual,0.237,7,1,1,Monthly,7.99
+U02103,2025-09-01,AU,iOS,Paid Search,Regular,0.613,10,1,0,Free,0.0
+U02104,2025-08-24,UK,iOS,Paid Search,Regular,0.513,15,1,1,Monthly,7.99
+U02105,2026-01-08,AU,Android,Influencer,Casual,0.215,6,0,0,Free,0.0
+U02106,2025-09-20,US,Android,App Store Browse,Regular,0.499,18,1,0,Free,0.0
+U02107,2025-12-19,US,iOS,Referral,Regular,0.482,16,1,0,Free,0.0
+U02108,2025-08-26,US,iOS,Organic Search,Casual,0.282,7,0,0,Free,0.0
+U02109,2025-09-21,US,iOS,Paid Social,Casual,0.242,10,1,0,Free,0.0
+U02110,2025-09-22,US,Android,Influencer,Regular,0.553,13,1,0,Free,0.0
+U02111,2025-09-21,US,iOS,Referral,Casual,0.326,3,0,0,Free,0.0
+U02112,2025-12-03,UK,Android,Referral,Casual,0.33,10,1,0,Free,0.0
+U02113,2026-01-16,IN,iOS,Paid Search,Regular,0.451,13,1,1,Monthly,12.99
+U02114,2026-01-15,CA,iOS,Paid Social,Casual,0.289,13,1,0,Free,0.0
+U02115,2025-12-15,US,Android,Paid Social,Power,0.814,13,1,0,Free,0.0
+U02116,2025-09-07,IN,iOS,Influencer,Casual,0.222,9,1,1,Monthly,9.99
+U02117,2026-01-24,US,iOS,Paid Social,Casual,0.27,6,0,0,Free,0.0
+U02118,2025-11-08,US,Web,Referral,Casual,0.146,6,1,1,Monthly,12.99
+U02119,2025-11-09,US,iOS,Referral,Casual,0.338,7,1,0,Free,0.0
+U02120,2025-12-08,US,iOS,Influencer,Regular,0.581,8,1,0,Free,0.0
+U02121,2025-12-20,US,iOS,Paid Social,Regular,0.498,10,1,0,Free,0.0
+U02122,2026-01-23,IN,Android,Referral,Regular,0.515,15,1,0,Free,0.0
+U02123,2025-11-16,IN,Android,Organic Search,Casual,0.148,10,1,1,Monthly,7.99
+U02124,2025-11-21,UK,iOS,Organic Search,Casual,0.231,5,1,0,Free,0.0
+U02125,2025-12-16,US,Web,Paid Social,Casual,0.221,7,1,1,Monthly,9.99
+U02126,2025-09-16,IN,Android,Organic Search,Casual,0.17,8,1,0,Free,0.0
+U02127,2025-09-26,UK,Web,App Store Browse,Regular,0.597,13,1,0,Free,0.0
+U02128,2025-11-24,US,Android,App Store Browse,Casual,0.327,9,1,0,Free,0.0
+U02129,2025-08-12,UK,Web,Organic Search,Casual,0.248,8,1,1,Monthly,9.99
+U02130,2025-09-28,US,Android,Influencer,Casual,0.232,7,1,0,Free,0.0
+U02131,2025-12-11,US,iOS,Paid Search,Regular,0.576,11,1,0,Free,0.0
+U02132,2026-01-27,US,iOS,Referral,Casual,0.249,10,1,0,Free,0.0
+U02133,2025-11-04,US,Android,Influencer,Regular,0.485,13,1,0,Free,0.0
+U02134,2025-10-13,US,iOS,Paid Search,Regular,0.511,10,1,0,Free,0.0
+U02135,2025-10-21,US,Android,Organic Search,Regular,0.532,12,1,0,Free,0.0
+U02136,2025-12-05,US,iOS,Organic Search,Casual,0.265,6,1,0,Free,0.0
+U02137,2025-11-09,DE,Android,Paid Social,Casual,0.251,5,1,0,Free,0.0
+U02138,2025-08-05,US,iOS,App Store Browse,Casual,0.263,12,1,0,Free,0.0
+U02139,2025-11-08,US,Web,Paid Search,Regular,0.459,8,1,1,Monthly,7.99
+U02140,2025-10-13,US,iOS,Paid Social,Power,0.84,15,1,1,Annual,79.99
+U02141,2025-12-07,AU,iOS,Organic Search,Casual,0.25,11,1,0,Free,0.0
+U02142,2026-01-09,CA,Android,App Store Browse,Casual,0.403,8,1,0,Free,0.0
+U02143,2026-01-25,AU,Android,Paid Social,Casual,0.227,4,1,1,Monthly,12.99
+U02144,2025-11-21,US,Android,Referral,Regular,0.569,8,1,0,Free,0.0
+U02145,2025-10-06,US,Web,Referral,Casual,0.42,21,1,0,Free,0.0
+U02146,2025-10-21,CA,iOS,Organic Search,Casual,0.262,11,1,0,Free,0.0
+U02147,2025-09-02,US,Android,Organic Search,Regular,0.546,13,1,0,Free,0.0
+U02148,2026-01-20,IN,iOS,Paid Social,Casual,0.191,4,1,0,Free,0.0
+U02149,2026-01-03,AU,Android,Paid Social,Casual,0.342,8,1,0,Free,0.0
+U02150,2026-01-05,US,iOS,Referral,Casual,0.18,12,1,0,Free,0.0
+U02151,2025-09-30,DE,iOS,Influencer,Casual,0.276,7,1,0,Free,0.0
+U02152,2025-09-29,CA,Android,Organic Search,Regular,0.522,13,1,1,Monthly,9.99
+U02153,2026-01-05,US,Android,Paid Search,Casual,0.239,5,1,0,Free,0.0
+U02154,2025-11-09,US,iOS,Organic Search,Casual,0.165,6,1,0,Free,0.0
+U02155,2025-12-08,US,Web,Organic Search,Casual,0.331,11,1,0,Free,0.0
+U02156,2025-10-30,IN,Android,Referral,Casual,0.233,5,0,0,Free,0.0
+U02157,2025-10-21,US,iOS,Referral,Regular,0.477,14,1,0,Free,0.0
+U02158,2025-11-25,US,Android,Referral,Casual,0.325,10,1,0,Free,0.0
+U02159,2025-12-28,CA,iOS,Organic Search,Casual,0.22,9,1,1,Monthly,12.99
+U02160,2025-10-01,US,iOS,Paid Search,Casual,0.27,4,1,0,Free,0.0
+U02161,2025-12-27,US,Android,Paid Social,Casual,0.3,14,1,0,Free,0.0
+U02162,2025-09-14,UK,iOS,App Store Browse,Casual,0.278,13,1,1,Monthly,12.99
+U02163,2025-10-14,US,iOS,Paid Search,Casual,0.118,7,0,0,Free,0.0
+U02164,2026-01-15,US,Android,App Store Browse,Power,0.842,15,1,1,Monthly,7.99
+U02165,2026-01-23,US,iOS,Organic Search,Casual,0.244,7,1,0,Free,0.0
+U02166,2026-01-17,US,Android,Paid Social,Casual,0.23,7,0,0,Free,0.0
+U02167,2025-09-28,US,Android,Referral,Casual,0.243,13,1,0,Free,0.0
+U02168,2026-01-03,IN,iOS,Paid Social,Regular,0.453,9,1,0,Free,0.0
+U02169,2026-01-20,DE,Android,Paid Search,Casual,0.262,6,0,0,Free,0.0
+U02170,2026-01-27,US,iOS,Paid Search,Power,0.718,18,1,0,Free,0.0
+U02171,2025-08-04,DE,Android,App Store Browse,Casual,0.233,12,1,0,Free,0.0
+U02172,2025-12-16,CA,iOS,Organic Search,Regular,0.559,22,1,0,Free,0.0
+U02173,2026-01-31,UK,Web,App Store Browse,Regular,0.614,13,1,0,Free,0.0
+U02174,2025-12-19,UK,iOS,Paid Social,Casual,0.201,9,1,0,Free,0.0
+U02175,2025-09-12,UK,Android,Paid Social,Casual,0.337,16,1,0,Free,0.0
+U02176,2025-12-19,IN,iOS,Paid Search,Casual,0.307,11,1,0,Free,0.0
+U02177,2025-08-20,US,iOS,Organic Search,Regular,0.524,16,1,0,Free,0.0
+U02178,2025-10-28,US,iOS,App Store Browse,Regular,0.483,10,1,0,Free,0.0
+U02179,2025-11-24,US,Android,App Store Browse,Casual,0.163,6,1,1,Monthly,7.99
+U02180,2025-10-23,US,Web,App Store Browse,Casual,0.266,7,1,0,Free,0.0
+U02181,2025-12-07,UK,iOS,App Store Browse,Casual,0.206,7,1,0,Free,0.0
+U02182,2025-09-14,US,iOS,Paid Search,Casual,0.322,9,1,1,Monthly,7.99
+U02183,2025-11-20,US,iOS,Paid Social,Regular,0.509,12,1,0,Free,0.0
+U02184,2025-11-27,US,iOS,Influencer,Casual,0.196,5,1,0,Free,0.0
+U02185,2025-11-25,US,Android,Organic Search,Casual,0.264,6,1,0,Free,0.0
+U02186,2025-09-23,UK,Web,Influencer,Regular,0.509,13,1,0,Free,0.0
+U02187,2025-09-26,CA,Android,Paid Social,Regular,0.551,9,1,1,Monthly,7.99
+U02188,2025-09-17,US,iOS,Paid Search,Regular,0.609,12,1,0,Free,0.0
+U02189,2025-10-24,US,iOS,Paid Social,Casual,0.257,8,1,0,Free,0.0
+U02190,2025-11-16,US,Android,Paid Social,Regular,0.557,13,1,0,Free,0.0
+U02191,2025-10-06,US,iOS,Organic Search,Casual,0.262,8,0,0,Free,0.0
+U02192,2025-10-15,UK,Android,Paid Social,Casual,0.148,7,1,0,Free,0.0
+U02193,2025-09-22,CA,iOS,Paid Social,Casual,0.274,10,1,0,Free,0.0
+U02194,2025-09-10,US,iOS,Organic Search,Regular,0.56,13,1,0,Free,0.0
+U02195,2025-11-29,US,Android,Organic Search,Casual,0.304,11,1,1,Monthly,9.99
+U02196,2025-12-29,DE,iOS,Paid Search,Regular,0.586,13,1,0,Free,0.0
+U02197,2025-09-23,IN,Web,Paid Social,Regular,0.538,7,1,0,Free,0.0
+U02198,2026-01-06,US,iOS,Influencer,Regular,0.612,15,1,0,Free,0.0
+U02199,2025-11-14,US,iOS,Organic Search,Regular,0.532,19,1,0,Free,0.0
+U02200,2025-08-31,US,iOS,Paid Search,Power,0.815,11,1,0,Free,0.0
